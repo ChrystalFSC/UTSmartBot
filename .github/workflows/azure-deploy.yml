@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Login to Azure CLI
-        uses: azure/login@v1
+        uses: azure/login@v1.3  # Update to the latest version
         with:
           creds: ${{ secrets.AZURE_CLIENT_ID }} ${{ secrets.AZURE_CLIENT_SECRET }} ${{ secrets.AZURE_TENANT_ID }}
 
