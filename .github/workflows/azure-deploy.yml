@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.12.3'  # Adjust the version as needed
+          python-version: '3.12'  # Adjust the version as needed
 
       - name: Install dependencies
         run: |
@@ -30,7 +30,7 @@ jobs:
 
       - name: Deploy to Azure Web App
         run: |
-          az webapp up --name UTSmartBot --resource-group UTS --runtime "PYTHON:3.12.3"
+          az webapp up --name UTSmartBot --resource-group UTS --runtime "PYTHON:3.12"
         env:
           AZURE_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
           AZURE_RESOURCE_GROUP: ${{ secrets.AZURE_RESOURCE_GROUP }}
