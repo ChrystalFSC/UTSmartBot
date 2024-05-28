@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTSmartBot</title>
+    <link rel="stylesheet" href="website.css">
+    <!-- Include Font Awesome CSS for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        /* Sidebar styles */
+        .sidebar {
+            position: fixed;
+            left: 0; /* Visible by default */
+            top: 0;
+            width: 250px;
+            height: 100%;
+            background-color: #f0f0f0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        /* Style for individual messages */
+        .message-box {
+            font-size: 18px; /* Font size for message text */
+            color: #333; /* Text color */
+            margin-bottom: 15px; /* Bottom margin */
+            font-family: 'Roboto Slab', serif; /* Font family for messages */
+            background-color: #FFFFFF; /* Background color for message box */
+            padding: 10px; /* Padding inside the message box */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+            max-width: 100%; /* Max width for message boxes */
+            word-wrap: break-word; /* Ensure long words break into the next line */
+            align-self: flex-start; /* Align messages to the left */
+            display: inline-block; /* Inline block to allow auto-sizing */
+        }
+
+        /* Style for sender's name */
+        .message-box strong {
+            display: block; /* Block display to separate from message text */
+            color: #312F82; /* Color for sender's name */
+            font-size: 14px; /* Smaller font size for sender's name */
+            margin-bottom: 5px; /* Bottom margin */
+        }
+
+        /* Style for the chat box */
+        .chat-box {
+            width: 100%; /* Width of the chat box */
+            flex-grow: 1; /* Allow the chat box to grow */
+            overflow-y: auto; /* Enable vertical scrolling */
+            padding: 10px; /* Padding inside the chat box */
+            background-color: #C6D6FF; /* Background color */
+            border-radius: 10px; /* Rounded corners */
+            margin-bottom: 10px; /* Bottom margin */
+            display: flex; /* Use flexbox */
+            flex-direction: column; /* Arrange items vertically */
+            align-items: flex-end; /* Align items to the bottom */
+        }
+
+        /* Style for the input container */
+        .input-container {
+            display: flex; /* Flexbox for input and button */
+            width: 100%; /* Full width */
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        /* Style for the input field */
+        #user-input {
+            flex-grow: 1; /* Allow input field to grow */
+            padding: 10px; /* Padding inside the input field */
+            border: 1px solid #ccc; /* Border color and width */
+            border-radius: 10px; /* Rounded corners */
+            margin-right: 5px; /* Right margin */
+            outline: none; /* Remove default outline */
+            font-size: 16px; /* Font size for input text */
+            height: 50px; /* Height of the input field */
+        }
+
+        /* Style for the send button */
+        #send-btn {
+            font-size: medium; /* Font size */
+            width: 50px; /* Width of the button */
+            height: 50px; /* Height of the button */
+            padding: 10px; /* Padding inside the button */
+            border: none; /* Remove default border */
+            border-radius: 50%; /* Fully rounded corners */
+            background-color: #1E88E5; /* Dark blue background color */
+            color: #fff; /* Text color */
+            cursor: pointer; /* Pointer cursor on hover */
+            transition: background-color 0.3s; /* Smooth background color transition */
+        }
+
+        /* Change background color on hover */
+        #send-btn:hover {
+            background-color: #1976D2;
+        }
+
+        /* Indentation for the input field placeholder text */
+        #user-input::placeholder {
+            text-indent: 10px;
+        }
+
+        .sidebar h2 {
+            margin-bottom: 20px; /* Spacing below the title */
+        }
+
+        .sidebar ul {
+            list-style-type: none; /* Remove default list styles */
+            padding: 0;
+        }
+
+        .sidebar ul li {
+            margin-bottom: 10px; /* Spacing between FAQ items */
+            cursor: pointer; /* Add pointer cursor */
+        }
+
+        /* Chat container styles */
+        .chat-container {
+            margin-left: 250px; /* Adjust margin to accommodate sidebar width */
+            /* Your existing styles for chat container */
+        }
+        .user-message {
+            background-color: #e0f2f7; /* Light blue for user messages */
+        }
+
+        .ai-message {
+            background-color: #d9edf7; /* Light blue for AI messages */
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+        <h2>Suggested Questions</h2>
+        <ul>
+            <li>What courses does UTS offer?</li>
+            <li>How much is the tuition fees of BCS?</li>
+            <li>What is the email of Dr. Alan Ting?</li>
+            <!-- Add more FAQ items as needed -->
+        </ul>
+    </div>
+
+    <!-- Chat Container -->
+    <div class="chat-container">
+        <!-- Chat Box where messages will be displayed -->
+        <div class="chat-box" id="chat-box">
+            <!-- Messages will be dynamically added here -->
+        </div>
+        <!-- Input Container for user input and send button -->
+        <div class="input-container">
+            <!-- Input field for typing message -->
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <!-- Button to send the message -->
+            <button id="send-btn"><i class="fas fa-paper-plane"></i></button>
+        </div>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const userInput = document.getElementById('user-input');
+        const sendBtn = document.getElementById('send-btn');
+        const messages = []; // Array to store messages
+
+        // 1. Objects and Inheritance
+        class User {
+            constructor(name) {
+                this.name = name;
+            }
+
+            sendMessage(content) {
+                const message = new Message(this.name, content);
+                messages.push(message);
+                appendMessage(message);
+            }
+        }
+
+        class AI extends User {
+            constructor() {
+                super('UTSmartBot'); // Call the User constructor
+            }
+
+            sendMessage(content) {
+                sendMessageToAI(content);
+            }
+        }
+
+        // 2. Objects and Encapsulation
+        class Message {
+            constructor(sender, content) {
+                this.sender = sender;
+                this.content = content;
+            }
+        }
+        
+        // 3. Polymorphism
+        function appendMessage(message) {
+            const messageElement = document.createElement('div');
+            messageElement.classList.add('message-box');
+
+            // Using the message.sender to determine the styling of the message
+            if (message.sender === 'You') {
+                messageElement.classList.add('user-message');
+            } else {
+                messageElement.classList.add('ai-message');
+            }
+            const messageContent = message.sender === 'UTSmartBot' ? `<strong>${message.content}</strong>` : message.content;
+            messageElement.innerHTML = `<strong>${message.sender}:</strong> ${message.content.replace(/\n/g, '<br>')}`;
+            chatBox.appendChild(messageElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        // 4. Exception Handling
+        async function sendMessageToAI(message) {
+    try {
+        const response = await fetch('/ask', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ message: message })
+        });
+
+        if (!response.ok) {
+            throw new Error('Network response was not ok'); // Throwing an error
+        }
+
+        const data = await response.json();
+        // Check for a specific response "hi there"
+        if (message.toLowerCase() === "hi") {
+            const aiMessage = new Message('UTSmartBot', 'Hello! I am UTSmartBot, your friendly assistant for all things University of Technology Sarawak. How can i help you? :D');
+            messages.push(aiMessage);
+            appendMessage(aiMessage);
+        } else {
+            const aiMessage = new Message('UTSmartBot', data.response);
+            messages.push(aiMessage);
+            appendMessage(aiMessage);
+        }
+    } catch (error) {
+        console.error('Error fetching response:', error);
+        const errorMessage = new Message('UTSmartBot', 'Oops! Something went wrong. Please try again later.');
+        messages.push(errorMessage);
+        appendMessage(errorMessage);
+        };
+        }
+        // Add event listeners to FAQ items
+        const faqItems = document.querySelectorAll('.sidebar ul li');
+        faqItems.forEach((item, index) => {
+         item.addEventListener('click', () => {
+        // Retrieve the text content of the clicked FAQ item
+        const question = item.textContent;
+        // Populate the message input field with the question
+        userInput.value = question;
+             });
+        });
+
+        // **Important: Initialize the AI Model**
+        const model = new AI(); // Creates an instance of the AI class
+
+        sendBtn.addEventListener('click', () => {
+            const userMessage = userInput.value;
+            if (userMessage.trim()) {
+                // Send the message to the AI
+                model.sendMessage(userMessage); 
+                
+                // **Display the message the user inputted**
+                // Create a new message object for the user's message
+                const userMessageObj = new Message('You', userMessage); 
+                
+                // Add the user's message to the messages array
+                messages.push(userMessageObj); 
+                
+                // Append the user's message to the chat box
+                appendMessage(userMessageObj); 
+                
+                // Clear the input field
+                userInput.value = '';
+            }
+        });
+
+        userInput.addEventListener('keyup', (event) => {
+            if (event.key === 'Enter') {
+                sendBtn.click(); // Trigger the sendBtn click event
+            }
+        });
+
+    </script>
+</body>
+</html>

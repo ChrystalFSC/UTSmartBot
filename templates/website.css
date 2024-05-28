@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+/* Reset default margin and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for body element */
+body {
+    background-color: #4063BC; /* Light blue background color */
+    color: #333; /* Default text color */
+    font-family: 'Poppins', sans-serif; /* Font family for the text */
+}
+
+/* Style for the chat container */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 20px; /* Adjust the left spacing as needed */
+  top: 50%;
+  transform: translateY(-50%);
+  width: 70vw; /* Width of the chat container */
+  height: 95vh; /* Height of the chat container */
+  background-color: #7CA1FF; /* Light blue background color */
+  border-radius: 15px; /* Rounded corners */
+  padding: 20px; /* Padding inside the container */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+}
+
+/* Sidebar styles */
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 250px; /* Adjust width as needed */
+  height: 100%; /* Full height of viewport */
+  background-color: #f0f0f0; /* Background color */
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+
+/* Style for individual messages */
+.message-box {
+  font-size: 18px; /* Font size for message text */
+  color: #333; /* Text color */
+  margin-bottom: 15px; /* Bottom margin */
+  font-family: 'Roboto Slab', serif; /* Font family for messages */
+  background-color: #FFFFFF; /* Background color for message box */
+  padding: 10px; /* Padding inside the message box */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  max-width: 100%; /* Max width for message boxes */
+  word-wrap: break-word; /* Ensure long words break into the next line */
+  align-self: flex-start; /* Align messages to the left */
+  display: inline-block; /* Inline block to allow auto-sizing */
+}
+
+
+/* Style for sender's name */
+.message-box strong {
+    display: block; /* Block display to separate from message text */
+    color: #312F82; /* Color for sender's name */
+    font-size: 14px; /* Smaller font size for sender's name */
+    margin-bottom: 5px; /* Bottom margin */
+}
+
+/* Style for the chat box */
+.chat-box {
+  width: 100%; /* Width of the chat box */
+  flex-grow: 1; /* Allow the chat box to grow */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 10px; /* Padding inside the chat box */
+  background-color: #C6D6FF; /* Background color */
+  border-radius: 10px; /* Rounded corners */
+  margin-bottom: 10px; /* Bottom margin */
+  display: flex; /* Use flexbox */
+  flex-direction: column; /* Arrange items vertically */
+  align-items: flex-end; /* Align items to the bottom */
+}
+
+
+/* Style for the input container */
+.input-container {
+    display: flex; /* Flexbox for input and button */
+    width: 100%; /* Full width */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Style for the input field */
+#user-input {
+    flex-grow: 1; /* Allow input field to grow */
+    padding: 10px; /* Padding inside the input field */
+    border: 1px solid #ccc; /* Border color and width */
+    border-radius: 10px; /* Rounded corners */
+    margin-right: 5px; /* Right margin */
+    outline: none; /* Remove default outline */
+    font-size: 16px; /* Font size for input text */
+    height: 50px; /* Height of the input field */
+}
+
+/* Style for the send button */
+#send-btn {
+    font-size: medium; /* Font size */
+    width: 50px; /* Width of the button */
+    height: 50px; /* Height of the button */
+    padding: 10px; /* Padding inside the button */
+    border: none; /* Remove default border */
+    border-radius: 50%; /* Fully rounded corners */
+    background-color: #1E88E5; /* Dark blue background color */
+    color: #fff; /* Text color */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+/* Change background color on hover */
+#send-btn:hover {
+    background-color: #1976D2;
+}
+
+/* Indentation for the input field placeholder text */
+#user-input::placeholder {
+    text-indent: 10px;
+}
+
+
+.sidebar h2 {
+  margin-bottom: 20px; /* Spacing below the title */
+}
+
+.sidebar ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px; /* Spacing between FAQ items */
+  cursor: pointer; /* Add pointer cursor */
+}
+
+/* Chat container styles */
+.chat-container {
+  margin-left: 250px; /* Adjust margin to accommodate sidebar width */
+  /* Your existing styles for chat container */
+}
+
+/* Sidebar styles */
+.sidebar {
+  position: fixed;
+  left: -250px; /* Initially hidden */
+  top: 0;
+  width: 250px;
+  height: 100%;
+  background-color: #f0f0f0;
+  padding: 20px;
+  box-sizing: border-box;
+  transition: left 0.3s ease; /* Smooth transition */
+}
