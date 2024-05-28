@@ -27,6 +27,7 @@ jobs:
         uses: azure/login@v1  # Use version 1 of the azure/login action
         with:
           creds: ${{ secrets.AZURE_CLIENT_ID }} ${{ secrets.AZURE_CLIENT_SECRET }} ${{ secrets.AZURE_TENANT_ID }}
+          auth-type: 'SERVICE_PRINCIPAL'
 
       - name: Deploy to Azure Web App
         run: |
