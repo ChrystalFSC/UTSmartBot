@@ -1,0 +1,9 @@
+Flask==3.1.2
+google-genai==1.38.0
+python-dotenv==1.2.1
+gunicorn==23.0.0
+numpy==2.5.3
+beautifulsoup4==4.15.0
+pypdf==6.20.1
+fastembed==0.9.0
+openai==3.31.0

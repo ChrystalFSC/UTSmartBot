@@ -1,0 +1,5049 @@
+About University
+University of Technology Sarawak (UTS) is the culmination of the State of Sarawak’s vision and commitment in establishing a world-class institution of higher learning to spearhead the development and production of technical human resource for the Sarawak Corridor of Renewable Energy (SCORE).
+UTS is committed to facilitating students’ access to an affordable world-class university education that nurtures creative and entrepreneurial leaders through a broad education in science and technology while combining the career benefits of an applied approach for SCORE-related research and career opportunities.
+Situated in Sibu, one of the main gateways into SCORE, UTS campus is equipped with the latest state-of-the-art facilities to facilitate teaching, learning and research activities necessary in the production of graduates required by the industries within SCORE.
+In addition, UTS will be complemented by its own Science & Technology Park, which will bring about vast research and entrepreneurial opportunities through local and international industrial and educational collaborations.
+Through its close collaboration with Universiti Kuala Lumpur, one of Malaysia’s leading technical universities with over 20,000 students across the country, UTS aims to complement the growth and fulfil the human resource and industrial needs of SCORE.
+UTS now runs Transfer Degree Programme with four universities namely Murdoch University from Australia; University of Essex and University of Birmingham from the United Kingdom; and University of Canterbury from New Zealand.
+Websites of UTS: 
+1. Main website of UTS: https://www.uts.edu.my/
+2. Online Application: http://oculus.uts.edu.my/apply/signup.php
+3. Enquiry: https://www.uts.edu.my/contact-2-2/
+4. E-Registration: https://oculus.uts.edu.my/online_registration/register.php
+5. Oculus: https://oculus.uts.edu.my/login.php
+6. Open Learning: https://www.openlearning.com/ucts/
+7. TimeTable Plus: https://www.timetableplus.com/ucts/index.php/site/student
+Staff Directory
+https://directory.uts.edu.my/
+Vision of UTS
+Our vision is to be a global technical university founded on science and technology.
+Mission of UTS
+Our mission is to provide world-class educational programs and learning environment to nurture creative and entrepreneurial leaders through a broad yet specialised education in science and technology.
+Core values of UTS
+The core values that guide us in our mission are Commitment, Integrity, Caring, Enterprising, and Green.
+MOHE/MQA Recognition, Approvals & Accreditation
+UTS is pleased to announce that all its programmes are recognized, approved and accredited by the Ministry of Higher Education (MOHE) and the Malaysian Qualifications Agency (MQA).  UTS programmes are due for full accreditation when the first cohort of students of each programme reaches its final semester.  A few of UTS’ programmes have already received MQA’s Full Accreditation, and the rest have also been granted Provisional Accreditation.  UTS is confident to receive Full Accreditation for all its programmes when they are due.
+Approval by MOHE and MQA Provisional Accreditation – What does this mean?
+All of UTS programmes must be approved by MOHE before it can be conducted.  This is a requirement under the Private Higher Educational Institutions Act 1996.  All of UTS’ programmes have also obtained MQA Provisional Accreditation prior to the commencement of the programmes.  Having Provisional Accreditation means that the programme has met the minimum MQA requirements for UTS to start conducting the programme.
+MQA Full Accreditation/MQR/ PSD Recognition:
+When a programme obtains full accreditation by MQA and it would be registered under the Malaysian Qualifications Register (MQR).  All programmes listed in the MQR are recognised by the Public Service Department (PSD / JPA).  Graduates with MQA recognised degrees can proceed with their post-graduate studies in the Public Higher Education Institutions (PHEI) if they wish to do so.
+How does MQA carry out the accreditation process?
+Generally, a programme will be considered due for accreditation when the first cohort students are at the final or 2nd last semester of the programme.  The MQA Panel Assessors will then proceed to carry out the audit of that particular programme.  Upon complying with all the MQA requirements, MQA will inform UTS that Full Accreditation has been granted to that particular programme.
+What is Provisional Accreditation?
+It is an exercise by MQA to determine whether a programme has met the minimum quality requirements to start conducting the programme.
+What is Full Accreditation?
+It is an assessment exercise by MQA (with Professional Bodies if required by the programme) to ascertain that the teaching, learning and all other related activities of a programme provided by a higher education provider has met the quality standards and in compliance with the Malaysian Qualifications Framework (MQF).
+How to check the programmes that have obtained full MQA accreditation are listed in the Malaysian Qualifications Agency (MQA)?
+Visit the MQR webpage (www2.mqa.gov.my/mqr/). Please use the name “University of Technology Sarawak “instead of “UTS” when searching for the MQA full accreditation listings.
+How to check the provisional accredited programmes?
+Provisional accredited programmes are listed separately under this webpage url: www2.mqa.gov.my/pasp/. Please use the name “University of Technology Sarawak” instead of “UTS“ when searching for the MQA provisional accreditation listings.
+UTS Virtual Tour
+Visit the website https://panomatics.com/vr/id/337/index.html?startscene=0 for campus virtual tour.
+UTS Social Media:
+Facebook: https://www.facebook.com/utsofficialswk
+Instagram: https://www.instagram.com/utsofficialswk/
+YouTube: https://www.youtube.com/c/utsofficialswk/featured
+X (Twitter): https://twitter.com/utsofficialswk
+Location: 
+University of Technology Sarawak (UTS)
+No. 1, Jalan Universiti, 96000 Sibu
+Sarawak, Malaysia
+Waze: https://www.waze.com/zh/live-map/directions/my/sarawak/sibu/%E7%A0%82%E6%8B%89%E8%B6%8A%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6?to=place.ChIJz6z5IUN_9zER65ButAieu6Q
+Google Map: https://www.google.com/maps/place/University+of+Technology+Sarawak/@2.3411646,111.841048,17z/data=!3m1!4b1!4m6!3m5!1s0x31f77f4321f9accf:0xa4bb9e08b46e90eb!8m2!3d2.3411646!4d111.8436229!16s%2Fm%2F012fzv0l?entry=ttu
+
+Management team: the current management team is in the UTS website snapshot (https://www.uts.edu.my/management).
+Lab & Classroom
+List of classrooms, labs and facilities in School of Engineering and Technology
+Civil Engineering (CE) Labs
+1. Concrete Lab
+2. Environmental And Waste Water Lab
+3. Highway And Traffic Lab
+4. Hydraulic Lab
+5. Light Structure Lab
+6. Soil And Geotechnic Lab
+7. Survey Lab
+Electrical and Electronic (EE) Labs
+1. Electrical Lab
+2. Electronic Lab
+3. Control And Automation Lab
+4. Communication System Lab
+5. Power Systems Lab
+Food Technology (FT) Labs
+1. Food Analysis Lab
+2. Food Microbiology Lab
+3. Food Packaging Lab
+4. Food Processing Lab
+5. Food Sensory Lab
+Mechanical Engineering (ME) Labs
+1. Cadcam Lab
+2. Fluid Lab
+3. Material Lab
+4. Metrology Lab
+5. Static & Dynamic Lab
+6. Workshop
+Lecture Theatres
+UCTS has 3 lecture theatres namely Lecture Theatre A (LTA), Lecture Theatre B (LTB) and Lecture Theatre C (LTC).
+LTA and LTB (each has 190 seating capacity respectively) are located at the Built Environment Centre.
+LTC (has 390 seating capacity) is located at the Management Science and General Studies Centre.
+ARC Facilities
+Computers & Internet Access Area
+It is located on the ground floor.
+Academic Resources Centre (ARC) has a total number of 100 computers (with Internet access) available to the students.
+Study Area
+ARC has a seating capacity for 500 students.
+Reading Area
+Comfortable reading areas have been created at various locations in ARC.
+Discussion Rooms
+ARC has 5 discussion rooms to be used by the students and each room can accommodate between 6 to 8 persons at one time.
+The rooms are located on the first floor.
+Students may use the room upon obtaining permission from the Librarians.
+Proposed Technology and Science Park
+UTS will be one of the very few universities in Malaysia to have its very own Technology Park.
+The establishment of this Technology Park will enhance the ability of UTS to fully exploit its research and development capabilities through its research and development initiatives. This will also ensure that the students at UTS enjoy a one-of-a-kind experience at UTS where R&D initiatives become part of their learning environment.
+In addition, the Technology Park will be the premier destination for both the local and foreign R&D minded individuals who are aspired to achieve excellence through research and development initiatives in areas such as Transportation & Logistics, Food Technology, Materials, Bio-Technology, ICT, Automation, Green Technology and Agriculture Technology.
+Campus Photos
+For more photos of UTS campus, you may visit the following website: https://www.uts.edu.my/facility/
+Academic Resource Centre (ARC)
+For more information, please refer to https://arc.uts.edu.my/
+Contact details:
+Telephone: 084-367385/084-367386
+Email: arc@uts.edu.my
+Facebook: https://www.facebook.com/uctsARC/
+Instagram: https://www.instagram.com/uctsarc/
+About Us
+UCTS library was established simultaneously with the setting up of UCTS campus in 2013. Initially, the library was operated at Kolej Laila Taib (KLT) campus before UCTS campus was ready to be used in September 2013.
+In 2019 UCTS Library changes its name to Academic Resource Centre (ARC). The ARC is an icon that supports teaching and learning in the university. In the year 2013, the total collections of ARC are 313 books whereas in 2023 total collection of ARC increased to 13,123 books, 1,768 e-books, 4 online databases, and 2 online journals. ARC also subscribed to online newspapers and magazines.
+ARC is a 3-storey building located next to the Student Development and Services Department (SDSD) and has a total sitting capacity of 500 students at any one time. Apart from the physical books, ARC is also equipped with computers for students to view online materials and e-books.  The computers in ARC may also be used by students for working on their assignments.  It also has five discussion rooms (located on the 1st Floor) for group discussions/meetings.
+Staff:
+1. Head of Department (HOD)
+Roselind Duat
+2. Circulation and Collection Management Unit
+a) Andreas Rentap
+Position: Executive
+b) Mohd. Nor Amira
+Position: Library Assistant
+c) Dara Claudia
+Position: Clerk
+3. Information Resource Development Unit
+a) Adhibah Affendy
+Position: Executive
+b) Faris Ideris
+Position: Senior Clerk
+c) Zusika Erra
+Position: Clerk
+
+Photos of ARC: https://arc.uts.edu.my/gallery-try-2/
+Operating Hours:
+Normal Operating Hours:
+Monday – Friday: 8am – 8pm
+Saturday: 8am – 12pm
+*Closed on Sunday & Public holiday
+Semester Break:
+Monday – Friday: 8am – 5pm
+Saturday: 8am – 12pm
+*Closed on Sunday & Public holiday
+Study & Exam Week:
+Monday – Friday: 8am – 10pm
+Saturday & Sunday: 9am – 6pm
+*Closed on Public holiday
+Centre of Publication
+For more information, please refer to https://publisher.uts.edu.my/
+UTS Publisher is the pulse of publishing at the University of Technology Sarawak (UTS). UTS Publisher is responsible for implementing the publication policy to improve intellectual work among UTS staff and control the quality, uniformity, and quantity of university publications. It also fosters the interest in writing and publishing among the UTS Staff, serves as the administrative secretariat to the UTS Publisher Committee, and coordinates the evaluation, editing, design, and printing of scholarly publishing matters undertaken in UTS.
+Vision:
+To be the impetus for high impact intellectual publication.
+Mission:
+To publish eminence publications that contributes and provide a new frontier of knowledge.
+Academic Publication Guidelines:
+For manuscripts to be published, the author must comply with the following:
+a) The manuscript must be the final writing, not a draft.
+b) Number of pages – 49 or more pages as prescribed by UNESCO
+c) The type of font must be either Times New Roman or Arial. 16-point size for Title of Manuscript, 14-point size for heading, and 12-point size for text content.
+d) The manuscript is using a Microsoft Word application and submitted via soft-copy.
+e) Writing style (references) is by the American Psychological Association (APA) Style.
+f) The Turnitin Report does not exceed 20%.
+g) All manuscripts to be submitted to UTS Publisher must contain the following parts:
+•	Book title
+•	Half Book Title
+•	Copyright page
+•	Table of contents
+•	Preface 
+•	Foreword (optional)
+•	Acknowledgement
+•	Abbreviations
+•	List of table/ figures
+•	All text material
+•	Reference / Bibliography
+•	Index
+•	Blurb
+•	All illustrations and copyright permission letters if necessary
+Staff:
+1. Position: Director
+Muhammad Firdaus Abong Abdullah (Assoc. Prof. Dr.)
+Telephone: (+6) 084 367529
+Email: muhammad.firdaus@uts.edu.my
+2. Position: Administrative Officer
+Nurhidayah Binti Sharif
+Telephone: (+6) 084 367382
+Email: nurhidayah@uts.edu.my
+3. Position: Publication Officer
+Abdul Wahid Bin Bejuri@Menjuri
+Telephone: (+6) 084 367382
+Email: abdwahid@uts.edu.my
+4. Position: Editor-In-Chief
+a) Abu Saleh Ahmed (Assoc. Prof. Dr.)
+BORNEO JOURNAL OF SCIENCES AND TECHNOLOGY, (BJOST)
+Telephone: (+6) 084-367525
+Email: abusaleh@uts.edu.my
+b) Winnie Wong Poh Ming (Assoc. Prof. Dr.)
+BORNEO JOURNAL OF SOCIAL SCIENCES AND HUMANITIES (BJSSH)
+Telephone: (+6) 084-367400
+Email: winniewong@uts.edu.my
+5. Position: Special Project
+a) Mohamad Suffian Bin Abdul Kadir
+Designer 
+Telephone: (+6) 084-367435
+Email: mohd.suffian@uts.edu.my
+b) Jaibi Bin Sabian
+Designer
+Telephone: (+6) 084-367477
+Email: jaibi@uts.edu.my
+c) Hasrunnaim Bin Hasan
+Photographer
+Telephone: (+6) 084-367589
+Email: hasrunnaim@uts.edu.my
+d) Nadira Abdul Rahman
+Proofreader
+Telephone: (+6) 084-367559
+Email: nadira@uts.edu.my
+e) Fetylyana Nor Binti Pazilah
+Proofreader
+Telephone: (+6) 084-367628
+Email: fetylyana@uts.edu.my
+f) Jill Ling Pei Wah
+Proofreader
+Telephone: (+6) 084-367629
+Email: jill@uts.edu.my
+g) Muhammad Asraf Bin Zulkarnain
+IT & Technical
+Telephone: (+6) 084-367429
+Email: muhd.asraf@uts.edu.my
+Contact information:
+Email: utspublisher@uts.edu.my
+Phone Number: (+6) 084-367382
+Facebook: https://www.facebook.com/utspublisherofficial
+Centre for International Relations (CIR)
+For more information, please refer to https://cir.uts.edu.my/
+Mission: To ensure a seamless integration for international students into the UTS community, from application through to graduation. As your one-stop centre, we provide essential services for a smooth transition to university life, including visa arrangements, medical insurance, student welfare, and counselling. Committed to UTS’s global perspective, CIR supports your journey every step of the way.
+Fees and Requirements: 
+Why Choose Us?
+1. Top-Tier Facilities
+UTS is home to state-of-the-art, eco-friendly campuses, earning the prestigious Green Building Index Platinum rating
+2. Real-World Education
+With strong industry partnerships, UTS provides practical training and exposure, bridging the gap between theory and practice to equip you for global challenges.
+3. Multicultural Campus Life
+Experience diversity in its truest form at UTS-a melting pot of cultures with students from over 27 ethnic groups, providing a rich and inclusive learning environment.
+English Proficiency:
+UTS courses are taught in English. Applicants must demonstrate proficiency in English to ensure success in their studies. Accepted tests and qualifications include:
+•	IELTS (Standard or Online)
+•	TOEFL iBT or TOEFL Essentials (Online)
+•	PTE Academic (Standard or Online)
+•	Cambridge English (B1 Preliminary, B2 First, C1 Advanced, C2 Proficiency)
+•	Linguaskill Online
+•	Occupational English Test (OET)
+•	Malaysian University English Test (MUET)
+•	ELS Certified Intensive English Programme (CIEP Level)
+Applicants from institutions where English is the sole language of instruction may be exempted. Contact UTS Centre for International Relations for minimum grade requirements.
+Academic Entry Requirements:
+You must have certain qualifications depending on your country or educational system in order to get a place in UTS. As a guide to the minimum academic entry requirements, please see the following:
+1. Bangladesh
+a) Requirement: Secondary School Certificate (SSC)/Dhakil (from Bangladesh Madrasah Education Board)/Secondary School Certificate (Vocational)
+Entry Level: Foundation
+b) Requirement: Higher Secondary Certificate (HSC)/Intermediate Certificate/Alim (from Bangladesh Madrasah Education Board)
+Entry Level: Bachelor Degree
+2. Brunei Darussalam
+a) Requirement: Cambridge GCE O Level
+Entry Level: Foundation
+b) Requirement: 
+•	Cambridge GCE A Level
+•	Matriculation
+•	Sijil Tinggi Pelajaran Ugama (STPU)
+•	BDTVEC National Diploma
+•	BDTVEC Higher National Diploma
+Entry Level: Bachelor Degree
+3. Cambodia
+a) Requirement: Diploma of Upper Secondary Education (Grade 12)
+Entry Level:	Bachelor Degree
+4. China
+a) Requirement: Senior Secondary School Graduation Certificate/Graduation Certificate from a Vocational/Technical Secondary School (Zhixiao/Zhigao) or a Skilled Worker School (Jixiao)	
+Entry Level: Bachelor Degree
+5. Indonesia 
+a) Requirement: 
+•	Ijazah Sekolah Menengah Umum (SMU) 3
+•	Ijazah Sekolah Menengah Atas (SMA)
+•	Ijazah Sekolah Menengah Kejuruan (SMK)
+•	Ijazah Madrasah Aliyah
+•	Ijazah Pendidikan Kesetaraan Program Paket C
+•	(Certificate Equivalency Education Programme Package C)	
+Entry Level:
+•	Foundation (for average grade 55-65)
+•	Bachelor Degree (for average grade 66-100)
+6. Laos
+a) Requirement: Baccalauréat (Upper Secondary School Diploma)	
+Entry Level: Bachelor Degree
+7. Myanmar
+a) Requirement: Basic Education High School Examination (Matriculation Examination)	
+Entry Level: Foundation
+8. Pakistan
+a) Requirement: Secondary School Certificate (SSC)/Matriculation	
+Entry Level: Foundation
+b) Requirement: Higher Secondary School Certificate (HSSC)/Intermediate (also known as: Higher Secondary Certificate (HSC))	
+Entry Level: Bachelor Degree
+9. Sri Lanka
+a) Requirement: Sri Lankan General Certificate of Education (Ordinary Level)
+Entry Level: Foundation
+b) Requirement: Sri Lankan General Certificate of Education (Advanced Level)
+Entry Level: Bachelor Degree
+10. Vietnam
+a) Requirement: Bằng Tốt Nghiệp Trung Học Phổ Thông
+(Upper Secondary School Graduation Diploma)	
+Entry Level: Bachelor Degree
+
+If you are unsure, or if your qualification or country is not listed, please contact us for specific information. The pre-requisite subjects for each course can be requested from UTS Centre for International Relations.
+Estimate Living Costs in UTS:
+We estimate living costs in UTS to be between RM12,000 and RM15,000 each academic year. You will also need to budget for flights home, as well as any visa required. 
+Accommodation: RM 300
+Food: RM 700
+Other Expenses e.g. transportation: RM 200
+Total: RM 1200 per month
+Contact details:
+1. Gary Loh Chee Wyai
+Position: Director of CIR
+Email: gary@uts.edu.my
+Direct line: +6084-367328
+2. Esther Siong Wan Jun
+Position: Senior Executive
+Email: esthersiong@uts.edu.my
+Direct line: +6084-367327
+3. General Contact
+Email: cir@uts.edu.my
+Tel: +60 84-367300 ext. 327/328
+4. WhatsApp / WeChat: +60 13 863 6626
+Centre of Quality Assurance (CQA)
+About Us
+Centre for Quality Assurance (CQA) was formed in 2013 under the supervision of the first Director, Professor Datin Dr. Napsiah Ismail to oversee, manage, facilitate, monitor and report on the development of academic programmes and enhance the roles of supporting departments towards ensuring high quality delivery of education in UCTS, which now known as UTS. She was succeeded by Professor Dr. Salfarina Abdul Gapor in 2018. In 2019, Assoc. Professor Dr. Rabuan took over the directorship of CQA and continued with the tradition. Centre for Quality Assurance is committed to ensure continuous quality improvement and high quality of teaching and learning through its vision, mission and principle. 
+UTS academic programmes have been developed in close collaboration with the industries and based on industrial needs. Initially, UTS started with four schools and offered only six academic programmes, two at foundation levels and four at undergraduate levels. These are Foundations in Art and Foundation in Science under the School of Foundation Studies. The School of Business and Management offered Bachelor of Business Administration and Bachelor of Accountancy, while the School of Engineering and Technology offered Bachelor of Engineering Technology in Electrical and Electronic and Civil Engineering. The School of Built Environment initially only offered Bachelor of Quantity Surveying.
+In 2014, more Bachelor programmes were offered including Architecture, Network Computing, Software Engineering and Mechanical Engineering. In 2015, Electrical Engineering and Food Technology were offered.
+The School of Postgraduate Studies was formed in 2016, marking a huge milestone for UTS, whereby five postgraduate programmes were introduced, two at PhD level by research and two at Master level by research, of which both are under Business Management and Engineering. Master of Business Administration was offered through coursework in 2016. In 2018, two more Master by coursework were offered – Master of Project Management and Master of Architecture. In 2019, two more Research programmes were offered – Master of Science in Applied Sciences and Doctor of Philosophy (PhD) in Applied Sciences.
+In 2020, School of Computing and Creative Media introduced two programmes at postgraduate level which are Master and PhD in Computing as well as two programmes at undergraduate level – Bachelor of Arts in Industrial Design and Bachelor of Arts in Creative Media. On the quarter fourth of year 2021, School of Built Environment introduced Bachelor of Arts in Interior Design. Both schools expected to offer another six programmes at Degree, Master and PhD level in year 2023.
+Mission:
+•	Providing conducive working and learning environment for the students and staff
+•	Promoting high student engagements
+•	Supporting student development and alumni
+•	Ensuring quality teaching and learning
+CQI Plan
+1. Teaching Assessment
+Teaching Assessment is conducted at every end of each semester in order to get feedbacks from the students on the effectiveness of teaching and learning for the purpose of:
+•	Monitoring the academic staff based on the set criteria
+•	Improving the quality of courses and teaching skills of academic staff
+•	Grooming and sustaining the academic staff to be capable and competent
+•	Providing avenue for students’ feedbacks and identify necessary actions taken based on empirical data
+2. Curriculum Review
+Curriculum Review is carried out at every end of each semester and conducted within ten days after the final results have been approved by the Senate. It is done based on reviews of qualitative and quantitative data. The qualitative data include Course Coordinator’s reflections of the course’s content and flow, comments from the External Examiner(s), comments from the Industrial Advisory Panel (IAP), comments during Student Dialogue or other qualitative data relevant or related to the course. Quantitative data includes Course Learning Outcomes (CLOs) attainment and student workloads in relation to the Student Learning Time (SLT). Curriculum Review Meetings are chaired by the Head of Programme and a report will suggest any necessary amendments of individual course’s learning outcomes, syllabus, and assessment strategy as well as teaching methodology.
+3. Exit Survey
+Exit Survey is conducted after the graduation of every cohort of a programme, depending on the duration of the programme, commonly after 3 or 4 years. The respondents for this survey are the graduates. The purpose of the Exit Survey is to identify students’ views of the programme and their assessments and ratings of the overall achievement of the Programme Learning Outcomes (PLOs). Findings from the survey will be analysed and Head of Programmes (HOPs) are responsible to take necessary actions based on the findings.
+4. Links
+Malaysian Qualifications Agency: www.mqa.gov.my/
+Ministry of Education: https://www.moe.gov.my
+Malaysia Board of Technologists: https://www.mbot.org.my/
+Engineering Accreditation Council Malaysia: http://www.eac.org.my/web/index.html
+Board of Architects Malaysia: http://www.lam.gov.my/
+Board of Quantity Surveyors Malaysia: https://www.bqsm.gov.my/  
+Student Learning Time (SLT) calculation: https://uctscqa.azurewebsites.net/
+Staff:
+1. Dr. Sim Siew Ling
+Position: Director
+Extension: 360
+Email: simsiewling@uts.edu.my
+Qualifications: Doctor of Philosophy in Business Management (UTS), Master of Business Administration (Venture Capital Management), (UTM), Bachelor of Business Administration (Finance) (UPM)
+2. Nurul Afiqah Binti Ibrahim
+Position: Executive
+Extension: 370
+Email: nurul.afiqah
+Qualifications: Corporate Master of Business Administration (UNIMAS), Bachelor in International Marketing (UMS)
+Centre for Continuing Education and Professional Development (CEPD)
+About Us
+1. The CePD/UCSSB was established on 12th April 2016 and had been  operating business at Block 8, 1st Floor,  No.1, Jalan Universiti, 96000 Sibu Sarawak and our Electrical Installation Workshop at Unicity (near Li Hua Hotel).
+2. UCSSB registered with Human Resources Development Fund (HRDF) (No Siri: 1183312A) as a training provider.
+3. UTS is a Corporate Affiliate Member of The Chartered Institute of Logistics & Transport (Membership Number: OM0149).
+4. CePD/UTS is an Accredited Training and Examination Center for Wireman G1, G2, and Chargeman L1 (issued by The Ministry of Public Utilities Sarawak).
+CePD in its capacity:
+•	To provide professional training programs / short-courses in collaboration with internal expertise and external training providers
+•	To organise competency programs and professional courses / certifications for graduates to be more competent and marketable
+Staff:
+1. Assoc Prof Ts. Dr. Ramli b Haji Rashidi, KMN, PBS
+Position: Director & Assoc. Prof.
+Extension: 537
+Email: ramli.rashidi@uts.edu.my
+Qualifications: PhD TEVT (Bremen/UTHM), MSc HRD (UPM), B.Eng E&E (Brighton)
+2. Mr. Kee Keh Kim
+Position: Deputy Director & Senior Lecturer
+Extension: 519
+Email: kkkee@uts.edu.my
+Qualifications: C. Eng (UK), MSc in Electronics (Communication System), Diploma in Technology (Electronic Engineering) TARC
+3. Mr. Edwin bin Mising Udup
+Position: Senior Executive
+Extension: 538
+Email: edwin@uts.edu.my
+Qualifications: Bachelor in Leadership, Arts (Hons)
+4. Mdm. Khairunnisa binti Mohamad Yunus
+Position: Administrative Officer
+Extension: 539
+Email: khairunnisa.yunus@uts.edu.my
+Qualifications: Bachelor of Applied Arts (Hons) Art Management
+Centre for Research and Development 
+For more information, please refer to https://research.uts.edu.my/
+About Us
+Centre for Research & Development (CRD) carries the responsibility of managing and facilitating research and development activities within the University.  The roles of the Centre include formulating the research policy and guidelines, assisting researchers in building research capabilities, acquiring research fund, as well as managing the funds effectively and efficiently.  To be visible in research, UTS strategies are to develop research niche area and improve the Research Centres’ visibility, contribution and relevance.  In its efforts, CRD recognizes five niche areas with proven merits and research outcomes.  These groups are:
+•	Sustainable Materials and Renewable Green Energy
+•	Natural Food and Materials Resources 
+•	Sustainable Technology for Technopreneurship and Underserved Community Development
+•	The Fourth Industrial Revolution (IR 4.0)
+•	Borneo Regionalism and Heritage Conservation Development
+Vision: 
+UTS as an industry-preferred partner in research, development and commercialization of new industrial services, processes and products from 2030 onwards.
+Mission: 
+•	To focus on market-driven applied research and development of commercially viable new industrial services, processes and products in partnership with industry and to develop entrepreneurs who will own the ventures.
+•	To focus on research that will have positive socio-cultural, socio-economic and environmental impacts and benefits to the community and immediate environment.
+Objectives:
+The objectives of the centre are to:
+•	Inculcate and nurture research culture among staff and students
+•	Obtain research funding from funding bodies
+•	Manage and facilitate quality research and development activities within University
+•	Build and promote strategic research partnerships with the industry and community
+Staff:
+1. Assoc Prof. Dr. Mohd Zahid Abidin 
+Position: Director
+Extension: 361 
+Email: zahidabidin@uts.edu.my
+Qualifications: PhD in Food Technology (Universiti Teknologi MARA), Master of Science in Food (Universiti Sains Malaysia), Bachelor of Science in Food Technology (Universiti Sains Malaysia)
+2. Dr. Ting Tiew Wei 
+Position: Deputy Director & Senior Lecturer
+Extension: 540
+Email: dr.ting@uts.edu.my
+Qualifications:  PhD in Mechanical Engineering (Monash University), Bachelor of Engineering (Hons) Mechanical (Multimedia University)
+3. Nurul Ain Hifrawi
+Position: Senior Executive
+Extension: 353
+Email: ainhifrawi@uts.edu.my
+Qualifications: Master of Quality Management (Open University Malaysia), Bachelor of Customer Service Management (Universiti Teknologi MARA), Diploma in Office Management (Universiti Teknologi MARA)
+4. Nur Farhan Freddie Erikson Bin Frederick
+Position: Clerk
+Extension: 387
+Email: nur.farhan@uts.edu.my
+Qualifications: Sijil Pelajaran Malaysia (SPM)
+Research Centres:
+1. CONTRIBUTE: https://contribute.uts.edu.my/
+2. CeWEP: http://cewep.uts.edu.my/
+3. CRISD: https://crisd.uts.edu.my/
+4. BORC: https://borc.uts.edu.my/
+5. ASSET: https://asset.uts.edu.my/
+6. DeTeC: https://drac.uts.edu.my/
+
+Contact Detail:
+Telephone: (+6) 084-367353 / 084-367387
+Fax: (+6) 084-367306
+Email: research@uts.edu.my
+Design And Technology Centre (DeTeC)
+The Design and Technology Centre (DeTeC) was rebranded from Drone Research and Application Centre (DRAC) since 2022 as a research centre at the School of Computing and Creative Media, University of Technology Sarawak. The move was done to cover a wider research area which focuses on Design, Computing, Unmanned Aerial System and Science, technology, engineering, and mathematics (STEM).
+Team Members:
+1. Ts. Daniel Tan Yong Wen
+Position: Head
+Research Interest: Drone Operation and Mission control, Computational Thinking, Knowledge Management, Information System
+2. Ts. Ahmad Lutfee Bin Mohd Lasa
+Position: Deputy Head
+Research Interest: Industrial Design, Furniture Design, Design Education, Design Thinking
+3. Ts. Dr. Nuraini Binti Daud
+Deputy Head
+Research Interest: Designing for Behaviour Change, Designing for Circular Economy, User-Centred Design, Interaction Design
+4. Ts. Dr. Chew Kim Mey
+Researcher
+Research Interest: Ontology Learning, Biomedical Engineering, Phantom Development
+5. Ts. Dr. Alan Ting Huong Yong
+Position: Researcher
+Research Interest: Computer Vision & Image Processing, Machine Learning
+6. Chang Wui Lee
+Position: Researcher
+Research Interest: Artificial Intelligence, Fuzzy Logic
+7. Eileen ong Sing Ling
+Position: Researcher
+Research Interest: Education Technology
+8. Jackie Ting Tiew Wei
+Position: Researcher
+Research Interest: Computer Vision & Image Processing, Machine Learning
+9. Dr. Yiiong Siew Ping
+Position: Researcher
+Research Interest: Theory & Computation of Fluid Dynamics, Mathematical Modelling of Dynamical Systems
+10. Kee Keh Kim
+Position: Researcher
+Research Interest: Building Energy Efficiency & Green Building Analysis, Marine Hybrid Systems, Wireless Sensor Network
+11. Dr. Molood Seifi
+Position: Researcher
+Research Interest: Sustainable Architecture, Human-Environmental Interaction, Algorithmic Design, Optimization of Heterogeneous Data
+12. Anli Sherine
+Position: Researcher
+Research Interest: Digital Processing, Data Mining, Big Data
+13. Huhammad Asraf Bin Zulkarnain
+Position: Member
+14. Cherry Ling Yieng Siang
+Position: Researcher
+Research Interest: Ergonomics, User Experience Design
+15. Marcella Peter
+Position: Researcher
+Research Interest: Computer Vision, Image Processing, Mobile Game-Based Learning
+Services: 
+1. Equipment
+•	Drones
+•	3D Printers
+•	STEM
+2. Facilities
+•	DRAC Lab
+•	Advance Cyber Security Knowledge Lab
+3. Services
+•	Drone Operation
+•	Drone Mission Control
+•	Drone Aerial Mapping
+•	STEM Activity
+Research Titles:
+•	Improvisation in Child Dyslexia Using Kinect-Based Human Motion Analysis System, UCTS Research Grant (URG)
+•	UCTS Spraying Drone for Disinfection and Cleaning Activities, UTS UPRG
+•	The Study of Using Automatic Dependent Surveillance-Broadcast Technology for Managing the Traffic of Unmanned Aerial Vehicles of Sarawak Airspace, SDEC
+•	Consultancy Project on ICT and Telecommunication Masterplan Study for Damai Peninsular Area
+•	Behavioral Analytics and Real-time Tracking of Patients Using IoT and RFID”. (APT fund, member)
+•	Young Innovators Challenge (YIC) Programme and Junior Innovate (JI) Programme
+•	Raspberry Pi Crash Course for School Teachers Session 1 & 2
+•	UAV Programming with Scratch, collaboration between DeTeC and Sarawak Digital Economy Corporation Berhad (SDEC)
+Contact Information:
+Tel: +6084-367-429 
+Email: detec@uts.edu.my
+Information Technology Department
+Information Technology Department (ITD) provides a wide range of ICT services to students, academic and administrative staff in the UTS community. ITD supports the administrative, teaching, learning and research needs of its users.
+ITD also manage and supports UTS network, wireless, centralized photocopy and printing services, maintains audio-visual services for all lecture theatres.
+For more information, please refer to https://itd.uts.edu.my/.
+Staff: 
+1. SHUKRI BIN ABDUL RAHMAN
+Position: IT MANAGER
+Email: shukri@uts.edu.my
+Ext: 348
+2. MOHAMMAD AZIM AZIMAN
+Position: IT SENIOR EXECUTIVE
+Email: azimaziman@uts.edu.my
+Ext: 347
+3. NUR HAFIZAH BT RAHMAN
+Position: IT EXECUTIVE
+Email: nurhafizah@uts.edu.my
+Ext:349
+4. NUR ELVINA BT YA'AKUB
+Position: IT EXECUTIVE
+Email: nurelvina@uts.edu.my
+Ext: 349
+5. ALAN CHENG YONG WEI
+Position: TECHNICIAN
+Email: alancheng@uts.edu.my
+Ext: 345
+6. JOSUA HANYIE
+Position: TECHNICIAN
+Email: josua@uts.edu.my
+Ext: 346
+7. NICKY SHARIF
+Position: TECHNICIAN
+Email: nickysharif@uts.edu.my
+Ext: 346
+8. ANDERSON TADING NAROK
+Position: ASSISTANT TECHNICIAN
+Email: anderson@uts.edu.my
+Ext: 340
+9. NURUL ASYIKIN BT MOHD FANNA
+Position: ASSISTANT TECHNICIAN
+Email: nurulasyikin@uts.edu.my
+Ext: 340
+Rules and Regulation
+A) STUDENT PRINTING POLICY:
+a) Policy Statement
+•	This policy is applied to the entire Student of UTS, Sarawak, Malaysia.
+•	User is responsible for their printing credit account. ICT Department will not hold any responsible if anyone else is using your printing account. In order to ensure that no one steals your printing credit, logoff from the PC if you’re not using it.
+b) Responsibility Of Your Printer Account / Credit
+i) Printing Charges
+User print in the computer laboratories or other places specified for student:
+•	Black and White printing – RM0.10
+•	Colour printing – RM1.50
+ii) Printing Credit Top-Up
+1. User can top-up their printing credit at the Library during office hours, Mon-Fri:
+•	9.00 am – 4.00 pm. (Effective date: 10th March 2014)
+•	Minimum Top-Up is RM 10 (Effective date: 10th March 2014)
+2. After each user top-up their account, the new amount will be only be updated within the minimum of ONE hour time, during office hours.
+3. User must acquire receipt from the Admin Counter every time after each top-up transaction.
+iii) Refund
+1. User can refund their print credit if the printout is unreadable, printout wrinkle or printing queue goes down.
+2. User needs these items before making any refund:
+•	User must bring their Student ID
+•	User must bring the unreadable or wrinkled printout to the Helpdesk.
+•	User must inform the Helpdesk the name of the document they tried to print and its pages.
+•	User must inform the Helpdesk which printer or its location they print it to.
+•	Once the Helpdesk personnel verify the user documents name and other information with the one in our system, only then the user’s print credit will be refunded. ICT Department has the rights to reject the refund request if there is any anomaly between the info given by the user and the info in the system.
+3. ICT Department will not refund any printout that caused by the user’s error or Carelessness or non-printer error.
+4. ICT Department will not refund any printing balance for the purpose of student withdrawal, graduated, terminated etc. Student can sell their print balance to other user. Both users need to go to ICT Helpdesk and the transaction must be done there. 
+This Policy can be subjected to changes in the details of implementation at the discretion of the university.
+c) Implementation And Non-compliance
+1. The Manager of Information Technology Department holds the responsibility for the implementation of this policy and shall take necessary actions in the event of violation of this policy.
+2. Alleged or suspected violations of the “Printing ” should  be  reported  to  the  Manager  of  the  Information  Technology  Department. Abuse of ICT privileges is subject to disciplinary action, which may include the loss of these privileges.
+d) Maintenance of Policy
+The Information Technology Department is responsible for the formulation and maintenance of this policy.
+
+B) ICT POLICY FOR STAFF:
+a) ICT Resources
+These resources cover all ICT facilities including the UTS network, computers, computing laboratories, all associated networks in classrooms, lecture theatres and video conferencing room in the University, internet access both wired and wireless, email, hardware, data storage, computer accounts, software (Either proprietary or those developed by the University), printers and photocopy machines services.
+b) Access to ICT Resources
+i) Lawful Use
+The use of ICT Resources must be lawful at all times. Unlawful use will breach this policy and will be dealt with as a disciplinary offence. Unlawful use of ICT Resources may also lead to criminal or legal action being taken against the staff. The University will not defend or support any authorized user who uses ICT resources for an unlawful purpose.
+ii) Granting of Access and Entitlement
+Access to ICT Resources is approved by the relevant authority. Access is normally given based on a need to access that ICT Resource and is subject to the availability of those resources.
+iii) Non-Disclosure
+Users may be required to sign a Non-Disclosure agreement  prior to authorization being granted for access to certain ICT Resources.
+iv) Access on contract expiry or authorized access period
+Email and computer access will cease on expiration of contract or services.  For strictly  professional  or  work-related  reasons,  staff  and other authorized users may request that computer access be extended for a period of up to 7 days. Approval must be given by the Dean/Director of local entities and the Manager of the ITD.
+v) Responsibilities Regarding Use of University Computer Accounts
+Each authorized user is responsible for:
+•	The unique computer accounts which the University has authorized for the user’s benefit. These accounts are not transferable.
+•	Selecting and keeping a secure password for each of these accounts, including not sharing passwords and logging off after using a computer.
+vi) Restrictions to Access
+Users are forbidden unauthorized access to accounts, data or files on UTS ICT Resources or any other ICT resource. The Administrator of an ICT Resource may restrict access to an individual user on the grounds that the user is in breach of this policy.
+vii) Third Party Access
+Entities other than the ITD may neither negotiate nor grant third parties access to the University’s applications, databases, communications and network infrastructure.
+viii) Software License Restrictions
+Use of licensed software is subject to terms of license agreements between the UTS and the software owner or licensor, and may be restricted in its use.
+c) Personal Use of ICT Resources
+i) Extend Of Personal Use
+An authorized user is permitted to use the ICT Resources for limited, incidental personal purposes. Personal use of the ICT Resources is permitted provided such use is lawful, does not negatively impact upon the user’s work performance, hinder the work of other users, or damage the reputation, image or operations of the University.   Such use must not cause noticeable additional cost to the University.
+ii) Commercial Use
+ICT Resources must not be used for private commercial purposes.
+iii) University Liability
+The University accepts no responsibility for:
+•	Loss or damage or consequential loss or damage, arising from personal use of the University’s ICT Resources;
+•	Loss of   data   or   interference   with   personal  files  arising  from   the University’s efforts to maintain the ICT Resource
+d) Internet, Email and Messaging
+i) Access to the Internet
+Work Purposes:
+Authorized users are permitted to access the Internet for work related purposes.
+Personal Use:
+Access is also permitted for personal purposes provided such use is lawful and reasonable in terms of time and cost to the University.
+e) Personal Web Pages
+i) Publication of Personal Web Pages
+Staff is permitted to publish personal web pages on computers connected to the UTS network. The content of material on personal web pages sites must be in accordance with any written law of the country.
+The University reserves the right to regularly monitor personal web page sites hosted on UTS servers, and to remove material, or request the user to remove or alter the content on their personal web page should it be inconsistent with any of the above.
+Special care must be taken with web pages so as not to infringe any third party copyright in an audio or video file, music charts/lyrics, photographs or text.
+ii) Disclaimer Required on Personal Web Pages
+A personal web page site must carry the UTS Personal Page Disclaimer as a standard disclaimer on every page. The disclaimer states that the web page site is not authorized by the UTS and that any opinions expressed on the pages are those of the author and not those of the University.
+iii) Responsibility for Personal Web Pages
+Legal responsibility for personal pages rests with the user. The University will not defend a user named in an action arising from material published on a personal web site and will not be liable for any damages awarded against the user by a court or commission.
+f) Email and Messaging
+i) User Responsibilities
+When using the email or messaging system, users must at all times:
+•	Respect the privacy and personal rights of others;
+•	Take all reasonable steps to ensure copyright is not infringed;
+•	Take all reasonable care not to plagiarize another person’s work; or defame another person;
+•	Not forward or otherwise copy a personal email (except with permission of the author) or an email which contains personal information or an opinion about a person whose identity is apparent (except with permission of that person);
+•	Not send forged messages, or obtain or use someone else’s e-mail address or password without proper authorization;
+•	Not send  mass  distribution  bulk  messages  and/or  advertising  without approval of the user’s Head of Department, or Administrative Head;
+•	Not send SPAM. The user must ensure that the recipient(s) of the intended email has/have consented to receive such email(s);
+•	Not harass, intimidate or threaten another person or other persons:
+•	Not send sexually explicit material, even if it is believed that the receiver will not object.
+ii) Standards Required When Using Email
+The  private  commercial  use  of  email  and  messaging  is  not  allowed  and appropriate standards of civility should be used when using email and other messaging services to communicate with other staff members, students or any other message recipients. When using the email or messaging system, users must not send:
+•	Angry or  Antagonistic  Messages  –  these  can  be  perceived  as bullying  or  threatening  and  may  give  rise  to  formal  complaints under  grievance  procedures  or discrimination/sexual  harassment procedures;
+•	Offensive, Intimidating or Humiliating Emails  –  University  ICT
+•	Resources must not be used to humiliate, intimidate or offend another person or other persons on the basis of their race, gender, or any other attribute prescribed under the University and Malaysian anti-discrimination legislation.
+g) Security of ICT Resources
+i) Staff’s Responsibilities
+A staff is responsible at all times to:
+•	Act lawfully.
+•	Keep all ICT Resources secure.
+•	Not compromise  or  attempt  to  compromise  the  security  of  any  ICT Resource belonging to the University or other organizations or individuals, nor exploit or attempt to exploit any security deficiency.
+•	Take reasonable steps to ensure physical protection including damage from   improper   use,   food   and   drink   spillage,   electrical   power management, anti-static measures, and protection from theft.
+•	Ensure the computers are not left unattended without first logging-out and/or securing the entrance to the work area – particularly if the computer system to which they are connected contains sensitive or valuable information.
+ii) Confidential Information
+A staff is responsible at all times to:
+Staff has a duty to keep confidential:
+•	All University data unless the information has been approved for external publication; and
+•	Information provided in confidence to the University by other entitie
+•	Each staff member is under the obligation not to disclose University Business information unless authorized to do so. Breach of confidentiality through accidental or negligent disclosure may expose a user to disciplinary action.
+h) Prohibited Use of ICT Resources
+i) Advertising and Sponsorship
+Paid advertisements are not permitted on any website using an UTS domain name, personal website or any website, which has a substantial connection with the University except with the written permission of the University authority.
+ii) Unauthorized Access
+Users are expressly forbidden from gaining unauthorized access or attempting to gain unauthorized access to ICT Resources belonging to the University and other organizations.
+iii) Peer-to-Peer File Sharing (P2P)
+Installation or use of peer to peer file sharing software is not permitted on the UTS network. Exceptions for legitimate teaching or research use must be approved by the University authority.
+iv) Pornography
+Users are not permitted to utilize the University’s ICT Resources to access , create, store or distribute pornographic material of any type.
+v) Gambling
+Users are not permitted to utilize the University’s ICT Resources to gamble.
+vi) Computer Games
+Users are not permitted to utilize the University’s ICT Resources to play computer games during normal office hours.
+i) Privacy and Surveillance
+i) Security and Privacy
+The accounts, files and stored data including, but not limited to, email messages belonging to users at the University are normally held private and secure from intervention by other users, including the staff of the Information Technology Department.
+There are situations in which duly authorized ITD staff may be required to intervene in user accounts, temporarily suspend account access or disconnect computers from the network in the course of maintaining the University’s ICT Resources such as repairing, upgrading or restoring file servers or personal computer systems.
+Users should be aware that ITD staff may from time to time become aware of  the  contents of  user directories and hard disk drives in the normal course of their work, and they are bound to keep this information confidential.
+j) Access to and Monitoring of Equipment
+The  University  does  not  generally  monitor  email,  files  or  data  stored  on University ICT resources or traversing the University network. However, the University reserves the right to access and monitor any computer or other electronic  device  connected  to  the  UTS  network.  This  includes  equipment owned by the University and personal computing equipment (e.g. laptops) that are connected to the network.
+Access to and monitoring of equipment is permitted for any reason, including, but not limited to, suspected breaches by the user of his/her duties as a staff member, unlawful activities or breaches of University legislation and policies. Access to and monitoring of equipment includes, but is not limited to email, web sites, server logs and electronic files. The University may keep a record of any monitoring or investigations.
+k) University Liability
+The University accepts no responsibility for:
+•	The loss  or  damage  of  a  staff’s  property,  rising  from  the  use  of  th University’s ICT Resource.
+•	The Loss  of  data  or  interference  with  files  arising  from  the  University’s efforts to maintain the ICT Resource.
+l) Implementation And Non-compliance
+•	The Manager of Information Technology Department holds the responsibility for the implementation of this policy and shall take necessary actions in the event of violation of this policy.
+•	Alleged or suspected violations of the “Responsible Use of ICT Resources – Staff” should  be  reported  to  the  Director  of  the  Information Technology  Department. Abuse of ICT privileges is subject to disciplinary action, which may include the loss of these privileges.
+m) Entities Affected By This Policy
+All staff is affected by this policy.
+n) Maintenance Of Policy
+The Information Technology Department is responsible for the formulation and maintenance of this policy.
+
+C) ICT POLICY FOR STUDENT:
+a) ICT Resources
+These resources cover all ICT facilities including the UTS network, computers, computing laboratories, all associated networks in classrooms, lecture theatres and video conferencing room in the University, internet access both wired and wireless, email, hardware, data storage, computer accounts, software (Either proprietary or those developed by the University), printers and photocopy  machines.
+b) Access to ICT Resources
+This policy prescribes the conditions under which access to UTS ICT resources is granted.
+i) Lawful Use
+The use of ICT Resources must be lawful at all times. Unlawful use will breach this policy and will be dealt with as a disciplinary offence. Unlawful use of ICT Resources may also lead to criminal or legal action being taken against the student. The University will not defend or support any authorized user who uses ICT resources for an unlawful purpose.
+ii) Granting of Access and Entitlement
+Access to ICT Resources is approved by the relevant authority. Access is normally given based on a need to access that ICT Resource and is subject to the availability of those resources.
+iii) Non-Disclosure
+Student may be required to sign a Non-Disclosure agreement prior to authorization being granted for access to certain ICT Resources.
+iv) Responsibilities Regarding Use of University Computer Accounts
+Each authorized user is responsible for:
+•	The unique computer accounts which the University has authorized for the user’s benefit. These accounts are not transferable.
+•	Selecting and keeping a secure password for each of these accounts, including not sharing passwords and logging off after using a computer.
+v) Restrictions to Access
+Student are forbidden unauthorized access to accounts, data or files on UTS ICT Resources or any other ICT resource. The Administrator of an ICT Resource may restrict access to an individual user on the grounds that the user is in breach of this policy.
+c) Personal Use of ICT Resources
+i) Commercial Use
+ICT Resources must not be used for private commercial purposes.
+ii) University Liability
+The University accepts no responsibility for:
+•	Loss or damage or consequential loss or damage, arising from personal use of the University’s ICT Resources;
+•	Loss of   data   or   interference   with   personal  files  arising  from   the University’s efforts to maintain the ICT Resource.
+d) Internet, Email and Messaging
+i) Access to the Internet
+Academic Purposes:
+Authorized users are permitted to access the Internet for academic related purposes.
+Personal Use: 
+Access is also permitted for personal purposes provided such use is lawful and reasonable in terms of time and cost to the University.
+e) Personal Web Pages
+i) Publication of Personal Web Pages
+Student is permitted to publish personal web pages on computers connected to the UTS network. The content of material on personal web pages sites must be in accordance with any written law of the country.
+The University reserves the right to regularly monitor personal web page sites hosted on UTS servers, and to remove material, or request the user to remove or alter the content on their personal web page should it be inconsistent with any of the above.
+Special care must be taken with web pages so as not to infringe any third party copyright in an audio or video file, music charts/lyrics, photographs or text.
+ii) Disclaimer Required on Personal Web Pages
+A personal web page site must carry the UTS Personal Page Disclaimer as a standard disclaimer on every page. The disclaimer states that the web page site is not authorized by the UTS and that any opinions expressed on the pages are those of the author and not those of the University.
+iii) Responsibility for Personal Web Pages
+Legal responsibility for personal pages rests with the user. The University will not defend a user named in an action arising from material published on a personal web site and will not be liable for any damages awarded against the user by a court or commission.
+f) Email and Messaging
+i) User Responsibilities
+When using the email or messaging system, users must at all times:
+•	Respect the privacy and personal rights of others;
+•	Take all reasonable steps to ensure copyright is not infringed;
+•	Take all reasonable care not to plagiarize another person’s work; or defame another person;
+•	Not forward or otherwise copy a personal email (except with permission of the author) or an email which contains personal information or an opinion about a person whose identity is apparent (except with permission of that person);
+•	Not send forged messages, or obtain or use someone else’s e-mail address or password without proper authorization;
+•	Not send  mass  distribution  bulk  messages  and/or  advertising  without approval of the user’s Head of Department, or Administrative Head;
+•	Not send SPAM. The user must ensure that the recipient(s) of the intended email has/have consented to receive such email(s);
+•	Not harass, intimidate or threaten another person or other persons:
+•	Not send sexually explicit material, even if it is believed that the receiver will not object.
+ii) Standards Required When Using Email
+The  private  commercial  use  of  email  and  messaging  is  allowed  and appropriate standards of civility should be used when using email and other messaging services to communicate with other student, staff or any other message recipients. When using the email or messaging system, users must not send:
+•	Angry or  Antagonistic  Messages  –  these  can  be  perceived  as bullying  or  threatening  and  may  give  rise  to  formal  complaints under  grievance  procedures  or discrimination/sexual  harassment procedures;
+•	Offensive, Intimidating or Humiliating Emails  –  University  ICT
+•	Resources must not be used to humiliate, intimidate or offend another person or other persons on the basis of their race, gender, or any other attribute prescribed under the University and Malaysian anti-discrimination legislation.
+g) Security of ICT Resources
+i) Student’s Responsibilities
+•	A student is responsible at all times to:
+•	Act lawfully.
+•	Keep all ICT Resources secure.
+•	Not compromise  or  attempt  to  compromise  the  security  of  any  ICT Resource belonging to the University or other organizations or individuals, nor exploit or attempt to exploit any security deficiency.
+•	Take reasonable steps to ensure physical protection including damage from   improper   use,   food   and   drink   spillage,   electrical   power management, anti-static measures, and protection from theft.
+•	Ensure the computers are not left unattended without first logging-out and/or securing the entrance to the work area – particularly if the computer system to which they are connected contains sensitive or valuable information.
+h) Prohibited Use of ICT Resources
+i) Advertising and Sponsorship
+Paid advertisements are not permitted on any website using an UTS domain name, personal website or any website, which has a substantial connection with the University except with the written permission of the University authority.
+ii) Unauthorized Access
+Student are expressly forbidden from gaining unauthorized access or attempting to gain unauthorized access to ICT Resources belonging to the University and other organizations.
+iii) Peer-to-Peer File Sharing (P2P)
+Installation or use of peer to peer file sharing software is not permitted on the UTS network. Exceptions for legitimate teaching or research use must be approved by the University authority.
+iv) Pornography
+Student are not permitted to utilize the University’s ICT Resources to access , create, store or distribute pornographic material of any type.
+v) Gambling
+Student are not permitted to utilize the University’s ICT Resources to gamble.
+vi) Computer Games
+Student are not permitted to utilize the University’s ICT Resources to play computer games during normal office hours.
+i) Privacy and Surveillance
+i) Security and Privacy
+The accounts, files and stored data including, but not limited to, email messages belonging to student at the University are normally held private and secure from intervention by other student, including the staff of the Information Technology Department.
+There are situations in which duly authorized ITD staff may be required to intervene in user accounts, temporarily suspend account access or disconnect computers from the network in the course of maintaining the University’s ICT Resources such as repairing, upgrading or restoring file servers or personal computer systems.
+Students should be aware that ITD staff may from time to time become aware of  the  contents of  user ies and hard disk drives in the normal course of their work, and they are bound to keep this information confidential.
+ii) Access to and Monitoring of Equipment
+The  University  does  not  generally  monitor  email,  files  or  data  stored  on University ICT resources or traversing the University network. However, the University reserves the right to access and monitor any computer or other electronic  device  connected  to  the  UTS  network.  This  includes  equipment owned by the University and personal computing equipment (e.g. laptops) that are connected to the network.
+Access to and monitoring of equipment is permitted for any reason, including, but not limited to, suspected breaches by the user of his/her duties as a student, unlawful activities or breaches of University legislation and policies. Access to and monitoring of equipment includes, but is not limited to email, web sites, server logs and electronic files. The University may keep a record of any monitoring or investigations.
+iii) University Liability
+The University accepts no responsibility for:
+•	The loss  or  damage  of  a  student’s  property,  rising  from  the  use  of  th University’s ICT Resource
+•	The Loss  of  data  or  interference  with  files  arising  from  the  University’s efforts to maintain the ICT Resource.
+j) Implementation and Non-compliance
+•	The Manager of Information Technology Department holds the responsibility for the implementation of this policy and shall take necessary actions in the event of violation of this policy.
+•	Alleged or suspected violations of the “Responsible Use of ICT Resources – Student” shall be reported to Information Technology Department. Abuse of ICT privileges is subject to disciplinary action, which may include the loss of these privileges.
+k) Entities Affected By This Policy
+All students are affected by this policy.
+l) Maintenance Of Policy
+The Information Technology Department is responsible for the formulation and maintenance of this policy.
+D) LAB RULES & REGULATION
+a) Computer Lab Facilities
+Computer Lab facilities provided for UTS students and staff are intended solely for academic purposes only.
+•	Food and drink must not be brought into the labs.
+•	Users must keep the labs quiet and tidy when they are working in the labs.
+•	Users must use computer facilities only as instructed by lecturers and lab supervisors.
+•	Computers must not be used for anything other than coursework. Streaming and downloading movies are not allowed in the labs
+•	No one is allowed to use, or attempt to use any other users’ computer accounts.
+•	Users must not interfere with the normal operational controls in the system or try to alter the default system names or settings. Systems must be left running in the state in which they are found.
+•	Users must not attempt to overcome any system imposed controls or limits.
+•	Unauthorised programs of any sort must not to be installed and run onto any computers in the labs.
+•	Software or data on faculty computers should not be copied, altered or removed.
+•	Before leaving a workstation work should be saved and the computer logged It will be assumed that any machine found unattended has been finished with and it will be shut down or passed over to another user where people are waiting for access. No attempt will be made to save any current work.
+•	Computer peripherals such as mouse and keyboard shall not be removed from the computer labs.
+•	Users must push back his/her chair under the table before leaving the workstation.
+•	Users must provide proof of identity if requested by technician, and promptly comply with requests made individually or to a group.
+•	User is strictly advised to take care of their personal belonging all the time. The University is not responsible and liable to any loss of personal belonging in the computer labs.
+
+Corporate Administration and Relations Department (CARD)
+Roles:
+•	Event Management for the University
+•	Press Media Liaison for the University
+•	Graphic Design for the University
+•	Corporate Administration of the University
+•	Board of Director’s Secretariat
+Staff:
+1. Mohd Ian Daim Bin Mahmud
+Position: Manager
+Extension: 362
+Email: mohd.ian.daim@uts.edu.my
+Qualifications: Bachelor of Corporate Administration (Hons) (UiTM)
+2. Kelly A. Usit
+Position: Corporate Executive
+Extension: 364
+Email: kelly@uts.edu.my
+Qualifications: Master of Business Administration (UTS),
+Bachelor of Finance (Honours) (UNIMAS)
+3. Ts. Nur Azura Mohamad
+Position: Graphic Design Executive
+Extension: 363
+Email: nurazura@uts.edu.my
+Qualifications: Bachelor of Information and Communication Technology (Swinburne Sarawak)
+Human Capital And Administration Department 
+About Us
+Human Capital and Administration Department is responsible for the human resources program for the University and other non-academic and academic professional employees on our campus.
+This office provides a wide range of employee and departmental services, including guidance and counsel to units and employees on all human resources policies, review and processing of all appointments, coordination of Human Resource Committee approval items, and advice on all labor and employee relations issues.
+Policies:
+The main policy of the Human Capital & Administration Department is to promote a working environment which fosters employee satisfaction and development in areas of recruitment, benefits, compensation, staff development, creating innovative people strategies and anticipating emergency needs of the University.
+Objective:
+•	To provide efficient services to Staff (In term of accurate, timely and complete).
+•	To train and develop members of the staff to achieve their potential as key contribution in the work place.
+Staff:
+1. Jimmy De Rozario @ Abdul Rahman
+Position: Head of Department
+Email: jimmy@uts.edu.my
+Ext: 331
+2. Nurfaezah Binti Sharif
+Unit: Human Capital Management
+Position: Senior Executive
+Email: faezah@uts.edu.my
+Ext: 390
+3. Mohd. Shukri Bin Abdullah
+Unit: Permit & Welfare
+Position: Executive
+Email: mohd.shukri@uts.edu.my
+Ext: 392
+4. Nurfazrina Binti Hamdan
+Unit: Training and Development
+Position: Administrative Assistant
+Email: fazrina@uts.edu.my
+Ext: 330
+5. Asha Hazryn Binti Hol
+Unit: Human Capital Management
+Position: Senior Clerk
+Email: asha.hazryn@uts.edu.my
+Ext: 391
+Academic Affairs and Registry (AARD)
+Contact Details
+1. Location
+UNIVERISTY OF TECHNOLOGY SARAWAK
+1ST FLOOR, ADMINISTRATION BLOCK
+96000, SIBU SARAWAK
+2. Email
+AARDTEAM@UTS.EDU.MY
+3. Contact Number
+084-367300
+4. Working Hours
+MONDAY - FRIDAY : 0800 - 1700
+LUNCH BREAK : 1300-1400 (MON - THU)
+LUNCH BREAK : 1200 - 1400 (FRI)
+5. Website 
+For more information regarding AARD: https://aard.uts.edu.my/
+Vision of AARD
+The Office of Academic Affairs and Registry aspires to be committed, receptive, effective and innovative in upholding quality academic management and services, as well as personal and professional growth of team members. Where students’ academic progress is nurtured by warranting proper administration of academic processes from admission to graduation with secure and well maintained academic records, through close cooperation with schools and academic related departments.
+The Office of Academic Affairs and Registry seeks to serve the University with integrity and upmost ethical and professional principles, as well as to be acknowledged as professionally excellent, student-oriented and efficient in service.
+Mission of AARD
+The Office of Academic Affairs and Registry is the main supporting team in terms of academic management of the university, dedicated to present a supportive setting for on-campus teaching and learning via the Academic Management System in the Oculus.
+The Office advises the Vice Chancellor / President on matters pertaining to academic affairs and Registry and maintains liaison with Schools, related Centres and Departments within the University.
+The fundamental mission of the Office includes proper management and maintenance of academic affairs from admission to graduation such as registration, course and class scheduling, management and maintenance of student records, examination arrangement, graduation and convocation. 
+The Office is also responsible in the management of the Senate and Senate standing committees as well as maintenance of academic policies, guidelines and standard operating procedures (SOP) as approved by the Senate. The Office manages proceedings of the Senate and its standing committees, minute writing and related documentation and records.
+The Office supports the university’s mission of achieving academic excellence through continuous efforts on quality improvement and assuring best practices in academic management for all students. The Office is devoted to ethical and professional values in all capacities; maintaining precision, integrity, and confidentiality of student academic records, by observing policies, standards and guidelines as stipulated by the University and other related governing bodies.
+AARD Team
+1. Head of Academic Affairs & Registry Department
+Mdm Aspa Aida binti Mohamad
+Bachelor Science in Human Development (UPM)
+EXT: 339
+2. Executive (Admission & Record)
+Ambari Osman
+EXT: 342
+3. Executive (Examination & Graduation)
+Fizzahutiah Taha
+EXT: 334
+4. Senior Admin Assistant (Admission & Record)
+Nadiaizzati Mohamad
+EXT: 338
+5. Admin Assistant (Examination & Graduation)
+Peony Upang Jelani
+EXT: 335
+6. Senior Clerk (Admission & Record)
+Sabrina Bahrin
+EXT: 337
+7. Senior Clerk (Examination & Graduation)
+Mohd Nurazrie Annuar 
+EXT: 335
+8. Clerk (Registry & Academic Relation)
+Zurana Eba
+EXT: 336
+Online Application
+1. Foundation - https://oculus.uts.edu.my/apply/signup.php
+2. Undergraduate - http://oculus.uts.edu.my/apply/signup.php#type/undergraduate
+3. Postgraduate - https://oculus.uts.edu.my/apply/login.php
+Convocation Rules & Regulation 
+1. OVERVIEW
+1.1. Convocation ceremony is organized on a yearly basis to officially and ceremoniously confer degrees, certificates and awards for outstanding academic achievements to University of Technology graduates who participates in convocation ceremony.
+1.2. Date, venue and other information regarding the convocation will be determined and notified accordingly.
+2. GRADUATES’ ATTENDANCE
+2.1. Graduates are encouraged to participate in a convocation ceremony but not a compulsion.
+2.2. Graduates are required to furnish and return the attendance confirmation slip (ACS) in the OCULUS. All ACS must reach UTS not later than the stipulated date.
+2.3. Graduates are not allowed to defer convocation ceremony or nominate others to attend on their behalf.
+2.4. Confirmation of attendance is subject to receipt of graduation fee payment and all other dues (tuition fees/charges/fines – if any) by the University. Students are advised to check their dues with the bursary, library or related schools/departments.
+3. GRADUATION FEES
+3.1. All graduates are required to pay a graduation fee of RM300.00. Payment can be made via the following methods;
+i. Cash deposit/online banking/PBB counter to Edusar Resources Sdn. Bhd.
+Public Bank Acc. No: 3986851823
+Note: Make a copy of your bank –in slip/payment receipt. Write your name, ID
+number and hand phone number, scan, upload and email to
+payment@uts.edu.y (cc.: convo@uts.edu.my)
+ii. Cash Payment - Payment in cash can be made at the bursary counter, ground
+level, administration block, UTS.
+iii. Deduction from academic deposit.
+3.2. Graduation fee must be paid NOT later than 14 days before the convocation.
+3.3. For graduates NOT attending the convocation ceremony, their scrolls/transcripts will only be released, after the convocation and after graduation fee and other dues (if any) are paid.
+3.4. Graduates are required to keep the original receipt or bank in slip and present at convocation's registration counter as proof of payment.
+3.5. In the event of failure to attend the convocation ceremony, the graduation fee will not be refunded.
+3.6. Graduates attending the convocation ceremony are also required to pay RM100.00 as deposit for graduation attire. The deposit can be made in cash or credit card when they come to collect the graduation attire (other forms of payment will not be accepted). The amount will be refunded upon return of attire.
+3.7. Graduates will be penalized for any late returns as follows;
+3.7.1. 4th day after convocation – RM50.00
+3.7.2. 5th day onwards – additional RM10.00/day
+3.8. The penalty will be deducted from the rental deposit and any shortage or excess after the penalty will be charged/returned.
+3.9. The certificate/transcripts will be withheld until payment is made.
+3.10. Graduates are not allowed to make any alteration or modification to any part of the attire loaned to them. Penalties for lost or damaged items are as follows;
+3.10.1. Robe - RM 600.00
+3.10.2. Hood - RM 100.00
+3.10.3. Bonnet - RM 70.00
+3.10.4. Mortar Board - RM 70.00
+4. GRADUATION ATTIRE
+4.1. A graduation attire consists as follows;
+4.1.1. Robe
+4.1.2. Hood (color according to School)
+4.1.3. Black Mortar Board (Bachelors & Masters)
+4.1.4. Bonnet (Doctorates)
+4.2. Graduates must indicate/confirm their robes’ sizes in the ACS. Please take note that graduates will receive the attire based on the sizes available.
+4.3. Graduates conferred with Bachelor’s degrees will be attired in a dark-blue colored robe, a black colored mortar board, and a hood, colored according to the official school color.
+4.4. Graduates conferred with Master’s degrees will be attired in a light-brown colored robe, black colored mortar board, and a hood, colored according to the official school color.
+4.5. Graduates conferred with Doctorate’s degrees will be attired in a peach colored robe, a matching bonnet, and a hood, colored according to the official school color as below;
+SCHOOL HOOD - COLOR
+School of Engineering & Technology - Maroon
+School of Business & Management - Blue
+School of Built Environment - Green
+School of Computing & Creative Media - Orange
+School of Postgraduate Studies (Masters Degrees) - Nude Cream
+School of Postgraduate Studies (Doctorate Degrees) – Pink
+
+4.6. Graduates must ensure that;
+4.6.1. the graduation attire received is in good condition; and
+4.6.2. the correct attire is received
+4.6.3. If the students want to keep the attire for photo taking or other personal reasons, they are allowed to do so for TWO (2) consecutive days after the convocation. The attire must then be returned on the 3rd day after the convocation ceremony to Admin Office, Mezzanine Floor, Dewan Canselor Tun Abdul Taib Mahmud, UTS
+5. GRADUATION DRESS CODE
+5.1. Graduates attending the Convocation ceremony should dress according to the guidelines stated below;
+Female: Long dress/skirt covering the ankles.
+Long-sleeve blouse covered to the neck. (Any color)
+Proper shoes with heels.
+(Mini skirt, short pants, jeans, denims, sandals or slippers are strictly prohibited.
+
+Male: ‘Lounge Suit’ (dark colored)
+Shoes (black)
+Shorts, t-shirts, jeans, denims, sandals, sport shoes or slippers are strictly prohibited.
+5.2. Graduates should be in complete and decent attire and neatly groomed.
+5.3. The convocation ceremony is an official ceremony. Graduates are strongly advised to adhere to the prescribed dress code. 
+Graduates who fail to comply with the above Rules and Regulations, will not be allowed to attend the Convocation Ceremony.
+6. INVITATION
+6.1. All graduates can print the invitation letter for the convocation in the OCULUS. Announcement will also be posted via the UTS website.
+6.2. Each graduate will receive an invitation card which allows free entry for TWO (2) persons (parent/guardian) to enter the hall for the ceremony. The entry passes will be provided upon collection of attire.
+6.3. Extra entries will be charged RM50 per person, to cover goodies and refreshments. *subject to seats availability.
+7. BRIEFING AND REHEARSAL
+7.1. A briefing and rehearsal session will be scheduled and notified to students accordingly.
+7.2. All graduates are strongly encouraged to attend the briefing and rehearsal to have a better understanding of the flow of event and protocol involved during the ceremony.
+8. PROCESSION OF GRADUATES
+8.1. Graduates attending the convocation will be assembled on graduation day for preparation. They are required to observe instructions given by the officers-in- charge from time to time.
+8.2. Graduates are advised not to bring their bags or other personal/valuable possessions during the graduation ceremony for security reasons.
+8.3. Graduates who are late will not be allowed to take part in the convocation ceremony.
+8.4. Graduates with special needs (pregnant, disabled or injured) requiring equipment or assistance, must inform the University at least 2 weeks before convocation day.
+8.5. During the ceremony, graduates are required to listen and adhere to instructions and guidelines from the officers in charge.
+8.6. Graduates and / or guests are not allowed to leave the hall until the ceremony is over.
+9. INSTRUCTIONS FOR PARENTS/GUARDIANS AND GUESTS.
+9.1. Parents and Guests should be appropriately attired for the occasion. Short skirts, jeans and slippers are prohibited.
+9.2. Children below 12 years old are not allowed into the convocation Hall.
+9.3. Mobile phones must be switched off or set in silent mode during the entire ceremony.
+9.4. The use of flash lights is also prohibited as it might affect the quality of photos taken by our professional photographers. No one is allowed to come up to the front row to take photographs or capture videos during the convocation ceremony.
+9.5. Guests are requested to stay seated 20 minutes before the commencement of the ceremony.
+9.6. Kindly ensure to bring along the entry passes when attending the ceremony.
+9.7. Parents and guests are advised to have breakfast before entering the hall to ensure their health and wellbeing are taken care of during the proceedings of the convocation ceremony.
+9.8. Parents and guests are prohibited from bringing bouquets of flowers or souvenirs into the hall as they may disrupt the seating arrangement of other guests.
+10. CONFERMENT AND RECEIVING SCROLLS
+10.1. Graduates will receive their folders/scrolls one-by-one on stage from the Chancellor. To hasten process and avoid mistakes, actual certificates will be distributed after the ceremony.
+10.2. Graduates can collect the certificates when they return the graduation attire.
+10.3. Certificates will only be released to students who had fulfilled all requirements.
+i. Graduates must present the original receipt as a proof of payment for all fees.
+ii. Graduates who had returned their graduation attire must also present the receipt as proof of return.
+iii. Graduates unable to collect their certificates in person may send representatives to collect on their behalf. Graduates must furnish the authorization letter to allow the representative to collect the certificate.
+11. ALUMNI REGISTRATION AND TRACER STUDY
+Graduates are invited to register for UTS Alumni Association and furnish the tracer study form at http://graduan.mohe.gov.my/v/ in a time frame to be notified accordingly. Alumni registration form and printed tracer study slip is required to be presented during scroll collection.
+12. DECLARATION
+12.1. In the event there are certain matters which are not covered in these guidelines, but they are used in any process of the convocation and do not affect the good name of UTS or in violation of part or all of the section or subsection in the constitution of UTS, then it is justified and is not considered an attempt for non-compliance.
+12.2. These guidelines may be amended from time to time on the basis of requirements and demands intended to improve and enhance the authority of the convocation.
+UTS Timetable
+Follow the link and fill in your ID or password to check the timetable.
+1. Master Timetable - https://www.timetableplus.com/ucts/index.php/site/master
+2. Student Timetable - https://www.timetableplus.com/ucts/index.php/site/student
+3. Lecturer and Staff - https://www.timetableplus.com/ucts/index.php/site/login
+Examination Timetable 
+Follow the link and fill in your ID to check the timetable. Please make sure to clear the balance of your student statement and fill out the teaching assesments to access the timetable.
+https://www.timetableplus.com/ucts/index.php/site/studentExam
+Examination Rules and Regulations
+1. OVERVIEW
+1.1. Students are required to read and understand the examination rules and regulations regularly prior to examinations.
+1.2. Students must comply and adhere to the examination rules and regulations. Any breach of regulation, with or without intention, is regarded as "misconduct” and will be handled under the University's disciplinary procedures.
+1.3. Examinations will be scheduled to avoid wherever possible, recognised religious celebrations, festivals or ceremonies and key prayer times.
+1.4. If an examination clashes with any religious observation, every reasonable effort will be made to make alternative arrangements during the exam period or at a later supplementary examination where possible.
+2. EXAMINATION
+BEFORE ENTERING EXAMINATION ROOM
+2.1. Before sitting for examination, candidates are required to take the following actions;
+2.1.1. Peruse through the examination schedule and take note on all important information regarding the examination;
+2.1.2. Print out examination entry slip on the specified period and make sure all dues are fulfilled and completed.
+2.1.3. Take along identity card, student ID and examination entry slip to the examination. Candidates will not be allowed to sit for examination without these documents.
+2.1.4. Arrive at least fifteen (15) minutes prior to the commencement of the examination.
+2.1.5. Enter the examination hall when announced by the chief invigilator fifteen (15) minutes before examination starts through the ascribed entrance/s.
+2.1.6. For late arrivals, candidates may only be allowed to sit for the examination if they arrive within the first thirty (30) minutes into the examination.
+2.1.7. Candidates who arrive beyond thirty (30) minutes after examination starts will not be allowed to take the examination.
+2.1.8. Candidates are strongly discouraged to bring along personal belongings not meant to be used during the examination for safety reasons. Items mistakenly brought to the examination must be placed at a designated location outside the examination hall. Candidates shall then be solely responsible for the safety of their belongings;
+INSIDE EXAMINATION ROOM
+2.2. Upon taking seats in the examination hall, candidates are required to;
+2.2.1. Check their persons to ensure that they have not inadvertently brought in prohibited items into the examination hall. These unauthorised materials or devices may include, but not limited to;
+i. Book, manuscript, paper, picture, programmable calculator, bag, computer, mobile phones, electronic watches, device, equipment, or any other item/material other than those specified and allowed by the chief invigilator;
+ii. Data or information stored inside memory of mobile phone, calculator or any other form of electronic devices;
+iii. Written or printed notes of any kind or size;
+iv. Writing on any part of the body or items of clothing;
+v. Writing on a ruler or any other instruments;
+2.2.2. If there is any such items found, candidates must inform the invigilators so that the items can be placed at a designated open area inside the room. Mobile phones inadvertently brought into examination halls, must be first switched off and placed at the designated area throughout the examination. Candidates shall then be solely responsible for the safety of their belongings;
+2.2.3. Produce their identity card, student card and their examination entry slip and place them on the top right hand corner of the table throughout the examination for inspection by the invigilators.
+2.2.4. Candidates without a valid identity card/student card or examination entry slip will not be allowed to sit for the examination unless they have a written approval from the Examination Unit of the University.
+2.3. Ten minutes prior to the commencement of the examination, candidates are requested;
+2.3.1. To read and observe the instructions on the cover page of the answer booklet.
+2.3.2. To fill-in particulars on the answer booklet, answer sheets or other attachments (if any), attendance slip and any other information as required or advised by the Chief Invigilator.
+2.3.3. To ensure that the question paper received is correct and complete and immediately inform the invigilators present if the paper supplied is incorrect or incomplete.
+2.4. Candidates are strictly not allowed to answer the questions before the announcement of the commencement of the examination by the Chief Invigilator.
+2.5. Candidates are strictly not allowed to continue writing after the announcement made by the invigilators on the expiry of the examination duration.
+2.6. Candidates are not permitted to leave the examination hall within the first thirty (30) minutes after the commencement of the examination and fifteen (15) minutes before the completion of the examination.
+2.7. Candidates are strictly prohibited to communicate with other candidates or with other parties during examination.
+2.8. Candidates are not permitted to render or receive any form of assistance on matters pertaining to the examination, when the examination is in progress.
+2.9. Candidates must adhere to the instructions of the invigilators at all times.
+2.10. Candidates who are ill and not able to continue with the examination must inform the invigilator.
+2.11. Candidates are required to arrange and tie all answer booklet, cover sheet and/or the answer scripts at the end of the examination as instructed.
+2.12. Candidates are not allowed to bring out blank, used and spoiled answer sheets and/or answer booklet cover sheet from the room/hall after the examination.
+2.13. Candidates must return all borrowed University items for use during the examination to the invigilators at the end of the examination.
+2.14. Candidates must remain seated in the examination hall unless allowed otherwise by the invigilator.
+2.15. Candidates must leave the examination hall in an orderly manner.
+3. ACADEMIC OFFENCE
+3.1. Students are deemed to have done an academic offence when they do the following;
+3.1.1. Bringing prohibited items/materials into the examination room/hall or possess unauthorised document/information in hard or soft copy or any other sources of unauthorised information inside the examination room/hall.
+3.1.2. Copying information from any unauthorised source, manual or electronics during the examination;
+3.1.3. Copying from the examination script of other candidate/s;
+3.1.4. Obtaining or offering improper assistance from or to other candidate/s;
+3.1.5. Referring to and using any prohibited reference materials in or outside the examination hall/room for the purpose of cheating during the examination.
+3.1.6. Communicating with other candidates during the examination.
+3.1.7. Soliciting, obtaining, possessing, or distributing to another person an examination document prior to or subsequent to the administration of the examination.
+3.1.8. Altering or changing an examination or similar document so as to mislead other users or the reader.
+3.1.9. Substituting for, arranging for substitution by another student, impersonating a candidate or allowing to be impersonated by another candidate during examination session or similar circumstances.
+3.2. Forgery or misrepresentation of fabricated data, results, references, evidence or other materials such as;
+3.2.1. falsely claiming to have carried out experiments, observations, interviews or other forms of research;
+3.2.2. falsely claiming to have obtained results or other evidence;
+3.2.3. in the case of professional qualifications, falsely claiming to have completed hours in practice or to have achieved required competencies;
+3.3. Plagiarism - presenting work or idea of others as one’s own without acknowledging the sources, including unauthorised use and submission of other student’s work as own.
+Collusion: cooperation in order to gain unlawful advantage e.g students collaborating on a piece of work and submitted as individual efforts.
+3.4. The above list is not exhaustive and other instances of academic offence may occur. Their identification will require prudent review by the University.
+3.5. The above definition and examples apply to all schools and similar bodies in University College of Technology Sarawak.
+4. DISCIPLINARY ACTION FOR ACADEMIC OFFENCES
+4.1. Candidates who are suspected to breach any part of the examination rules and regulations will be referred to the School where the misconduct was done.
+4.2. The Dean will consider the evidence and may investigate and call the student for hearing by the School Disciplinary Committee (SDC).
+4.3. If SDC is satisfied that the student is guilty of academic misconduct, the case will then be referred to Academic Disciplinary Committee (ADC) for further decision and penalty.
+4.4. Students who are not satisfied with ADC’s decision may appeal to the Disciplinary Appeals Committee (DAC).
+5. PENALTIES FOR BREACH OF EXAMINATION RULES & REGULATIONS
+5.1. A written warning;
+5.2. A mark of zero for the specific part/material involved;
+5.3. A mark of zero for the entire piece of coursework or assessment;
+5.4. A mark of zero for the entire module.
+5.5. Award a mark of zero for all the assessments in the semester;
+5.6. Award a mark of zero for the whole year;
+5.7. Require the student to take reassessments in the following session;
+5.8. In the case of postgraduate students by research, confirm the student’s probationary
+status and require the student to undertake another annual (confirmation) review;
+5.9. Require a postgraduate student to resubmit a thesis;
+5.10. Suspend or terminate the student’s study programme;
+5.11. Withdraw the award of a degree or other qualification from a former student;
+6. DECLARATION
+6.1. In the event there are certain matters which are not covered in these Rules and regulations, but they are used in any process of the examination management and do not affect the good name of UCTS or in violation of part or all of the section or subsection in the constitution of UCTS, then it is justified and is not considered an attempt for noncompliance.
+6.2. Subject to the approval of the Senate, these rules and regulations may be amended from time to time on the basis of requirements and demands intended to improve and enhance the authority of the examination management.
+Student Development & Services Centre (SDSC)
+The website of SDSC: https://sdsc.uts.edu.my/
+About Us
+SDSC provides support services and other development opportunities to UTS students during their stay at the university. The areas covered by SDSC are:
+•	Assistance on study loans with PTPTN, MARA, Yayasan Sarawak, Sarawak Energy and other agencies
+•	Management and administration of student accommodation
+•	Student Leadership and Entrepreneurial Development
+•	Student Activities and Development
+•	Student Alumni
+•	Student Counselling Services
+Staff
+a) Admin & Student Residential
+1. Mohd Riyad Bin Kailan
+Position: Clerk
+Contact Number: 082-367595
+E-mail: mohd.riyad@uts.edu.my
+2. David Ling Chai Kiong
+Position: Senior Executive
+Contact Number: 084-367596
+E-mail: david@uts.edu.my
+3. Hazman Bin Mohamad
+Position: Clerk / Hostel Warden
+Contact Number: 084-367597
+E-mail: hazman@uts.edu.my
+
+b) Financial Assistance & Welfare
+1. Fadhilah Binti Ideris
+Position: Senior Executive
+Contact Number: 084-367375
+E-mail: fadhilah@uts.edu.my
+2. Liza Binti Yusuf
+Position: Clerk
+Contact Number: 084-367377
+E-mail: liza@uts.edu.my
+
+c) Cultural Activities, Welfare & Liaison
+1. Alden Anak Allen
+Position: Executive
+Contact Number: 084-367373
+E-mail: alden@uts.edu.my
+
+d) Counseling & Career Guidance
+1. Hamidah Binti Rapaee
+Position: Counselor Executive 
+Contact Number: 084-367378
+E-mail: hamidahrapaee@uts.edu.my 
+2. Limena Anak Ugak
+Position: Counselor Executive
+Contact Number: 084-367598
+E-mail: limena@uts.edu.my
+Apply Counseling / Consultation: https://forms.gle/LrpFeb87aiGToW4w6
+e) Alumni, Career & Entrepreneurship 
+1. Ivan Sia Sien Wei
+Position: Executive
+Contact Number: 084-367376
+E-mail: ivan@uts.edu.my
+
+f) Student Sport & Facilities
+1. Saiful Bin Norahim
+Position: Executive
+Contact Number: 084-367595
+E-mail: saiful@uts.edu.my
+
+g) Student Activity & Development
+1. Chu Yieng Ni
+Position: Senior Executive
+Contact Number: 084-367372
+E-mail: chuyiengni@uts.edu.my
+2. Shawn Koh 
+Position: Executive
+Contact Number: 084-367374
+E-mail: shawn.koh@uts.edu.my
+
+h) Director of SDSC
+Lu Yew King 
+Contact Number: 084-367371
+E-mail: luyewking@uts.edu.my
+UTS Student Council 
+Vision:
+Foster a vibrant, inclusive student community prioritising academic excellence, personal growth, and cultural diversity. Empower students through effective representation, a conducive learning environment, and impactful initiatives for a holistic university experience.
+Mission:
+Be a dynamic, student-centric organisation championing well-being and aspirations. Cultivate belonging, instill leadership, and foster innovation, shaping individuals who positively impact society.
+Student Council’s Initiatives:
+1. Facebook: https://www.facebook.com/utsstudentcouncil2021?mibextid=ZbWKwL
+2. TikTok: https://www.tiktok.com/@uts.student.council?_t=8irUvoTKzai&_r=1
+3, Instagram: https://www.instagram.com/utsstudentcouncil2024?igsh=MWs5cW42ZWRqaDJmaQ== 
+4. YouTube: https://www.youtube.com/channel/UCsX3noD2q3AVoFr17qCljKQ
+5. Student Complaint Form: https://docs.google.com/forms/d/e/1FAIpQLSfEGxfHbzmXSEsZ07f0FzGgkU61IeaXl-3PHo0tEOzLmOhlrA/viewform
+Guidelines for Entertainment Activities (Concerts)
+1.0 BACKGROUND
+1.1 This document is prepared based on the current requirements of the Ministry of Higher Education (MOHE) as an organisation that regulates policies to a need in Public and Private Universities.
+1.2 It is comprehensive that the latest Guideline such as this is required and wished by the Jabatan Pendidikan Tinggi (JPT) to be published to assist all the related IPT parties in organising student activities and programs in the form of entertainment such as concerts.
+2.0 OBJECTIVES
+This Guideline is a document that is owned and maintained by the Student Council of the University of Technology Sarawak, and only they can alter or remove any items that are contained within these Guidelines.
+The following shows the objectives of this Guideline:
+2.1 By setting procedures that are the most important needed to be implemented into entertainment activities and programs in the form of concerts that students in the premises of an IPT organise.
+2.2 Ensuring any and all entertainment activities in the form of concerts do not exceed any limits that are set to a point that involves students and staff in IPT.
+2.3 To protect the name and image of the university as a knowledge development centre and will not be badly influenced by entertainment activities that are extreme in the eyes of the public. 
+However, the Guidelines do not apply towards academic activities such as “Recital” for students in the studies of art.
+3.0 TERMS AND ABBREVIATIONS
+For the purposes of these guidelines, the following interpretations apply meaning that refers to:
+"Concert" refers to a performance of music by one or more musicians or singers (Cambridge Dictionary). Taking from the essence of the meaning, these guidelines establish the meaning of a concert as a musical performance involving singers and musicians or singers without musicians in front of the audience. Concerts at Public and Private Universities refer to the organisation by student or staff association or department in the university or staff association within the university.
+"Entertainment" refers to something that can entertain (please) the heart; something (act, thing, etc.) for comfort (pleasure, calm) the heart; a joy and peace of mind that any person can get from a thing; an art, ability to entertain and give satisfaction in any way reasonable. To please any person; art and cultural performances that are exhibited and offered to the audience.
+"Closed Concerts" refers to concerts conducted indoors or closed in Public University Premises. 
+"Open Concert" refers to a concert held at a venue like in the field, expo site or others inside the premises of a University.
+"Premises" refers to a building or any other structure, permanent or on the other hand. Premises in this document refer to the area inside the university including halls, fields, expo sites and more.
+"Mosh Pit" refers to a space provided for spectators standing in concert.
+"Musical Instruments" refers to musical instruments currently in use when a concert is held.
+"Organiser" refers to the Concert Organizing Committee.
+"Procedure" refers to the procedures or rules for conducting a concert at a university. 
+"Performance" refers to a performance in a concert at the University.
+"Segment" refers to parts of a presentation concert at the University.
+"Internal Artist" refers to performance participants among students or staff of the University. They consist of singers, musicians, comedians or other professionals who are invited to make the concert a success.
+"Outside Artist" refers to entertainers, singers, dancers, and musicians who are not made up of students or university staff. They are composed of professional and semi-professional artists.
+"Guest Artist" refers to non-inside performance participants among students or staff of the University. The guest artist consists of singers, musicians, comedians, magicians or other professionals, who were specially brought to make the concert a success. They represent individuals or companies.
+"Host" refers to the concert host for either segment protocol or semi-protocol.
+"Choreographer" refers to the person who creates the dance moves.
+“Dancer” refers to a dancer; anak dance, an accompanying dancer artist performance during the concert.
+"Recital" refers to a stage performance for academic purposes and art studies. The recital also refers to academic assessment through a presentation for academic purposes.
+"Genre" refers to a category or type of literary or artistic work that is characterised by a certain style, form, or content. Genre in this document refers to the type of music flow in the organisation music.
+"Contract" refers to the contract between the promoter and the company to run a concert.
+"Sponsors" refers to those who sponsor either concert in the form of money or goods. Sponsors consist of people, individuals, companies, government agencies, non-governmental organisations and parties.
+“Local Authority” refers to the Council/City Hall; Municipal Council; or the District Council according to their respective localities each responsible for administering and managing public facilities in a district, city etc.
+
+The following abbreviations are used to refer to:
+IOHE : Institution of Higher Education
+MOHE : Ministry of Higher Education
+SDSC : Student Development & Services Centre
+UTSSC : University of Technology Sarawak Student Council
+VIP : Very Important Person
+VVIP : Very Very Important Person
+LGBT : Lesbian, Gay, Bisexual and Transgender
+LA : Local Authority
+JPT : Department of Higher Education
+4.0 ACTIVITY APPROVAL
+4.1 In line with the Student Empowerment Agenda, the UTSSC is given appropriate responsibility and authority to plan, approve and implement student activities/programs organised by any student association/body at the university level (Refer to Procedure Management of Student Activities in Public Universities; 2023).
+4.2 Every organised activity/program in the form of a concert needs to get approval of the organisation of activities from the level Committee UTSSC first. Then, go through a Risk Assessment by SDSC.
+4.3 Every organisation of activities/concert programs that has been approved by the UTSSC needs to go through a risk assessment process by the SDSC. After the two (2) processes are done, the parties involved must submit an official notification/letter to the University for record purposes (subject to further instructions from SDSC).
+4.4 The University has the right to give a warning or suggest any action against the performance of the concert if it is found to have a negative impact on various levels.
+5.0 CONCERT ORGANISATION
+5.1 The concert organising committee must consist of one-person advisors among university officials whose expertise is recognized in handling, providing advisory services and managing any risks and contingency plans for the desired concert event.
+5.2 Technical advice and event management should be referred to the Maintenance & Security Department and SDSC.
+5.3 Security advice should be referred to the Maintenance & Security Department from time to time.
+5.4 All matters related to the promotion and publicity of the program on posters, banners, bunting, backdrop, wall of fame, portal, social media and all forms of announcements including digital materials need to be verified and approved by the SDSC first.
+5.5 Organisers must ensure that concert performances do not induce the extreme behaviour of the artist, the audience or the secretariat and do not contain elements that can divide unity races.
+6.0 INVITED ARTIST
+6.1 Organisers need to ensure that guest artists do not have controversies in the country or abroad.
+6.2 Organisers must ensure that guest artists are not represented or associated with groups that are not recognized by society or the law of Malaysia (Example: LGBT, Lesbian and others).
+6.3 Organisers need to ensure that guest artists do not cause harm or damage the image of the university while performing the above stage inside the university premises (Example: smoking cigarettes etc.)
+7.0 APPEARANCE OF ARTIST ON STAGE
+7.1 Organisers need to ensure that the artist's clothing while on stage is appropriate. Men are not allowed to cross-dress women's clothes and vice versa.
+7.2 Organisers need to ensure that artists do not wear any symbols which are not accepted by society (Example: Illuminati emblem on the shirt, pornographic symbols, symbols expressing support for LGBT, hair punk and others).
+7.3 Organisers need to ensure that guest artists do not perform stunts that are inappropriate.
+7.4 Organisers must ensure that all those directly involved in the organisation of the concert whether the artist, the secretariat or the audience involved in the concert wear appropriate and decent clothes.
+8.0 BACKUP DANCERS
+8.1 If the artist's concert performance is accompanied by dancers, the organiser must ensure:
+8.1.1 The attire worn by the dancers should be modest and appropriate.
+8.1.2 The physical contact between male and female dancers should remain respectful and appropriate, avoiding any instances of improper touching.
+8.2 Organisers need to ensure that dancers do not perform dance moves that are inappropriate during the performance.
+9.0 MUSIC GENRE
+9.1 Organisers need to ensure the genre of music and the lyrics of the song that will be presented with the approval of the SDSC.
+9.2 The organiser needs to ensure the lyrics of the song that will be performed by the artist groups or individuals do not touch the sensitivities of Malaysians.
+10.0 AUDIENCE POSITION
+10.1 Organisers need to provide spectator space for the event's indoorand outdoor concerts.
+10.2 Organisers need to cooperate with university security and the police (if necessary) for audience control for concerts outside the hall. For spectators who do not get seats for concerts outside the hall, theorganisers need to monitor and ensure the behaviour of the audience.
+10.3 It is not recommended that the artist invite the audience on stage. However, the artist is not prohibited from bringing a limited number of people onto the stage. That does not harm the stage or performers in any way or form.
+10.4 Organisers need to prepare an emergency route in case of any incident undesirable. Committees need to warn the audience about emergency routes. A safety briefing should be given to the audience at the beginning of the program before the concert event begins. There is a video screening or a briefing by a committee.
+11.0 DISPLAY ON LED SCREEN DURING THE CONCERT
+11.1 Organisers need to ensure the display on the screen throughout the concert does not display any negative form of religion, racial and political sensitivity.
+11.2 Organisers need to be informed of any changes in the concert's itineraries.
+12.0 MUSIC INSTRUMENTS
+12.1 Musical equipment must be suitable for the concert.
+12.2 The organiser needs to ensure the music equipment of the guest artists inside and outside does not have any stickers that symbolise any support against groups not recognized by Malaysian Law, logos or obscene symbols, or political logos. (Example: LGBT stickers on guitars, logos, politics on the floor tom drum, etc).
+12.3 Musical instruments in the form of weapons are prohibited.
+13.0 CONCERT POSTERS AND HANDOUTS
+13.1 Organisers need to get advice from the SDSC within providing handout materials whether in the form of posters, leaflets, brochures or any leaflets for promotional and publicity purposes.
+13.2 The position of the university logo and the logo of the organiser and sponsor must follow proper logo arrangement based on protocol.
+13.3 Organisers are reminded to take care of the image of the university in providing any leaflets.
+14.0 FUNCTIONS OF ADVISORS AND MONITORING OFFICERS
+14.1 The university management needs to appoint an Advisor/Monitoring Officer who has experience in providing advisory and guiding services to students, but the management process and implementation are left to the UTSSC until the program is successfully implemented. Advisor/Officer Monitors should consist of university officials. Their role is to monitor the entire course of the concert from start to finish.
+14.2 The Director of the SDSC or an officer nominated by The Director of the SDSC should be appointed as a technical advisor during the course of the concert. Technical advisors are necessary to ensure the preparations and the concert journey are in good condition and control.
+15.0 VIOLATION OF TERMS AND RULES
+15.1 Students or Association Bodies or Organizers who violate the Guidelines that have been set will be subject to actions which are related as follows:
+15.1.1 Any student violates the established rules and the program affects the image and reputation of the university, concerts can be cancelled immediately. Disciplinary action is possibly taken against the organisers.
+15.1.2 Reservations and use of premises will be cancelled either before or during the program by the technical advisor.
+15.1.3 Deposit Payment will be forfeited.
+15.1.4 Legal action may be imposed on the organiser (if involving external organisations) based on the level assessment risk of loss, safety, damage, reputation and image of the University.
+15.2 These guidelines should be read in conjunction with the guidelines at the level of universities and PBT according to their respective localities.
+15.3 In case of an emergency, UTSSC is allowed to amend and/or take action on any and all changes during the duration of the concert/event.
+16.0 AMENDMENT
+16.1 The guideline may be amended after a request is approved by a two-thirds majority of the UTSSC.
+16.2 Where a request is made by the UTSSC to amend these procedures, the UTSSC shall prepare a draft of the proposed amendments accompanied by an explanation as to the purpose of such changes.
+16.3 Such a request will be submitted by the UTSSC in the first instance to the SDSC where it will initially be assessed as to the impact of any suggested changes.
+16.4 The decision by the SDSC shall be final.
+16.5 From time to time, these procedures will be reviewed by the SDSC in consultation with stakeholders.
+Guidelines of UTS Club
+Please refer to https://drive.google.com/file/d/125yKGG57mMKb2YzPqmScsCAzjvX2vQwk/view?usp=sharing regarding the UTS Club guidelines.
+Student Accomodation 
+The student accommodation comprises of UTS Hostel, Unicity Hostel and Unicity Shoplot for our students especially those from outside Sibu. For latest update, please refer to the student accommodation website: https://sdsc.uts.edu.my/new-hostel-page/ 
+For Application of the Hostel Status on the following Semester:
+Kindly login to UTS Oculus (https://oculus.uts.edu.my/login.php), select your preferable application under the Hostel part.
+Calender for Application of the Hostel Status on the Following Semester:
+Access the link for more details: https://sdsc.uts.edu.my/calendar/
+UTS Hostel – On Campus
+-	Priority is given to First Year Foundation and Undergraduates students based on Hostel Policy 1.2 & 1.3. This application priority is given to new student (Foundation or Undergraduates), student who first apply to stay in hostel and withdrawal from hostel before
+-	The UTS hostel consists of 2 blocks of apartments (male & female), strategically located within the campus. Each apartment consists of 14 levels with a capacity of 378 students. All 2 blocks together will be able to accommodate about 756 students.
+-	The hostel is furnished with the following:
+1. Room
+* Single bed + 2 drawers (3 feet width) 
+* Book shelf with study table, drawer and chair 
+* Wardrobe 
+* Own lighting switch & socket 
+* Curtain 
+* Basin with mirror 
+* Air-condition / Ceiling-fan 
+* Door card access 
+2. Hostel Facilities
+* Free car park (First come first served basis) 
+* Shared bathroom & toilet (Hot and Cold water) 
+* 2 Lift at each block
+* Equipped with 24-hours CCTV at corridor
+* Security guard
+* Water dispenser at ground floor Laundry room
+* Laundry service at ground floor
+* Cafeteria & Vending machine
+Note:
+* Full hostel fees must be paid in advance; Hostel deposit is refundable upon hostel withdrawal in Oculus.
+* Missing of access card will be charged to occupant RM50.00 each.
+* Any broken item in the room will be charged to occupants.
+-	Room Type Offered: Twin-sharing Room (Ceiling Fan / Air-conditioner) only
+-	Foundation / Undergraduate (Rate per person):
+1. Long Semester (Approximate 5 months per semester)
+*Room Type A (Twin Sharing / Ceiling Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,250
+First Entry (RM): 1,750
+
+*Room Type C (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 1750
+First Entry (RM): 2,500
+2. Short Semester (Approximate 2 months per semester)
+*Room Type A (Twin Sharing / Ceiling Fan)
+Deposit (RM): 500
+Every Semester (RM): 500
+First Entry (RM): 1,000
+
+*Room Type C (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 700
+First Entry (RM): 1,450
+-	School of Postgraduates (Rate per person):
+1. By Coursework (Approximate 5 months per semester)
+*Room Type A (Twin Sharing / Ceiling Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,250
+First Entry (RM): 1,750
+
+*Room Type C (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 1,750
+First Entry (RM): 2,500
+2. By Research (Approximate 6 months per semester)
+*Room Type A (Twin Sharing / Ceiling Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,500
+First Entry (RM): 2,000
+
+*Room Type C (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 2,100
+First Entry (RM): 2,850
+-	Link to view more photos of UTS Hostel – On Campus: https://sdsc.uts.edu.my/photo-uts-hostel/
+-	Click https://forms.gle/B3gVgKuDbB3uD2mC9 to apply.
+Unicity Hostel (Jalan Wawasan) – Off Campus
+-	Priority is given to Second (2nd) Year onwards students who first apply to stay in Unicity hostel and withdrawal from hostel before.
+-	The Return from Temporary Withdrawal (RTW) application is for resident who applied Temporary Withdrawal before due to Internship/Practical or not taking short semester.
+-	Unicity Hostel located at Jalan Wawasan, Sibu (Next to the Sg. Merah Police Station), is a new accommodation for UTS students. Situated in a commercial centre, about 1.5km from UTS Campus, the hostel can accommodate about 460 students.
+-	Room Type offered: Twin-sharing or Triple-sharing Room (Fan / Air-conditioner) only
+-	Foundation / Undergraduate (Rate per person):
+1. Long Semester (Approximate 5 months per semester)
+*Room Type F (Twin Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,500
+First Entry (RM): 2,000
+
+*Room Type G (Triple Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,250
+First Entry (RM): 1,750
+*Room Type I (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 2,000
+First Entry (RM): 2,750
+
+*Room Type J (Triple Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 1,750
+First Entry (RM): 2,500
+2. Short Semester (Approximate 2 months per semester)
+*Room Type F (Twin Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 600
+First Entry (RM): 1,100
+
+*Room Type G (Triple Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 500
+First Entry (RM): 1,000
+
+*Room Type I (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 800
+First Entry (RM): 1,550
+
+*Room Type J (Triple Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 700
+First Entry (RM): 1,450
+-	School of Postgraduates (Rate per person):
+1. By Coursework (Approximate 5 months per semester)
+*Room Type F (Twin Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,500
+First Entry (RM): 2,000
+
+*Room Type G (Triple Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,250
+First Entry (RM): 1,750
+*Room Type I (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 2,000
+First Entry (RM): 2,750
+
+*Room Type J (Triple Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 1,750
+First Entry (RM): 2,500
+2. By Research (Approximate 6 months per semester)
+*Room Type F (Twin Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,800
+First Entry (RM): 2,300
+
+*Room Type G (Triple Sharing / Fan)
+Deposit (RM): 500
+Every Semester (RM): 1,500
+First Entry (RM): 2,000
+
+*Room Type I (Twin Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 2,400
+First Entry (RM): 3,150
+
+*Room Type J (Triple Sharing / Air-conditioner)
+Deposit (RM): 750
+Every Semester (RM): 2,100
+First Entry (RM): 2,850
+-	The hostel is furnished with the following:
+1. Room
+* Super Single Bed (3.5 feet width) 
+* Study table + 2 drawers (1 drawer with lock) with chair 
+* Wardrobe 
+* Own lighting switch & 2 sockets 
+* Curtain 
+* Air-Condition / Fan 
+- Each air-con room is subsidized RM100 for electrical charges. Any extra expenses will be charged to the room occupant. 
+* Door card access
+* Each room is equipped with bathroom & toilet (Hot and Cold water) 
+2. Hostel Facilities
+* Lift 
+* Equipped with 24-hours CCTV at corridor 
+* Security guard 
+* 2 water dispenser on each floor
+* Supermarket at Ground floor & 1st Floor
+* Laundry service at top floor
+* Hall for Discussion (For Male/ Female occupants) 
+* Bus from hotel to campus and vice-versa
+* Free car park (First come first served basis)
+Note:
+* Air-Condition Room: Full hostel fees must be paid in advance.
+* Missing of access card will be charged to occupant RM50.00 each.
+* Any broken item in the room will be charged to occupants.
+-	Link to view more photos of Unicity Hostel (Jalan Wawasan) – Off Campus: https://sdsc.uts.edu.my/photo-unicity-hostel/ 
+-	Click https://forms.gle/37VPby1vL9jaYiPE9 to apply.
+Unicity Shoplot (Jalan Wawasan) – Off Campus
+-	Priority is given to Second (2nd) Year onwards students who first apply to stay in Unicity Shop lot and withdrawal from hostel before. 
+-	The Return from Temporary Withdrawal (RTW) application is for resident who applied Temporary Withdrawal before due to Internship/Practical or not taking short semester.
+-	Unicity Shop lot located at Jalan Wawasan, Sibu (Behind Medan Supermarket), is a new accommodation for UTS students. Situated in a commercial centre, about 1.5km from UTS Campus, the hostel can accommodate about 192 students. The 1st floor is for single bed fan room while the 2nd floor is for single air-con room.
+-	Room Type offered: Single Room (Fan / Air-conditioner) only
+-	Foundation / Undergraduate (Rate per person):
+1. Long Semester (Approximate 5 months per semester)
+*Room Type K (Single Fan)
+Window: No
+Deposit (RM): 500 
+Every Semester (RM): 1,750
+First Entry (RM): 2,250
+
+*Room Type L (Single Air-conditioner)
+Window: No
+Deposit (RM): 750
+Every Semester (RM): 2,250
+First Entry (RM): 3,000
+
+*Room Type M (Single / Fan)
+Window: Yes
+Deposit (RM): 500
+Every Semester (RM): 2,000
+First Entry (RM): 2,500
+
+*Room Type N (Single / Air-conditioner)
+Window: Yes
+Deposit (RM): 750
+Every Semester (RM): 2,500
+First Entry (RM): 3,250
+2. Short Semester (Approximate 2 months per semester)
+*Room Type K (Single Fan)
+Window: No
+Deposit (RM): 500 
+Every Semester (RM): 700
+First Entry (RM): 1,200
+
+*Room Type L (Single Air-conditioner)
+Window: No
+Deposit (RM): 750
+Every Semester (RM): 900
+First Entry (RM): 1,650
+
+*Room Type M (Single / Fan)
+Window: Yes
+Deposit (RM): 500
+Every Semester (RM): 800
+First Entry (RM): 1,300
+
+*Room Type N (Single / Air-conditioner)
+Window: Yes
+Deposit (RM): 750
+Every Semester (RM): 1,000
+First Entry (RM): 1,750
+-	School of Postgraduates (Rate per person):
+1. By Coursework (Approximate 5 months per semester)
+*Room Type K (Single Fan)
+Window: No
+Deposit (RM): 500 
+Every Semester (RM): 1,750
+First Entry (RM): 2,250
+
+*Room Type L (Single Air-conditioner)
+Window: No
+Deposit (RM): 750
+Every Semester (RM): 2,250
+First Entry (RM): 3,000
+
+*Room Type M (Single / Fan)
+Window: Yes
+Deposit (RM): 500
+Every Semester (RM): 2,000
+First Entry (RM): 2,500
+
+*Room Type N (Single / Air-conditioner)
+Window: Yes
+Deposit (RM): 750
+Every Semester (RM): 2,500
+First Entry (RM): 3,250
+2. By Research (Approximate 6 months per semester)
+*Room Type K (Single Fan)
+Window: No
+Deposit (RM): 500 
+Every Semester (RM): 2,100
+First Entry (RM): 2,600
+
+*Room Type L (Single Air-conditioner)
+Window: No
+Deposit (RM): 750
+Every Semester (RM): 2,700
+First Entry (RM): 3,450
+
+*Room Type M (Single / Fan)
+Window: Yes
+Deposit (RM): 500
+Every Semester (RM): 2,400
+First Entry (RM): 2,900
+
+*Room Type N (Single / Air-conditioner)
+Window: Yes
+Deposit (RM): 750
+Every Semester (RM): 3,000
+First Entry (RM): 3,750
+-	The Unicity Shop lot is furnished with the following:
+1. Room 
+* Single Bed with mattress (3 feet width) 
+* Study table with drawers lock 
+* Plastic Chair 
+* Wardrobe 
+* LED light & Power socket 
+* Window with Curtain (subject to the room condition) 
+* Wall fan & Aircon (For Air-con type only) 
+- Each air-con room is subsidized RM100 for electrical charges. Any extra expenses will be charged to the room occupant.
+* Timber flooring 
+* Sound proof partition 
+* Emergency escape plan (stick behind each room door)
+2. Unit Facilities
+* Card access to enter main door 
+* 24 hours CCTV surveillance for main door unit 
+* Patrol Station - ground floor (Clock key by the Security guard)
+* Polis Box at ground floor (Patrol by Police)
+* Timber Flooring (Except pantry and washroom)
+* Dining Table with 6 chairs 
+* Study Table with chairs 
+* Free Internet Wi-Fi
+* COWAY water dispenser at pantry for each unit (First come first served basis)
+* Washing Machine
+* Refrigerator
+* Induction cooker, Rice cooker
+* 2 bathroom with toilet
+* Water heater with built in pump
+* Bus from hotel to campus and vice-versa
+* Free car park (First come first served basis)
+Note:
+* Air-Condition Room: Full hostel fees must be paid in advance.
+* Missing of access card will be charged to occupant RM50.00 each.
+* Any broken item in the room will be charged to occupants.
+-	Link to view more photos of Unicity Shoplot (Jalan Wawasan) – Off Campus: https://sdsc.uts.edu.my/photo-unicity-shop-lot/ 
+-	Click https://forms.gle/AkA3DrcvMqHNV53N7 to apply.
+Hostel Policy
+1. Definition & Priority
+1.1   All students, staff, or, visitors who stay in the UTS hostel are referred to as residents.
+1.2   UTS Hostel on campus room priority open for:
+        1.2.1   First Year non-Sibu students (If room still available, only open for 1.2.2)
+        1.2.2   Final Year non-Sibu students (If room still available, only open for 1.2.3)
+        1.2.3   Staying far (more than 20KM) from Campus but subject to room availability after registration week
+        * Priority ranking from top to bottom
+1.3   Subject to criteria as follows:
+        1.3.1   Good Merit-demerit record in Oculus
+        1.3.2   Students active in Co-curriculum (Platinum holder for LEAd)
+        * Priority ranking from top to bottom
+2. Hostel Tenancy & Refund
+2.1   The minimum tenancy is for a period of one (1) full-term semester.
+2.2   A new student who first applies for the hostel or returning student who has a hostel withdrawal record before are required to pay First (1st) Entry Fees (1-month hostel deposit with semester hostel fees) as per stipulated in UTS Hostel Rate.
+2.3   Returning hostel students are required to pay semester hostel fees only.
+2.4   All the hostel payments should be done within the first two (2) study weeks of that particular semester as per stipulated in the academic calendar.
+2.5   Students who are tied with financial assistance organizations such as PTPTN, Yayasan Sarawak, Sarawak Energy Berhad (SEB), etc. need to make immediate payment once the money has been released from the organization. All outstanding fees due must be made within the first two (2 months) of that particular semester as per stipulated in the academic calendar.
+2.6   Hostel deposit will be refunded direct to the student bank account:
+        2.6.1   After the hostel withdrawal application was made in Oculus.
+        2.6.2   Hostel room has been vacated and cleaned (RM30 cleaning fees per person will be deducted from the deposit if a dirty room is found).
+        2.6.3   Room card has been returned.
+        2.6.4   All other outstanding fees due to the University have been cleared. Residents are reminded that if any fixtures or assets are found missing or damaged, charges for replacement or repair will be deducted from the deposit.  Please refer to the defect price list available on each notice board for details.
+2.7   Any student who has not paid all the relevant outstanding due will have a sanction applied to their student record. A sanction may prevent the student from accessing results or graduating. The sanction applied for non-payment of fees or outstanding charges will be removed when full payment is received.
+3. Hostel Properties
+3.1 The keys and hostel room card are the property of UTS. They are non- transferable and no unauthorized duplication is allowed. Any resident found to have violated the above will be subjected to disciplinary action.
+4. Hostel Application for following Semester and Room Allocation
+4.1   Approval of Hostel renewal for the following semester is subject to:
+        4.1.1   Room available with first come first serve basis (Not guaranteed for the duration of your course).
+        4.1.2   Priority open to the group as per stipulated in hostel policies 1.2 & 1.3.
+        4.1.3   The maximum tenancy for each qualified student (stipulated in 1.2) is 2 (two) years only subject to 4.1.1.
+4.2   At the end of every semester, SDSC will email all hostel students to apply for hostel status for the following semester.
+4.3   Hostel students who did not apply any hostel application for the following semester within the specified deadline:
+        4.3.1   Will be considered not interested stay in the hostel.
+        4.3.2   The system will auto-kick the hostel students and the following action will be imposed:
+        4.3.3   Room card replacement fees of RM50 will be deducted from the hostel.
+        4.3.4   Hostel withdrawal will be shown in the last hostel.
+        4.3.5   Daily rental of RM30 per person will be charged accordingly until all belongings are vacated.
+4.4   Resident are not permitted to change their room without prior approval from SDSC.
+4.5   SDSC reserve the right to re-allocate the resident to a different room due to room configuration requirement.
+4.6   To know more about the flow of hostel applications for the following semester, please refer to this link: https://sdsc.uts.edu.my/wp-content/uploads/2022/04/4.6.1-PROCEDURE-HOSTEL-APPLICATION-EVERY-SEMESTER.pdf. 
+5. Hostel Merit/ Demerit System
+5.1   Introduced based on guidelines stipulated in the UTS Student Code of Conduct acts as guidelines with regards to the DOs & DONTs while occupying the UTS hostels facilities.
+5.2   The objectives of this system are to:
+        5.2.1   Promote and encourage appropriate behaviors in hostels at all times.
+        5.2.2   Reward and recognize occupants for extra services and volunteering efforts.
+        5.2.3   Create a conducive environment for living and learning in hostels.
+        5.2.4   Determine the disciplinary mechanism for willful disregard for the campus rules and regulations.
+        5.2.5   Give priority to students with higher merit points occupying hostels in the subsequent semester.
+5.3   Criteria Basis:
+        5.3.1   Cleanliness & Hygiene: The hostel rooms equipped with basic facilities are clean and hygienic to live in.
+        5.3.2   Good Attitude: Occupants possessed a positive outlook like respectful, cooperative, kind, and rational while occupying the rooms allocated.
+        5.3.3   Good Health: Occupants are in reasonably good health, free from smoking, drugs, alcohol, or anything illegal substances according to the law of Malaysia.
+        5.3.4   Positive Lifestyle: Occupants practice a positive lifestyle like exercising regularly, being responsible, and caring towards others and the environment.
+To know more about the hostel merit/ demerit marks, please refer to this link: https://sdsc.uts.edu.my/wp-content/uploads/2022/04/UCTS-MERIT-DEMERIT-SYSTEM-2022-1.pdf
+6. Health Requirement
+6.1  Occupant (student/ staff) must be certified as being in good health and free from mental illness, contagious/ infectious diseases, or illness that will adversely affect themselves and others’ life on the campus (including hostel).
+        6.1.1  Mental illness – undergone psychiatric treatment
+        6.1.2  Contagious difficult and require prolonged treatment – HIV/AIDS, Hepatitis B, Hepatitis C
+        6.1.3  Infectious treatment (Undergone) – Tuberculosis
+        6.1.4  Others as relevant (High-risk of the health conditions)
+6.2  The hostel management has the right to withdraw the hostel offer or to terminate you from hostel if any are found to suffer from mental illness or to be a carrier of contagious/ infectious diseases, or to suffer from a medical condition requiring continuous medical care that will adversely affect you or others in the campus (included hostel).
+7. Hostel Committee
+7.1   The hostel committee consists of selected members among occupants of the hostel.
+7.2   The screening and interview process will be carried out by SDSC to select the candidates for the hostel committee.
+7.3   The objective of the hostel committee:
+        7.3.1    To provide feedback to the hostel unit in terms of the social and welfare of the occupants.
+        7.3.2    To act as a liaison between hostel occupants and staff in terms of the complaint, suggestions, or improvements for the betterment of the hostel.
+        7.3.3    To assist and cooperate with hostel staff to carry out the related tasks in Hostel.
+7.4   Benefit for Hostel Committee:
+        7.4.1    Each committee in charge will be allocated a complimentary hostel room on the designated floor for that particular semester .      
+7.5   Criteria for Hostel Committee:
+        7.5.1   Maintain at least CGPA: 2.50 and above
+        7.5.2   LEAd at least Gold holder.
+        7.5.3   Demonstrate Positive Personality Character (Responsible, Able to Communicate, Honest, Cleanliness, Punctual, Fast-react, Teamwork,Committed, etc.)
+8. Hostel Management Authority
+8.1   Student Development & Services Centre, Hostel Unit reserves the right to amend the hostel policy from time to time. Please always refer to the hostel policy on the website (https://sdsc.uts.edu.my/hostel-policy/) for the update.
+Contact details
+Office Address:
+Accommodation Office
+2nd Door, Corridor next to ATM Machine,
+1st Floor, Student Development & Services Centre (SDSC)
+University of Technology Sarawak (UTS)
+No.1, Jalan Universiti,
+96000 Sibu, Sarawak
+Staff In-Charge:
+1. Mr. David Ling
+Senior Executive
+SDSC
+Tel: 084-367596
+E-mail: david@uts.edu.my
+2. Mr. Mohd Riyad
+Admin Clerk
+SDSC
+Tel: 084-367595
+E-mail: mohd.riyad@uts.edu.my
+3. Mr. Hazman
+Hostel Warden
+SDSC
+Tel:084-367597
+Handphone No: 019-8266318
+Financial Aids and Welfare
+For any latest updates, please refer to https://sdsc.uts.edu.my/financial-assistance/. 
+Scholarships & Loans Unit 
+a. The Scholarships & Loans Unit administers issues regarding the welfare and finances of students in obtaining loans/scholarships or other assistance so that students are able to continue their studies despite economic burdens.
+b. The unit also aids students in dealing with documents regarding loans/sponsorships or aid in ensuring the process in completing related dealings is carried out with more ease and completeness.
+UTS Bursary Scheme
+For any latest updates, please refer to https://sdsc.uts.edu.my/financial-assistance/uts-bursary-scheme-2023/. 
+1. UTS Bursary Scheme for Undergraduate & Postgraduate Program (for Sarawakian student)
+Eligibility
+•	50% of the tuition fees will be automatically funded under the UTS Undergraduate & Postgraduate for Sarawak citizens, once they registered in any undergraduate & postgraduate study programme at University of Technology Sarawak
+•	For Undergraduate student must maintain a minimum GPA of 2.0 and silver Leadership Excellence Award (LEAd) for every semester
+•	For Postgraduate student must maintain a minimum GPA of 2.0
+Category 1: The middle IC number is 13 or 52 is Sarawakian (xxxxxx-13-xxxx) or (xxxxxx-52-xxxx) no need to apply (Auto applied by the system once you registered as UTS student)
+Category 2: For those without the number (13 or 52) but with ‘K’ stated in IC or either one of your parents is Sarawakian you need to apply the Bursary Scheme for Undergraduate & Postgraduate
+Online Application: https://docs.google.com/forms/d/e/1FAIpQLSf6LY-DQx1m79N-2i_XJNTQqUJPAR0OwYAXkY4Xwf_Cf1HPkQ/viewform?usp=sf_link 
+2. UTS Bursary Scheme for Foundation Studies
+Eligibility
+•	Student has to apply for the through UTS OCULUS after Student Registration.
+•	The student must maintain a minimum GPA of 2.0 for every semester, in order to retain the scholarship.
+•	Student is eligible to apply for the scholarship only once for the duration of this study programme. The student will no longer be eligible to receive scholarship for any Change of Programme or Readmission purposes.
+•	If the student is dismissed from study; withdraws from study; or leaves the study for any other reasons, the student has to pay back the amount of scholarship already paid for the duration of his study at UTS.
+•	The scholarship recipient is obligated to continue study into any bachelor degrees at the University of Technology Sarawak (UTS) and graduated with a UTS Bachelor degree, after completion of the Foundation programme. If the student fails to do so, he will need to pay back the scholarship in full.
+•	Tuition fees will be automatically funded in full under the UTS Foundation Scholarship for all students, once they registered in the Foundation study programme at University of Technology Sarawak.
+•	Student needs to sign an agreement once application is approved.
+Semester 1
+•	The student must meet the minimum entry requirement to join Foundation In Science or Foundation In Art to obtain the sponsorship for Semester 1 tuition fee.
+•	The student must obtain at least 4As to be eligible to get the sponsorship for hostel (twin sharing with fan) during Semester 1.
+ Semester 2
+•	The student must obtain GPA 2.00 and above to retain the sponsorship for Semester 2 tuition fee.
+•	The student must obtain GPA 2.75 and above to retain the sponsorship for hostel during Semester 2.
+ Semester 3
+•	The student must obtain GPA 2.00 and above to retain the sponsorship for Semester 3 tuition fee.
+•	The student must obtain GPA 2.75 and above to retain the sponsorship for hostel during Semester 3.
+Online Application: https://oculus.uts.edu.my/login.php
+Deadline: 2 weeks after course registered
+3. UTS Bursary Scheme BP40 for Sarawakian (Bumiputera)
+Eligibility
+•	For Bumiputera student enrolled and registered into UTS in Undergraduate in 2024 intakes onward.
+•	Cover up up to 80% of the tuition fee for the duration of the study.
+•	Parent’s household income under B40 and M40
+•	Must obtain a credit for Bahasa Melayu in SPM or equivalent at UEC / O-Level
+•	The student must maintain a minimum GPA of 2.0 for every semester, in order to retain the sheme.
+•	Are not receiving other scholarship
+•	Quota 100 for Bumiputera student
+•	Student are eligible to apply loan from Yayasan Sarawak or PTPTN to cover the remaining fee.
+•	Minimum of CGPA 2.0 or equivalent in STPM, Foundation, Matriculation or Pre-University
+Online Application: https://forms.gle/GBReK77vCSEK2mf66
+Note: Any incomplete application will not be accepted
+Deadline: 2 weeks after course registered
+4.  UTS Bursary Scheme BP40 for Sarawakian (Non-Bumiputera)
+Eligibility
+•	For Non-Bumiputera student enrolled and registered into UTS in Undergraduate in 2024 intakes onward.
+•	Cover up up to 80% of the tuition fee for the duration of the study.
+•	Parent’s household income under B40 and M40
+•	Must obtain a credit for Bahasa Melayu in SPM or equivalent at UEC / O-Level
+•	The student must maintain a minimum GPA of 2.0 for every semester, in order to retain the sheme.
+•	Are not receiving other scholarship
+•	Quota 100 for Non-Bumiputera student
+•	Student are eligible to apply loan from Yayasan Sarawak or PTPTN to cover the remaining fee.
+•	Minimum of CGPA 2.0 or equivalent in STPM, Foundation,Matriculation or Pre-University
+Online Application: https://forms.gle/8k1HbEteXcdo4Cgh6
+Note: Any incomplete application will not be accepted
+Deadline: 2 weeks after course registered
+5. UTS Bursary Scheme Partial Board of Director’s
+Eligibility
+•	Non – Sarawakian citizen student who registered in any undergraduate study programe at University of Technology Sarawak
+•	Academic result must meet the entry requirements:
+1. UTS Bursary Scheme (PBOD) Award  (per semester): RM 1,750
+Entry Qualification (terms and conditions apply): 
+Foundation / Matriculation / Diploma: CGPA >=3.5
+STPM / A-level: 2 A’s & above
+UEC: 3 A’s & above
+Continuing Study: -
+Cumulative Grade Point Average (CGPA) of previous full semester: CGPA >= 3.5 & Silver Lead points
+2. UTS Bursary Scheme (PBOD) Award  (per semester): RM 1,250
+Entry Qualification (terms and conditions apply): 
+Foundation / Matriculation / Diploma: CGPA >= 3.0 ; < 3.5
+STPM / A-level: 1A
+UEC: 2 A’s
+Continuing Study: -
+Cumulative Grade Point Average (CGPA) of previous full semester: CGPA >= 3.0 ; < 3.5 & Silver Lead points
+3. UTS Bursary Scheme (PBOD) Award  (per semester): RM 750
+Entry Qualification (terms and conditions apply): 
+Foundation / Matriculation / Diploma: CGPA >= 2.5 ; < 3.0
+STPM / A-level: 2 B’s
+UEC: 1 A
+Continuing Study: -
+Cumulative Grade Point Average (CGPA) of previous full semester: CGPA >= 2.5 ; <3.0 & Silver Lead points
+Online Application:
+•	https://oculus.uts.edu.my/
+•	For new student please submit your latest transcript to fadhilah@uts.edu.my and liza@uts.edu.my
+Deadline: 2 weeks after course registered
+Scholarships 
+1. Yayasan Toh Li Hua Sponsorship
+Eligibility
+•	Potential student with good result
+•	Maintain CGPA 2.0 and above every semester
+•	Family income does not exceed RM3,000 per month
+•	Value of award – Undergraduate (RM3,000 every long semester)
+•	Value of award – Foundation (RM1,000 per semester)
+Online Application: https://forms.gle/uznVE5Evj68fcpjN8
+Deadline: 2 weeks after course registered
+2. Sarawak Energy Berhad (SEB) Scholarship
+A) Foundation Programme
+•	Must not be more than 21 years old at the time of application.
+•	Must not be a recipient of any other scholarship from other organizations or foundations;
+•	Strong leadership skills and active participation in extra-curricular activities e.g societies and clubs, sports, etc.
+•	No other sibling or family member from SEB receiving scholarships from SEB.
+•	Minimum 8As’ in SPM examination
+•	Form can be obtained at https://www.sarawakenergy.com/.
+B) Undergraduate Programme
+•	Must not be more than 24 years old at the time of application.
+•	Currently a first-year student or applying for the first Degree at UTS
+•	Must not be a recipient of any other scholarship from other organizations or foundations;
+•	Strong leadership skills and active participation in extra-curricular activities e.g societies and clubs, sports, etc.
+•	No other sibling or family member from SEB receiving scholarships from SEB.
+•	Strong academic results in the SPM (Min. 8As) or CGPA of 3.30 in Foundation or equivalent at STPM/ Matriculation / Diploma level
+•	Form can be obtained at http://sarawakenergy.com.my/. 
+3. Sarawak Foundation Tun Taib Scholarship (BYSTT)
+Eligibility
+•	Scholarship for STEM ( Science, Technology, Engineering and Mathematics) related course only.
+•	Students must be a Malaysian Citizen with Sarawak Connection (either parent).
+•	Must obtain a credit for Bahasa Melayu in SPM or equivalent at UEC / O-Level
+•	First Degree students pursuing studies at UTS with CGPA of 3.00 and above.
+•	Research-based post graduates studies (Masters, PhD & Specialists) in specialized fields. 
+•	Maintain GPA 3.0 and above every semester
+•	Strong leadership skill and active participation in extracurricular activities
+•	Are not receiving other scholarship or loan
+•	Application form obtain in http://yayasansarawak.org.my/
+Online Application
+•	Go to https://yayasansarawak.org.my/en/laman-utama/.
+•	Fill in and complete application form
+•	Priority to the list of courses offered and passed the interview
+Application Period: Applications are opened once a year (June – July) through advertisements on the official website and social media of Yayasan Sarawak.
+4. Sarawak Tunku Abdul Rahman Scholarship (YBSTAR)
+Eligibility
+•	Scholarship for Non-Stem
+•	Received an offer letter for Undergraduate or Postgraduate in UTS.
+•	Students must be a Malaysian Citizen with Sarawak Connection (either parent).
+•	Must obtain a credit for Bahasa Melayu in SPM or equivalent at UEC / O-Level
+•	Excellent academic achievement at least Grade B and above in each subject at STPM level
+•	Acquire a CGPA of 3.0 and above for Foundation/ Diploma/ Matriculation/ A-Level graduate and Bachelor’s Degree.
+•	Strong leadership skill and active participation in extracurricular activities
+•	Are not receiving other scholarship or loan.
+•	Application form obtain in https://yayasansarawak.org.my/en/laman-utama/. 
+Online Application
+•	Go to https://yayasansarawak.org.my/en/laman-utama/. 
+•	Fill in and complete application form
+•	Priority to the list of courses offered and passed the interview
+Application Period: Applications are opened once a year (June – July) through advertisements on the official website and social media of Yayasan Sarawak.
+Financial Aid
+1. Perbadanan Tabung Pendidikan Tinggi Nasional (PTPTN)
+Eligibility
+•	Must be  Malaysian citizen and does not exceed 45 years of age on the date of application
+•	The value of loan is dependent on the student’s family income
+•	Maintain GPA 2.0 and above every semester
+•	Student with full scholarship are not eligible to apply PTPTN loan
+•	Students are not allowed to change course once PTPTN loan is approved. Please refer PTPTN person IN charge for more info
+•	PTPTN loan will be disburse twice a year is by March & October 
+•	Must apply via PTPTN website https://www.ptptn.gov.my/
+•	Online application deadline: 28 February and 31 March / 31 August and 30 September
+PTPTN Application Process
+•	Purchase PIN number from Bank Simpanan Nasional (BSN) amounting RM5.05 or through PTPTN Website  The pin is valid for 6 month.
+Pin Number Purchasing Number Guide ( Remark : need to register / login first )
+•	Open a personal account with Bank Islam Malaysia Berhad (BIMB).The account will be used by PTPTN to disburse of the loan
+•	Open SSPN account at PTPTN one stop centre or through https://www.ptptn.gov.my/saving/sspnlogin.html 
+Online Application
+•	Go to PTPTN website https://www.ptptn.gov.my/ 
+•	Fill in and complete the online application form
+•	Click “YA” once all the details have been filled and complete.Check inbox from MYPTPTN or email for application confirmation
+After Online
+•	Waiting for online application pre-approval (7 days after the closing date of the online application)
+Pre- Approval
+•	Download the agreement from MYPTPTN or log in into your registered email for PTPTN 
+•	Read all the terms and conditions,sign and paste the duty stamps of RM10 on each set of the agreement
+Hard Copies Submission
+•	Submit two sets of completed agreements together with UTS Offer Letter to any nearest PTPTN office / UTC
+PTPTN Payment
+•	Estimated time to get the first payment upon PTPTN pre-approval is around 2 month. (students to check their BIMB account)
+Loan Entitlement
+1. Field of study: ART
+Loan Amount Available ( per year):
+Maximum (RM): 13,600
+75% (RM): 10,200
+50% (RM): 6,800
+2. Field of study: SCIENCE
+Loan Amount Available ( per year):
+Maximum (RM): 14,030
+75% (RM): 10,520
+50% (RM): 7,010
+•	The loan amount is determined based on the net income of the guardian’s household as below:
+1. Loan Amount: Maximum
+Eligibility: If the students or their guardians are listed as one of Sumbangan Tunai Rahmah (STR) recipients
+2. Loan Amount: 75% of the maximum loan
+Eligibility: Household salaray is not more than RM8,000 (not in STR data)
+3. Loan Amount: 50% of the maximum loan
+Eligibility: Household salaray is more than RM8,000 (not in STR data)
+Note : Amount given is subject to eligibility criteria set by PTPTN
+Application Period
+1. Period for Online Submission: 01 February – 28 February	
+(Deadline) Online Submission: 28 February
+**Estimated date of the ONLINE approval: 07 March
+(Deadline) Agreement Submission: 13 March	
+**Estimated date of the 1st payment release: Middle of April
+2. Period for Online Submission: 1 March – 31 March
+(Deadline) Online Submission:	31 March			
+**Estimated date of the ONLINE approval: 07 April
+(Deadline) Agreement Submission: 13 April
+**Estimated date of the 1st payment release: Middle of May
+3. Period for Online Submission: 01 August – 31 August
+(Deadline) Online Submission: 31 August
+**Estimated date of the ONLINE approval: 7 September
+(Deadline) Agreement Submission: 13 September
+**Estimated date of the 1st payment release: Middle of October
+4. Period for Online Submission: 01 September – 30 September
+(Deadline) Online Submission:	30 September				
+**Estimated date of the ONLINE approval: 07 October
+(Deadline) Agreement Submission: 13 October
+**Estimated date of the 1st payment release: Middle of November
+2. Yayasan Sarawak Loan
+Eligibility
+•	Only for Sarawakian either one of their parents are Sarawakian.
+•	Must obtain a credit for Bahasa Melayu in SPM or equivalent at UEC / O-Level
+•	For ‘Top-up’ for tuition fees, students are required to attach the PTPTN loan offer letter.
+•	Subject to term and conditions stipulated by Yayasan Sarawak
+•	Must apply online via Yayasan Sarawak website : yayasansarawak.org.my
+Online Application 
+•	Go to Yayasan Sarawak website
+•	Fill in and complete application form
+•	The student must submit the online form and supporting document
+Application Period
+•	Application is open throughout the year
+Hard Copies
+•	A copy of university /college offer letter
+•	A copy of student’s /guardian’s MYkad
+•	A copy of SPM /Matriculation /Diploma certificate
+•	A copy of most recent payslip /pension statement /letter of income confirmation (for self-employment)
+•	A copy of your bank statement /bank book
+Additional Document
+•	A copy PTPTN rejection letter (only for “Top-up” applications)
+•	A copy of Master’s degree transcript and scroll (PHD student only)
+•	A copy co-curriculum certificate (Tun Taib Scholarship /Oversea Loan Application only)
+•	A study leave letter (for working applicants only)
+•	A copy of Skim Pendahuluan Pelajaran Dan Teknikal registration fee payment receipt
+•	A copy of land / properly title / grant for overseas loan
+•	A copy of guarantor’s Mykad 
+Reminder : Each copy must be certified
+3. Admission Assistance to Tertiary/ Technical Education
+Eligibility
+•	Funding early-stage costs for students who started their studies at UTS.
+•	Students must be a Malaysian Citizen with Sarawak Connection (either parent)
+•	Parents / guardians have a per capita income of RM1,500.00 and below.
+•	The grant rate (no payback) as follows: In Sarawak : RM1,000.00
+•	Application form obtain in Yayasan Sarawak website
+Online Application
+•	Go to Yayasan Sarawak website
+•	Fill in and complete application form
+•	Priority to the list of courses offered and passed the interview
+Application Period
+•	Applications are opened once a year (June – July) through advertisements on the official website and social media of Yayasan Sarawak.
+4. Tabung Baitumal Sarawak
+Eligibility
+•	For Sarawak Muslim students or Malaysian citizens residing in the state of Sarawak only
+•	Received an offer letter for Foundation,Undergaraduate or Postgraduate in UTS
+•	Registration in Semester 1 Year One only
+Online Application
+•	Go to https://pelanggan.tbs.org.my/
+•	Fill in and complete application form
+Application Period
+•	Application are 40 days from date registration (through advertisement on the official website Tabung Baitumal Sarawak)
+5. EPF Partial Withdrawal
+•	For EPF withdrawal, parents must get the EPF Withdrawal application form from any nearest EPF office or download the application form through https://www.kwsp.gov.my/en/member/withdrawals/partial/education . Kindly search and download Confirmation Letter Format.
+•	Fill the form and attach it with the latest invoice/receipts from UTS Finance Department after week 4.
+•	Kindly submit your application form attach with latest invoice/receipts and email to fadhilah@uts.edu.my and liza@uts.edu.my. 
+•	The application will be processed within 3 working days after we receive the form.
+6. Yayasan Sabah 
+Eligibility
+•	Apllicants must be a Sabahan (either parent).
+Online Application
+•	Go to http://www.yayasansabahgroup.org.my/. 
+•	Fill in and complete application form
+•	Any quarries can email at bppysinfo@ysnet.org.my or contact 088-326385 / 326390/326392/326393/326395/326396/326397/326399/326402/326603
+Contact details
+Email: sdscfinaid@uts.edu.my
+Phone: 084-367375 , 084-367377
+Working hours:
+Mon-Fri : 8am-12pm , 1pm-5pm
+Weekend : Closed
+Public Holiday : Closed
+
+Leadership Excellence Award (LEAd)
+University of Technology Sarawak (UTS) is an institution of higher learning that focuses on the development of technical human resources for the Sarawak Corridor of Renewable Energy (SCORE).  Situated in Sibu, one of the main gateways into SCORE, UTS campus is equipped with the latest state-of-art facilities for teaching learning and research activities.
+Besides academic excellence, UTS also emphasizes the development of soft-skills among students. This is in line with its effort to produce wholesome graduates for the future.
+In line with that Leadership Excellence Award (LEAd) is introduced, as a system of awarding points to students for their involvement in non-academic activities.  It is introduced to encourage them to play active roles in co-curricular activities, as knowledge and experiences gained from it are crucial for students when they leave the university.
+Objectives:
+•	Serving in the committee as well as being members
+•	Joining competition in the campus as well as outside
+•	Organising event or activity within campus as well as outside
+Importance: 
+•	It gives added value to academic results
+•	It makes graduates more marketable
+•	The point is used by industry to assess employability
+•	The points are used by UTS to assess opportunity for scholarship
+Criteria to Claim Lead Point
+1. Club
+Requirements:
+•	Application and submission on time by every end of semester
+•	All document must be checked & signed by Advisor
+Point for Joining Club:
+Level: Campus
+Point: x1
+a) Role: President
+Weightage: 4
+b) Role: Vice President
+Weightage: 3
+c) Role: Secretary
+Weightage: 2
+d) Role: Treasurer
+Weightage: 2
+e) Role: Committee Memeber
+Weightage: 1
+f) Role: Participation in Club Activities (Max 5 per Semester)
+Weightage: 0.5
+g) Role: Member
+Weightage: 0.5
+2. Competitions
+Level: Campus
+Point: x1
+Level: University
+Point: x2
+Level: National
+Point: x3
+Level: International
+Point: x4
+a) Role: 1st
+Weightage: 4
+b) Role: 2nd
+Weightage: 3
+c) Role: 3rd 
+Weightage: 2
+d) Role: Participant
+Weightage: 1
+Example: If a student participates in an international competition and gets the 1st, the Lead Point given will be 4x4 = 16.
+3. Internal Events
+Requirements: 
+•	The event must be related to the nature of club/school.
+•	Every report must signed by advisor before submission.
+•	Number of participants must be exceed 30 students.
+Point for Joining Internal Events: 
+Level: Campus
+Point: x1
+Level: University
+Point: x2
+Level: National
+Point: x3
+Level: International
+Point: x4
+a) Role: Organising Chairman
+Weightage: 2
+b) Role: Committee
+Weightage: 1.5
+c) Role: Participant
+Weightage: 1
+4. External Events
+Requirements: 
+•	The number of participants must be exceed 100 person, 50% external
+•	Participants must represent UTS to organise or participate
+Point for Joining External Events: 
+Level: Campus
+Point: x1
+Level: University
+Point: x2
+Level: National
+Point: x3
+Level: International
+Point: x4
+a) Role: Chairman
+Weightage: 5
+b) Role: Committee
+Weightage: 3
+c) Role: Sub – Committee
+Weightage: 2
+d) Role: Participant
+Weightage: 1
+
+Requirements:
+•	All competition from club or school must be get approval from SDSC before proceed if they want to claim LEAd points
+•	Competition within campus must exceed 5 teams and above
+Point for Joining Competition:
+General Guidelines
+•	Application done in 7 days before the event start date.
+•	Submission done within 14 days after the event end date.
+•	Event with entertainment based (celebration party, gathering or trip), personal involvement in outside activities without UTS acknowledgement and incomplete or inadequate events are NOT entitled to claim LEAd points.
+LEAd Point Grading System
+•	Students can check their LEAd points transcript in the Oculus system.
+•	The award will be given based on their achievement.
+•	Average LEAd Points Per Semester: 8.5
+Award: PLATINUM
+•	Average LEAd Points Per Semester: 7.5
+Award: GOLD
+•	Average LEAd Points Per Semester: 6.5
+Award: SILVER
+•	Average LEAd Points Per Semester: 5.5
+Award: BRONZE
+Clubs
+Joining our student club is an opportunity to immerse yourself in a vibrant community of like-minded individuals. Whether you’re a newcomer to campus or a seasoned student looking to expand your horizons, our club welcomes you with open arms. By becoming a member, you’ll gain access to a plethora of enriching experiences and opportunities for personal and professional growth. Our club offers a diverse range of activities, providing you with avenues to explore your interests, develop the new skills, and forge the lasting friendships.
+1. Category: Recreational
+•	Music
+•	MIFA
+•	Modern Dance
+•	Photography & Videography
+•	IEEE
+•	Psquad
+•	JCI Youth UTS
+•	Green
+•	Indoor Game 
+•	Esports 
+•	Sri Tari Kenyalang
+•	Dayak Youth 
+•	Mandarin
+•	Toastmasters
+•	Leo
+•	RISE
+2. Category: Academic
+•	Unitech
+3. Category: Uniform
+•	Red Crescent Society
+4. Category: Sport
+•	Volleyball
+•	Basketball
+•	Table Tennis
+•	Wushu
+•	Netball
+•	Football & Futsal
+•	Badminton
+•	Frisbee
+•	Pencak Silat
+5. Category: Religion
+•	Campus Fellowship Mandarin/BMBI
+•	Life
+•	Buddhist
+•	Permai
+•	Youth Growth
+Academic calendar: the current calendars are in the UTS website snapshot (https://www.uts.edu.my/academiccalendar).
+Programmes Offer
+Foundation Programmes
+•	Foundation in Arts (FIA)
+•	Foundation in Science (FIS)
+Undergraduates Programmes
+School of Engineering and Technology
+•	Bachelor of Food Technology (Hons) (BFT)
+•	Bachelor of Civil Engineering (Hons) (BCE)
+•	Bachelor of Electrical Engineering (Hons) (BEP)
+•	Bachelor of Mechanical Engineering (Hons) (BME)
+•	Bachelor of Science in Occupational Safety and Health (Hons) (BSH)
+School of Business and Management
+•	Bachelor of Accountancy (Hons) (BAC)
+•	Bachelor of Business (Hons) Marketing (BDM)
+•	Bachelor of Business Administration (Hons) (BBA)
+•	Bachelor of Technology Management (Hons) (BTM)
+School of Computing & Creative Media
+•	Bachelor of Computer Science (Hons) (BCS)
+•	Bachelor of Arts in Industrial Design (Hons) (BID)
+•	Bachelor of Arts (Hons) in Creative Digital Media (BDM)
+•	Bachelor of Mobile Game Development (Hons) (BMD)
+School of Built Environment
+•	Bachelor of Quantity Surveying (Hons) (BQS)
+•	Bachelor of Science (Hons) in Architecture (BSA)
+•	Bachelor of Art (Hons) Interior Design (BAI)
+•	Bachelor of Science (Honours) in Property and Construction Management (BSP)
+Postgraduate Programmes
+School of Postgraduate Studies
+Master Programmes
+•	Master in Computing (MIC)
+•	Master of Architecture (MAR)
+•	Master of Engineering (MEG)
+•	Master of Project Management (MPM)
+•	Master of Business Administration (MBA)
+•	Master of Science in Applied Sciences (MAS)
+•	Master of Science in Business Management (MBM)
+Doctor (PhD) Programmes
+•	Doctor of Philosophy (PhD) in Computing (PIC)
+•	Doctor of Philosophy (PhD) in Engineering (PEG)
+•	Doctor of Philosophy (PhD) in Applied Science (PAS)
+•	Doctor of Philosophy (PhD) in Business Management (PBM)
+Schools
+1. School of Foundation Studies (SFS)
+For more information, pelase refer to https://sfs.uts.edu.my/
+For the photos of facilities, please refer to https://sfs.uts.edu.my/facilities/
+Why join us?
+•	Affordable Fees
+•	Full Accreditation by MQA
+•	State owned Unversity
+•	1 Year Programme
+•	Direct entry into degree programmes
+•	Industrial Driven
+Academic Staff:
+a) Management Team
+1. Mr. Muhammad Afif (Foundation in Science)
+Position: Dean, Lecturer
+Email: muhd.afif@uts.edu.my
+2. Mr. Kong Sieng Huat (Foundation in Science)
+Position: Deputy Dean, Senior Lecturer
+Email: shkong@uts.edu.my
+3. Ms. Esther Rachel Beruin (Foundation in Arts)
+Position: Head of Programme, Lecturer
+Email: estherachel@uts.edu.my
+4. Ms. Nabella Holling (Foundation in Science)
+Position: Head of Programme, Ass. Lecturer
+Email: hnabella@uts.edu.my
+
+b) Business Group
+1. Mdm. Davina Sharenya (Foundation in Arts)
+Position: Head of Working Group, Lecturer
+Email: davina@uts.edu.my
+2. Mdm. Nurul Rafeah (Foundation in Arts)
+Position: Asst. Lecturer
+Email: nurulrafeah@uts.edu.my
+3. Ms. Eylia Nadiah (Foundation in Arts)
+Position: Lecturer
+Email: eylianadiah@uts.edu.my
+4. Mdm. Monie Ramba (Foundation in Arts)
+Position: Lecturer, Head of Marketing
+Email: monie@uts.edu.my
+5. Mr. Joel Neo Sauyi (Foundation in Arts)
+Position: Lecturer
+Email: joelneo@uts.edu.my
+6. Mdm. Dayang Ernie Nurfarah’ain (Foundation in Arts)
+Position: Lecturer 
+Email: dyg.ernie@uts.edu.my
+7. Mdm. Jessica Lyn Andam (Foundation in Arts)
+Position: Lecturer
+Email: jessicalyn@uts.edu.my 
+8. Ms. Nadia Richard (Foundation in Arts)
+Position: Asst. Lecturer
+Email: nadiarichard@uts.edu.my
+
+c) Science Group
+1. Mr. Rafiq Bin Tamin (Foundation in Science)
+Position: Head of Working Group, Lecturer
+Email: rafiqtamin@uts.edu.my
+2. Mr. Mohd Shafiq Afnan (Foundation in Science)
+Position: Physics Lab Coordinator, Asst. Lecturer
+Email: shafiqafnan@uts.edu.my
+3. Mdm. Cheong Kah Yein (Foundation in Science)
+Position: Chemistry Lab Coordinator, Senior Lecturer
+Email: cheong.kah.yein@uts.edu.my
+4. Ms. Nur Syafiqah (Foundation in Science)
+Position: Lecturer
+Email: nursyafiqah@uts.edu.my
+5. Dr. Sofiyah Mohd Razali (Foundation in Science)
+Position: Lecturer
+Email: sofiyah@uts.edu.my
+
+d) Language and General Course Group
+1. Ms. Fetylyana Nor Pazilah (Foundation in Science)
+Position: Head of Working Group, Lecturer
+Email: fetylyana@uts.edu.my
+2. Ms. Abishag Sharmi (Foundation in Arts)
+Position: Lecturer
+Email: abishag@uts.edu.my
+3. Mr. Howes Sallang (Foundation in Arts)
+Lecturer
+howes@uts.edu.my
+4. Mdm. Jill Ling Pei Wah (Foundation in Arts)
+Position: Asst. lecturer
+Email: jill@uts.edu.my
+
+e) Mathematics and Computing Group
+1. Ms. Norsyafika Othman (Foundation in Arts)
+Position: Head of Working Group, Asst. Lecturer
+Email: norsyafika@uts.edu.my
+2. Mdm. Grace Lau Chui Ting (Foundation in Science)
+Position: Lecturer
+Email: gracelau@uts.edu.my
+3. Ms. Chien Tiew Mee (Foundation in Science)
+Position: Lecturer (study leave)
+Email: chientiewmee@uts.edu.my
+
+Administrative Staff:
+1. Mdm. Maria Gorietti
+Position: Senior Executive
+2. Mdm. Angela Liu Mee Mei
+Position: Senior Clerk
+3. Mr. Waldo Bernard
+Position: Assistant Lab Technologist
+Programmes Offered:
+1. Foundation In Arts (R2/010/3/0124A) (3/28) (MQA/FA3075)
+Programme Overview:
+To furnish the students with fundamental knowledge and analytical skills in core Arts subjects such as Languages (Spoken and Written), Information Technology and Mathematics that enable them to undertaking Bachelor degree programmes in the fields of Business, Accountancy, Information Technology, Architecture, Communications, Languages and any Non-Science / Engineering fields.
+Programme Learning Outcome: 
+Upon completion of this programme, students will be able:
+•	To gain the mastery of the fundamental knowledge in the essential Pre-University level areas of Business, Communications, Languages (Spoken and Written), Information Technology and Basic Architectural Subjects.
+•	To be armed with the capability of applying the fundamental knowledge gained in solving elementary Pre-University level problems in the areas stated above.
+•	To think rationally, have sense of humanity, humility and responsibility and respect of lecturers
+•	To learn that the quality and nature of coursework submitted must reflect the true level of maturity and demands of the subjects for the programme and to learn that the unethical conduct of plagiarism is prohibited in the academia.
+•	To learn effective written and verbal communication skills as well as the development of teamwork spirit.
+•	To be armed with scientific reasoning and critical analysis skills to solve scientific problems across the areas mentioned above.
+•	To be equipped with necessary knowledge to pursue Bachelor’s degree.
+•	To gain time management skills essential for ensuring tasks are completed in time.
+Programme Structure: 
+Semester 1:
+•	Introduction to Business
+•	Principles of Marketing
+•	Principles of Economics
+•	English I
+•	Introductory Mathematical Analysis
+•	Principle of Accounting
+Semester 2: 
+•	Introduction to Computer Systems & Applications
+•	Presentation Skills
+•	Business Communication
+•	Introduction to Finance
+•	English II
+•	Event Management
+•	Elective Course*
+Elective Course (subject to availability)
+•	Introduction to Construction*
+•	Introduction to Development*
+•	Introduction to Environmental Design*
+•	Introduction to Quantity Surveying*
+•	Introduction to Multimedia*
+•	Introduction to Business Law*
+•	Applied Mathematics I*
+Semester 3:
+•	Professional Writing
+•	Introduction to Critical Thinking
+•	Introduction to Statistics
+2. Foundation In Science (R2/010/3/0125A) (3/28) (MQA/FA3076)
+Programme Overview:
+•	To furnish the students with the fundamental knowledge and analytical skills in Science, and enable them to undertake Bachelor degree programmes in the fields of Science and Technology.
+•	To inculcate good communication, leadership and social skills as well as high ethical attitude.
+Programme Learning Outcome:
+•	Upon completion of this programme, students should be able:
+•	To gain the mastery of the fundamental knowledge in the essential Pre-University level areas of Mathematics and Science.
+•	To be armed with the capability of applying the fundamental knowledge gained in solving elementary Pre-University level problems in the areas of Mathematics and Science and to be equipped with basic skills to conduct Science laboratory experiments at Pre-University Levels.
+•	To think rationally, have sense of humanity, humility and responsibility and respect of society at large.
+•	To learn that the quality and nature of coursework submitted must reflect the true level of maturity and demands of the subjects for the programme and to learn that the unethical conduct of plagiarism is prohibited in the academia.
+•	To learn effective written and verbal communication skills as well as the development of teamwork spirit.
+•	To be armed with scientific reasoning and critical analysis skills to solve scientific problems across 4 major fields in Science: Mathematics, Biology, Physics and Chemistry.
+•	To be equipped with necessary knowledge to pursue Bachelor’s degree.
+•	To gain time management skills essential for ensuring tasks are completed in time.
+Programme Structure: 
+Semester 1:
+•	Mathematics I
+•	Physics I
+•	Chemistry I
+•	English I
+•	Introduction to Critical Thinking
+•	Event Management
+Semester 2:
+•	Mathematics II
+•	Physics II
+•	Chemistry II
+•	English II
+•	Physics Laboratory
+•	Chemistry Laboratory
+•	Elective Course*
+Elective Subjects (subject to availability)
+•	Biology*
+•	Statistics*
+•	Dynamics*
+Semester 3:
+•	Mathematics III
+•	Physics III
+•	Computing
+UTS Foundation Programmes Academic Rules and Regulations
+For Foundation in Science and Arts Guidebook, please refer to https://sfs.uts.edu.my/wp-content/uploads/2023/11/FIA-Programme-Guidebook-5th-Edition.pdf (FIA) and https://sfs.uts.edu.my/wp-content/uploads/2023/11/FIS-Programme-Guidebook-5th-Edition.pdf (FIS).
+Glossary
+•	The ‘University of Technology Sarawak (UTS)’ was incorporated and established on 1 April 2013 as a private institute of higher learning under the Private Higher Education Act 1995 (Act 555).
+•	The ‘University’ is the University of Technology Sarawak (UTS).
+•	The ‘Constitution ‘refers to the Constitution of University of Technology Sarawak.
+•	The ‘Senate’ refers to the Senate of University of Technology Sarawak which is the highest authority on academic matters at the University.
+•	The ‘Vice Chancellor’ is the Chief Executive Officer or whomsoever who holds the office of the Chief Executive. He is the highest executive appointed by the Board of Directors of Edusar Resources Sdn. Bhd. to manage and administer the operations of UTS.
+•	The ‘School of Foundation Studies (SFS)’ is home to the Foundation in Science (FIS) and Foundation in Arts (FIA) Programmes.
+•	The ‘Dean’ is appointed by the University as the head of academic at the School of Foundation Studies (SFS).
+•	An ‘Academic Staff’ is a teaching professional at the School of Foundation Studies (SFS) appointed by the University.
+•	‘Credit Hours’ is a quantitative measure reflecting the volume and the learning lead to attain the required learning outcome.
+•	‘Credit’ is the measure of students’ academic load in order to attain a set of learning outcomes. An academic load is a quantitative measure of all students learning time (SLT) which are guided and independent learning activities. The 40 hours of notional learning time is valued as 1 (one) credit.1 Malaysian Qualification Framework, 2007 page 18 & 19
+•	The ‘University Academic Committee’ is the committee elected by the Senate to manage issues pertaining to academic matters.
+•	The ‘University Board of Examination’ is the committee elected by the Senate to approve results and grades of the University’s assessments.
+•	The ‘School Academic Committee’ is the committee formed by the School to manage issues pertaining to academic matters.
+•	The ‘School Board of Examiners’ refers to the committee formed by the School to handle all matters pertaining to examinations.
+•	A ‘Course’ is a component of the programme structure which bears a unique code.
+•	A student’s academic performance is evaluated in the form of coursework throughout a semester and a final examination at the end of the semester. However, in some courses, the assessment, are based on coursework.
+•	‘Coursework’ refers to assignments that are assessed and evaluated in which the results contribute to the final grade.
+•	‘Examinations’ refer to form of evaluation based on a list questions administered to students assess their academic achievement.
+•	‘Students’ refer to those who are registered with the University for a Particular Academic Programme.
+•	He/Him/His The usage of these terms applies to male and female students/staff.
+•	One ‘Academic Year’ consists of TWO (2) semesters of 17 academic weeks each (14 weeks of classes, 1 week of study week and 2 weeks of examination) and ONE (1) semester of 9 weeks (7 weeks of classes, 1 week of study week and 1 week of examination).
+•	A ‘Semester’ is a study session allocated by the University’s Senate for lectures, assessments and similar instructional activities.
+•	‘GPA’ (Grade Point Average) is the average of grade points received in a particular semester.
+•	‘CGPA’ (Cumulative Grade Point Average) is the accumulated average of grade points received in all semester attended.
+PART A - ACADEMIC RULES & REGULATIONS
+1.0 THE ACADEMIC YEAR
+The Foundation Programme academic year is divided into three semesters - Semester 1, Semester 2 and Semester 3. The academic year is illustrated in following:
+SEMESTER 1:
+Classes – 14 weeks
+Study Week 1 week
+Examination Week – 2 weeks
+TOTAL – 17 weeks
+SEMESTER 2:
+Classes – 14 weeks
+Study Week – 1 week
+Examination Week – 2 weeks
+TOTAL – 17 weeks
+SEMESTER 3:
+Classes – 7 weeks
+Study Week – 1 week
+Examination Week – 1 week
+TOTAL – 9 weeks
+
+2.0 COURSE REGISTRATION
+2.1 Students must register their courses within the time indicated by the university. Course registration is opened during the first week of the academic semester. Should they fail to register their courses on time, the students will not be allowed to sit for their examinations.
+2.2 Students are not allowed to drop any of the registered course. However, if students accidentally register for the wrong course, corrections can be made by dropping the wrong course but only once.
+2.3 Withdrawal from any courses are not allowed. Withdrawal from any or all the courses means withdrawal from the programme.
+2.4 Students are responsible to register the correct courses and double check their own list of registered courses by Week 4 (for long semester) or Week 2 (for short semester). Students will be penalized according to the penalties provided in the table below if they fail to register their courses on time.
+1. LATE PENALTIES: Penalized RM50 for each request
+LONG SEMESTER (14 WEEKS): Week five (5) till Week nine (9)
+SHORT SEMESTER (7 WEEKS): Week three (3) till Week five (5)
+
+2. LATE PENALTIES: Penalized RM100 for each request
+LONG SEMESTER (14 WEEKS): Week ten (10) onwards 
+SHORT SEMESTER (7 WEEKS): Week six (6) onwards
+All corrections must be recommended by the Head of Programme and approved by the Dean.
+
+3.0 CHANGE OF PROGRAMME (Science/Arts)
+3.1 Students are allowed to change their programme ONCE and within the first week after the date of registration of the programme.
+3.2 The student who wishes to change programme must fill in the ‘Change of Programme’ form.
+3.3 The approval to change from one programme to another is based on the discretion of the Dean of the School of Foundation Studies, UTS.
+3.4 The student who applies for a change of programme must comply with the stipulated entry requirements for the foundation programme.
+
+4.0 DEFERMENT OF STUDY
+4.1 A student with illness certified by a medical officer and/or specialist can apply for study deferment. The deferment can only be up to two semesters and will not be included into the duration for the study period.
+4.2 Application for deferment is also allowed for reasons other than medical ground with the approval of the Dean. The deferment can only be up to two semesters and will not be included into the duration for the study period.
+4.3 Application for deferment can be made:
+a) before the beginning of the semester; or
+b) before Week 4 of the semester; or
+c) between Week 5 to Week 9
+4.3.1 A student who deferred in b) will have to pay the tuition fees accordingly and the record of the course(s) registered will be nullified.
+4.3.2 A student who deferred in c) will have to pay the tuition fees accordingly and the course grade(s) will be recorded as ‘W’.
+4.3.3 No deferment is allowed after Week 9.
+4.4 A student may apply to re-active the registration status from ‘Defer’ to ‘Active’.
+4.4.1 Any request to activate the registration status within the same semester must be made to the Dean. This must be done by Week 4.
+4.4.2 For cases involving mental health, any request to activate the registration status must be accompanied with the certificate of mental state by a medical officer and/or specialist.
+
+5.0 WITHDRAWAL OF STUDY
+5.1 Application to withdraw can be made either:
+5.1.1 before the beginning of the semester; or
+5.1.2 before end of week 4 of the semester;
+5.1.3 week five (5) onwards
+5.2 Students who withdrew study under category (4.1.2) will have to pay tuition fees for the four-week period;
+5.3 Students who withdrew study under category (4.1.3) will have to pay the full tuition fees for the Semester;
+
+6.0 TYPES OF COURSES
+Courses offered are of the following nature and levels:
+6.1 Core – Mathematics, Chemistry, Physics, Computing, Laboratory, Economics, Accounting, Statistics, Presentation Skills, Communication, Professional Writing, Marketing, Business, and Finance.
+6.2 Compulsory – English, Critical Thinking and Event Management.
+6.3 Elective – Biology, Statics, Dynamics, Business Law, Construction, Development, Environmental Design, Quantity Surveying and Applied Mathematics.
+6.4 All students are required to complete all courses before they can be considered for graduation.
+
+7.0 CREDIT SCHEME
+7.1 Credit
+Each course will carry a specific credit value.
+7.2 Credit Evaluation
+One (1) credit is equivalent to forty (40) notional hours of student’s learning time per course. Student learning time is calculated based on all learning activities – face to face or non-face to face/independent student learning time. Examples of learning activities are listed below:
+i) Face to Face Interaction/Guided Learning with lecturers/instructors :
+- lectures
+- tutorials
+- directed reading
+- problem-based learning
+- cooperative & collaborative learning
+- computer-based exercises
+- group works
+- group discussion
+- case studies
+- laboratory experiments
+- demonstration
+ii) Independent Student Learning Time:
+- preparing for lectures / tutorials / group discussion / demonstration presentations / laboratory experiments
+- completing group works / case studies / laboratory reports / problem-based exercises / reports / assignments
+- revising for final examinations / progress tests & sitting for examinations / progress tests
+7.3 The credit value attributed to each course is outlined:
+1. Foundation in Science
+Semester 1: 
+Read as follows – Courses : Credit
+•	Mathematics I 4
+•	Physics I 4
+•	Chemistry I 4
+•	English I 3
+•	Introduction to Critical Thinking 3
+•	Event Management 2
+•	Bahasa Kebangsaan** -
+Semester 2: 
+Courses : Credit
+•	Mathematics II 4
+•	Physics II 4
+•	Chemistry II 4
+•	English II 3
+•	Chemistry Laboratory 1
+•	Physics Laboratory 1
+•	Statics* 3
+•	Dynamics* 3
+•	Biology* 3
+Semester 3: 
+Courses : Credit
+•	Mathematics III 4
+•	Physics III 4
+•	Computing 2
+TOTAL CREDITS 50
+* Subjected to elective courses availability
+** Audit course (Bahasa Kebangsaan) result will not be calculated in the students'
+GPA or CGPA but students are compulsory to pass this course as part of the criteria to graduate from the programme. International students are excluded to take the Audit course.
+2. Foundation in Arts:
+Semester 1: 
+Read as follows – Courses : Credit
+•	Introduction to Business 3
+•	Principles of Marketing 3
+•	Principles of Economics 3
+•	Introductory Mathematical Analysis 4
+•	Principles of Accounting 4
+•	English I 3
+•	Bahasa Kebangsaan** -
+Semester 2: 
+Read as follows – Courses : Credit
+•	Introduction to Computer Systems and Applications 3
+•	Presentation Skills 3
+•	Business Communication 3
+•	Introduction to Finance 3
+•	English II 3
+•	Event Management 2
+•	Introduction to Construction* 3
+•	Introduction to Development* 3
+•	Introduction to Quantity Surveying* 3
+•	Introduction to Environmental Design* 3
+•	Introduction to Multimedia* 3
+•	Introduction to Business Law* 3
+•	Applied Mathematics I* 3
+Semester 3: 
+Read as follows – Courses : Credit
+•	Professional Writing 3
+•	Introduction to Statistics 4
+•	Introduction to Critical Thinking 3
+TOTAL CREDITS 50
+7.4 Credit Hour Requirements
+7.4.1 Students of the foundation programme are required to complete credit hours of all courses in the respective semesters.
+7.4.2 The total credit hours required to be awarded the ‘Certificate of Foundation in Science’ or ‘Certificate of Foundation in Arts’ is 50 credits.
+7.4.3 The maximum credit per semester allowed as shown: 
+Sem 1 – 20 
+Sem 2 – 20 
+Sem 3 – 10 
+
+8.0 GRADE SYSTEM
+8.1 Grade and Point Values
+A student’s performance in a course is reflected by the grade received. The relationship between the grade and the point value is shown in Table 5:
+Status: EXCELLENT
+1. Mark: 90 - 100
+Grade: A+
+Point Value: 4.00
+2. Mark: 80 - 89
+Grade: A
+Point Value: 4.00 
+3. Mark: 75 - 79
+Grade: A- 
+Point Value: 3.67
+Status: CREDIT
+1. Mark: 70 - 74 
+Grade: B+
+Point Value: 3.33
+2. Mark: 65 - 69 
+Grade: B
+Point Value: 3.00
+3. Mark: 60 - 64
+Grade: B-
+Point Value: 2.67
+
+Status: PASS
+1. Mark: 55 - 59 
+Grade: C+
+Point Value: 2.33
+2. Mark: 50 - 54
+Grade: C
+Point Value: 2.00
+Status: FAIL
+3. Mark: 0 - 49
+Grade: F
+Point Value: 0.00 
+8.2 Passing Grade
+The general passing grade in all courses is ‘C’ and above.
+8.3 Grade Point
+8.3.1 The points are counted by taking the total credit hours for a particular course and multiplying it with the grade received for a particular course. For example, a student who receives an A in Mathematics which carries 4 credit hours receives 16 point for the course (4 credits x 4.00 point value for an A).
+8.3.2 The semester grade point is the total grade points accumulated by a student from all courses taken in one semester.
+8.4 Calculating the GPA and CGPA
+8.4.1 The Grade Point Average (GPA) is defined as the total grade point received by a student in a semester divided by the number of credit hours/ credit counted in the semester.
+Semester Grade Point / (Total Credit Hours / Credit calculated for that semester)
+8.4.2 The Cumulative Grade Point Average (CGPA) is defined as the sum of all the semesters’ grade points divided by the total credit hours counted for all semesters.
+Total Semester Grade Points for All Semester / (Total Credit Hours / Credit calculated for all semester)
+8.5 Status Other Than Grades
+8.5.1 Other than the A,B,C,F above, the following status are also used:
+i) I = Incomplete The Incomplete (I) status is awarded to students who fail to sit for an examination or fail to complete assignments such as projects and such, in the time given, due to illness and supported by verifications by a Medical Officer or for other reasons with the approval of the Dean. The student is required to sit for a special examination as replacement for the initial examination or finish the incomplete assignment at the date to be fixed by the Dean. An appropriate time extension will be considered but the grade for the course must be available to be endorsed at the next Senate meeting.
+ii) IS = Incomplete due to alleged breach of Academic Integrity pending results of enquiries.
+iii) W = Course Withdrawal. This status is given to students who withdrew a registered course within the allocated time, as provided for in the Clause 4.0 ‘Withdrawal of Study’. The Course will not be calculated in the GPA.
+iv) AU = Audit. This status will be given to students who have registered for a Course which is not in the programme requirement and will not be calculated in the student’s GPA or CGPA.
+v) XB = Bar from Examinations. This status will be given to students who fail to attend more than 90% of lessons. Students with this status are considered to have failed in the final examination and also in the overall assessment of the course.
+vi) XA = Absent during Final Examination. This status will be given to students who fail to attend the final examination without medical reason or approval from Dean.
+vii) XM = Examination/Academic Misconduct. This status is given to students are failed due to commission of examination or academic misconduct in their coursework.
+8.5.2 Students with Grade XB, XA and XM will be given grade point of 0.00.
+8.5.3 The XB, XA and XM will appear in their examination results slips but will not appear in their academic transcript.
+
+9.0 ATTENDANCE
+9.1 Attendance is compulsory for all courses and activities throughout the foundation programme. Students are required to attend at least 90% contact time allocated for each course.
+9.2 Students who fail to fulfil 9.1 and without reasons acceptable to the Head of Programme will be barred from attending further lectures and taking part in any form of assessments.
+
+10.0 EVALUATION SCHEME
+10.1 Course Evaluation
+Assessments for each course will be carried out periodically and continuously based on work done within the lecture weeks in a semester in the manner determined by the University.
+10.2 Modes of Assessment
+Students’ performance is assessed in the following manner:
+10.2.1 Continuous assessment through assignments, tutorials, quizzes, monthly tests.
+10.2.2 The end of semester examinations will be held comprehensively at the end of each semester for each course taken.
+10.2.3 In certain cases, the end of semester examinations can be replaced with other forms of assessment like `mini project’, `term paper’ and others. These modes of assessment require prior approval from the Dean of the School of Foundation Studies.
+10.3 End of Semester Examinations
+10.3.1 Final examinations must be held within the allocated time and in modes approved by the University.
+10.3.2 All students are required to sit for the end of semester final examinations.
+10.3.3 Students who fail to sit for exams will be given an ‘F’ grade for the course.
+10.4 Eligibility of Entry into Examination
+10.4.1 Students shall NOT be eligible to sit for any examination unless they have attained at least 90% attendance at lectures, tutorials and laboratory classes
+10.4.2 A student, who is barred from taking the examination due to any reasons, may appeal to the Dean, School of Foundation Studies, whose decision on the matter shall be final.
+10.5 Announcement of Examination Results
+Details of the examination results can only be released to the student concerned after the approval of the Senate.
+
+11.0 ACADEMIC STANDING
+11.1 Students’ academic performance and standing in Semester 1, Semester 2 and Semester 3 are valued using CGPA.
+11.2 The relationship between the academic standing and the CGPA are shown: 
+ACADEMIC STANDING: PASS
+CGPA: CGPA ≥ 2.00 and PASS all courses
+ACADEMIC STANDING: FAIL
+CGPA: CGPA < 2.00
+
+12.0 PROGRAMME COMPLETION
+12.1 Requirements
+Students will be awarded the Certificate of Foundation in Science or Certificate of Foundation in Arts when they fulfil the following criteria:
+12.1.1 Attained CGPA ≥ 2.00 and ‘PASS’ all courses
+12.1.2 Fulfilled all academic requirements of the programme
+12.2 The release of the Certificate is subject to the clearance all financial obligations to the University and pending disciplinary action
+
+13.0 GENERAL ALLOCATIONS
+13.1 Any mode and administrative procedure codes can be made to the University rules under this provision. Such modes and administrative procedure must be obeyed. However, the Senate reserves the right to make amendment to them from time to time deemed necessary.
+13.2 Provision to this rule is applicable to students entering University of Technology Sarawak in the period this edition is enforced. However, the University reserves the right to require that the application of the terms amended from time to time, for acceptable reasons.
+13.3 The Vice Chancellor/Chief Executive can consider appeals regarding any regulations provided for herein and on his/her discretion allows for exemptions where appropriate.
+
+PART B - ACADEMIC MISCONDUCT
+1.0 COMMISSION OF AN ACADEMIC OFFENCE OR MISCONDUCT
+1.1 Academic offence is any action which would have the effect of unfairly promoting or enhancing one’s academic standing within the entire community at an Institute of University of Technology Sarawak.
+1.2 The Academic Misconducts are as listed below, the list is however, not exhaustive.
+1.2.1 Plagiarism:
+Plagiarism consists of, but is not limited to, copying portions of the writing of others with only minor changes in wording, with (a) inadequate footnotes, quotes, or other reference forms of citation or (b) only a list of references. Paraphrasing without appropriate citation is also plagiarism.
+With group work, where individual members submit parts of the total assignment, each member of a group must take responsibility for checking the legitimacy of the work submitted in his/her name. If even one part of work contains plagiarised materials, penalties will normally be imposed on all group members, equally.
+1.2.2 Collusion:
+Collusion is when a student or students collaborate with another student or students as an individual or group with the intention of cheating to gain a mark or grade to which they are not entitled. Students who allow another to copy their work are also committing collusion and both copier and the provider of the work are liable to be penalised.
+1.2.3 Fraud and forgery: 
+The commission of fraud and forgery include but not limited to falsification of University academic records, including attendance records, regarding oneself or others, forging the signature of academic officers on any official University forms, altering or changing an examination results or like document so as to mislead other or causing false information to be presented at an academic proceeding.
+1.2.4 Abuse of Resources: 
+Infringing upon the right of other students to fair and equal access to any University library materials and comparable or related academic resources. This may include, but not limited to, theft, mutilation, unreasonably delayed responses when materials are requested by the institute’s Library Management or not returning materials upon deadline.
+Attempting deliberately to prevent other user’s access to the University’s computer system, depriving them of resources, and degrading the system’s performance, or copying or destroying files or programmes without consent.
+
+2.0 EXAMINATION RULES AND REGULATIONS
+2.1 Conduct During Examination
+Students must adhere strictly to the examination rules and regulations as listed below
+2.1.1 Check the examination schedule and take note of examination serial number and dates well in advance.
+2.1.2 Bring the Identity Card, Student Card and the Examination Entry Slip to the examination venue. A student will not be allowed in if he did not bring any of these documents.
+2.1.3 Be present outside the Examination Hall or venue at least fifteen (15) minutes prior to the commencement of the examination.
+2.1.4 Enter the examination hall after the announcement made by the Chief Invigilator fifteen (15) minutes prior to the commencement of the examination. Candidates are required to enter the hall using the assigned entrance/s.
+2.1.5 Candidates who arrive within the first thirty (30) minutes after the examination has commenced, will be allowed to take the examination. However, no additional time will be given to this candidate.
+2.1.6 Candidates who arrive more than thirty (30) minutes after the examination has commenced will not be allowed to take the examination.
+2.1.7 Candidates are strictly prohibited from bringing into the examination hall any of the following: books, papers, pictures, notes, ‘programmable calculator’, handbag, handphone or any other devices or equipment, unless allowed by the Chief Invigilator.
+2.1.8 Candidates are not allowed to bring or consume food and drinks in the Examination Hall. Candidates are not allowed to drink, eat or smoke in the Examination Hall.
+2.1.9 Upon taking their seats in the examination hall, candidates are required to:
+a) check their pockets, pencil case, calculator sleeve and their persons to ensure that they have not mistakenly brought in items which are not allowed to be brought into the examination hall; if there are such items, they have to be removed from the candidates by the invigilators.
+b) switch off their handphones (if they had brought them in due to security reason); and
+c) produce their Identity Card, Student Card and their Examination Entry Slip and place them on the top right hand corner of the table throughout duration of the examination for inspection by the invigilators.
+d) Candidates without a valid Identity Card/Student Card or Examination Entry Slip will not be allowed to take the examination unless they have a written approval from the Examination Unit of the University.
+2.1.10 Ten (10) minutes prior to the commencement of the examination, candidates are allowed to:
+a) read and follow the instructions on the COVER PAGE OF THE ANSWER BOOKLET SHEET only, write examination student number/serial number on the answer booklet, answer sheets and other attachments submitted as or part of the answer.
+b) fill-in particulars in the examination attendance slip on the cover of the examination answer booklet and other information as required or as advised by the Chief Invigilator.
+c) ensure that the correct question paper is supplied, with sufficient pages as stated before attempting to answer the questions.
+d) immediately inform the invigilators present in the event that the candidate has been supplied with an incorrect examination paper.
+2.1.11 Candidates are strictly not allowed to either answer the questions before the announcement of the commencement of the examination nor to continue writing after the announcement made by the invigilators on the expiry of the examination duration.
+2.1.12 Candidates are not permitted to leave the examination hall within the first thirty (30) minutes after the commencement of the examination and fifteen (15) minutes before the completion of the examination.
+2.1.13 Candidates are not allowed to receive any books, papers, pictures, notes, ‘programmable calculator’ and other materials or devices through anyone unless the Invigilator authorizes them.
+2.1.14 Any form of communication among candidates as well as between candidates and other parties is strictly prohibited.
+2.1.15 Candidates are not permitted to render or receive any form of assistance on matters that pertain to the examination, when the examination is in progress.
+2.1.16 Candidates must adhere to the instructions of the invigilators.
+2.1.17 Candidates who fall ill or are not able to continue with the examination must report to the Invigilator.
+2.1.18 At the end of the examination period, the answer booklet cover sheet and/or the answer scripts must be arranged and tied as instructed.
+2.1.19 nk, used and spoiled answer sheets and/or answer booklet cover sheet are not allowed to be brought out of the examination hall.
+2.1.20 tems that are loaned to students by the University for purpose of use during the examination must be returned to the invigilators at the end of the examination.
+2.1.21 Candidates must remain seated in the examination hall unless allowed otherwise by the Invigilator.
+2.1.22 Candidates must leave the examination hall in an orderly manner.
+
+3.0 EXAMINATION MISCONDUCT
+3.1 The possession of unauthorised materials in exams is another common academic misconduct. Generally, it is any attempt to give or obtain assistance in a formal academic exercise (for example: an examination) without due acknowledgment by the organiser)
+3.2 The act may include, but not limited to:
+3.2.1 Possessing any unauthorised materials or devices in examination venue.
+3.2.2 These unauthorised materials or devices may include, but not limited to:
+a) Bringing a bag, writing paper, books, manuscript or other than the specified
+material;
+b) A mobile telephone or other communication devices or any type of playback devices, (If these are allowed into the examination hall due to safety
+reasons, such devices must be switched off and placed under the candidate’s seat for the duration of the examination);
+c) Written or printed notes of any kind or size;
+d) Writing on any part of the body or items of clothing;
+e) Writing on a ruler or any other instruments;
+f) A calculator or a hand-held computer where these are not permitted or
+where calculators are supplied by the University for the examination
+g) Use of stored memory capability of a calculator or other electronic devices
+where this is not permitted.
+3.2.3 Giving or receiving or possessing any information which is related to the examination questions during the conduct of examination.
+3.2.4 Referring and using any prohibited reference materials in or outside the Examination Hall/Room for the purpose of cheating during the examination.
+3.2.5 Communicating to other candidates for the purpose of cheating during the examination.
+3.2.6 Soliciting, obtaining, possessing, or distributing to another person an examination document prior to or subsequent to the administration of the examination.
+3.2.7 Bringing in materials which are not required by the examination or not allowed by the Examination Rules and Regulations.
+3.2.8 Altering or changing an examination or comparable document so as to mislead other users or the reader.
+3.2.9 Substituting for, arranging for substitution by another student, or otherwise representing oneself as another person during an examination session or comparable circumstances.
+3.3 The above list is not exhaustive and other instances of academic offence may occur. Their identification will require prudent review by the University. The above definition and examples apply to all schools and institutes in University of Technology Sarawak.
+3.4 Candidates who have been alleged to breach any part of the Examination Rules and Regulations will be referred to the School where the programme is run.
+
+4.0 PENALTY
+4.1 For academic misconduct, the penalty can be any one or a combination of two or more of the following penalties ranging from:
+a) reprimanding students in writing;
+b) re-doing of assignment with reduced marks;
+c) Student’s work is given 0 mark;
+d) reducing 50% marks for student’s coursework;
+e) suspension for one semester;
+f) expulsion from the University.
+4.2 For examination misconduct during examinations; if the student is found to have committed a breach of the examination rules and regulations, the student can be imposed with any of the following penalties:
+a) Given ‘XM’ grade for that particular course; or
+b) Given ‘XM’ grade for that particular course and suspension from the University for one semester; or
+c) Given ‘XM’ grade for that particular course and expulsion from the University.
+4.3 If the penalty to be imposed is suspension or expulsion, the decision will be endorsed by Senate.
+
+5.0 RE-SIT EXAMINATION
+5.1 Re-sit examination is the formal approval by the School Board of Examiners for a student to undertake an additional assessment task (which could be an examination or assignment or other work) in order to provide an opportunity for the student to pass the course. The capping grade for a re-sit examination is C+.
+5.2 Students who failed re-sit examination are allowed to repeat the course once during their study. For the purpose of calculating the CGPA, the failed course will be replaced with the best grade received.
+5.3 The duration of Foundation Programmes is one year. Hence, re-sit examination is available for students who failed the course instead of repeating the course. However, students who obtained low marks in the coursework might not able to pass the course even though they are allowed to sit for re-sit examination. Therefore, to repeat the course is another alternative for students to pass the course if they failed the coursework.
+5.4 Students with Fail and Out (FO) status are not eligible to take re-sit examination.
+
+6.0 PROBATION & TERMINATION
+6.1 A student will be placed on probation status if he/she obtains 1.00 < GPA < 2.00.
+6.2 A student will be terminated from Foundation Programme if:-
+i. Placed on probation status for two consecutive semesters; or
+ii. Obtained GPA < 1.00 at any semester
+6.3 Maximum duration for students to pursue Foundation Programme is 6 semesters/2 years.
+
+7.0 APPEAL TO CONTINUE STUDY
+7.1 Students are allowed to appeal to continue study because of failure (FO status) ONLY ONE (1) in the programme cycle
+7.2 Students with FO status can appeal to continue study to the Dean within THREE (3) weeks after the official announcement of the provisional results
+7.3 A further appeal to the Senate may be possible. The decision made by the Senate on appeal is final.
+7.4 If the appeal is approved, students will continue study from the point of
+termination/dismissal.
+
+8.0 RE-ADMISSION AFTER WITHDRAWAL OR TERMINATION OF STUDIES
+8.1 ONLY ONE (1) re-admission is allowed for students after withdrawal of study or students who have been terminated by the University on academic reasons.
+8.2 Student whose studies have been terminated based on academic reasons can appeal to the Dean within two (2) weeks after the official announcement of the provisional results.
+Laboratory User Guideline 
+1.0 INTRODUCTION
+(i) Block 13 laboratories include Computer Laboratory 5, Language Laboratory, Physics Laboratory and Biology/ Chemistry Laboratory. These facilities are used for formal classes under the Foundation Programmes at the School of Foundation Studies. At other times, the lab is open for classes held by other programmes or are used for school activities such as workshops and consultations. All users are expected to adhere to the given rules and regulations.
+
+2.0 LABORATORY USAGE POLICY
+(i) Laboratory must be pre-booked by project supervisor, accompanying lecturer, or event organizer at least one week before the date of booking.
+(ii) Lab usage for projects by students must not conflict with any regular laboratory schedule.
+(iii) Access to laboratory facilities is only permitted between 8 am to 5 pm. The laboratory is closed on Saturday/Sunday/Public Holiday.
+(iv) Related document: LABORATORY FACILITIES BOOKING FORM AND EQUIPMENT LOAN FORM.
+2.1 PHYSICS/ BIOLOGY/ CHEMISTRY LABORATORY SAFETY RULES
+(i) General Lab Safety Rules:
+a. Be sure to read all fire alarm and safety signs.
+b. Ensure you are fully aware of the nearest lab exit and the location of the fire alarm.
+c. Make sure you know where your lab's safety equipment—including first aid kit(s), fire extinguishers, eye wash stations, and safety showers—is located and how to properly use it.
+d. Open flames should never be used in the laboratory unless you have permission from a qualified supervisor.
+e. Heated glassware or apparatus should be handled using gloves that provide heat protection. Place the heated item in a safe place to cool. Avoid rapid change of temperature by placing the heated item on a buffering material e.g., pot stand, cork pads etc.
+e. If there is a fire drill, be sure to turn off all electrical equipment and close all containers.
+f. Always work in properly ventilated areas.
+g. Do not chew gum, drink, or eat while working in the lab.
+h. Laboratory glassware should never be utilized as food or beverage containers.
+i. Be sure to check glassware for chips and cracks before using. Notify your lab supervisor of any damaged glassware so it can be properly disposed of.
+j. Never use lab equipment that you are not approved or trained by your supervisor to operate.
+k. If you are the last person to leave the lab, make sure to lock all the doors and turn off all ignition sources.
+l. Do not work alone in the lab.
+m. Never leave an ongoing experiment unattended.
+n. Never lift any glassware, solutions, or other types of apparatus above eye level.
+o. Never smell or taste chemicals.
+p. Do not pipette by mouth.
+q. Make sure you always follow the proper procedures for disposing of lab waste.
+r. Report all injuries, accidents, and broken equipment or glass right away, even if the incident seems small or unimportant.
+s. If you have been injured, yell out immediately and as loud as you can to ensure you get help.
+t. In the event of a chemical splashing into your eye(s) or on your skin, immediately flush the affected area(s) with running water for at least 20 minutes.
+(ii) Dress Code:
+a. Always tie back hair that is chin-length or longer.
+b. Make sure that loose clothing or dangling jewelry is secured or avoid wearing it in the first place.
+c. Never wear sandals or other open-toed shoes in the lab. Footwear should always cover the foot completely.
+d. Never wear shorts or skirts in the lab.
+e. When working with Bunsen burners, lighted splints, matches, etc., acrylic nails are not allowed.
+(iii) Personal Protection:
+a. When working with equipment, hazardous materials, glassware, heat, and/or chemicals, always wear face shields or safety glasses.
+b. When handling any toxic or hazardous agent, always wear the appropriate gloves.
+c. When performing laboratory experiments, always wear a smock or lab coat.
+d. Hands must be washed regularly.
+e. When using lab equipment and chemicals, be sure to keep your hands away from your body, mouth, eyes, and face.
+(iv) Electrical Safety Rules:
+a. A power pack must be the last item to be turned on during an experiment involving voltage use. Set the voltage dial to the lowest setting before dialing to the desired value.
+b. Make sure all electrical panels are unobstructed and easily accessible.
+2.2 WORK ETHICS
+(i) The work area must be tidy and clean. The bench must be emptied after every laboratory session. An on-going experiment must be labeled with the following information:
+a. Owner of the apparatus or experiment setup.
+b. Contact number.
+c. Potential hazard. E.g., Caution! Hot Surface.
+d. The duration of the experiment.
+(ii) Stools in the lab must be placed in their designated place.
+(iii) Bags should not be placed on the working bench. Only materials required for work should be kept in the work area. Everything else should be stored safely out of the way.
+(iv) Solid & liquid waste categories and their methods of disposal are simplified in the following:
+1. Waste categories: Sharps
+Examples: Needle, razor blades
+Disposal method: Sharps waste bin
+2. Waste categories: Glass
+Examples: Broken glassware
+Disposal method: Glass bin
+3. Waste categories: Solid chemicals
+Examples: Contaminated magnesium oxide powder
+Disposal method: Original bottle and labeled as 'waste'
+4. Waste categories: Organic liquid waste
+Examples: Toluene, methanol
+Disposal method: Original bottle and labeled as 'waste'
+5. Waste categories: Aqueous waste
+Examples: Contain less than 40% of organic waste.
+Disposal method: Segregate into either one of three collection bottles, according to their pH level:
+(i) acidic (pH<4)
+(ii) Neutral ( 4<pH<10)
+(iii) Basic (pH>10)
+6. Waste categories: Batteries
+Disposal method: Batteries collection bin
+7. Waste categories: Mercury
+Examples: Mercury contaminated items, broken thermometer
+Disposal method: (i) Use sulfur powder to contain spillage.
+(ii) Place contaminated materials into a designated bottle for mercury waste.
+2.3 COMPUTER LABORATORY & LANGUAGE LABORATORY RULES
+(i) Wash your hands before using the computers, headphones, or microphones.
+(ii) No food and drinks are allowed in the laboratory.
+(iii) Only use the workstation given by your instructor.
+(iv) Do not change the setting of the computer or download materials without the permission from the lab coordinator.
+(v) Pay attention to your instructor. Do not click away when teaching is in session.
+(vi) Clean your workstation before leaving.
+(vii) Make sure to shut down the computer before leaving.
+(viii) Do not leave valuables or personal belongings in the laboratory.
+
+3.0 EQUIPMENT SAFE-HANDLING GUIDELINE
+(i) User must read the handling instructions of the borrowed equipment before using it.
+(ii) Assistance from the Lab Technician must be requested if the user is not an expert user of the equipment.
+(iii) Permission to use the equipment will be revoked should the user is found to have mishandled the equipment.
+(iv) Immediate report must be made to the Lab Technician should the user recognizes irregularities about the equipment being used.
+(vi) The equipment must not be moved from allocated space in the Laboratory. Storage space for the equipment should also be specific and not easily changed.
+(vii) The equipment must be returned as it was first received by the user. Any damage or missing parts must be reported to the Lab Technician.
+(viii) IMPORTANT: Equipment containing loose items e.g., Physics Laboratory Experiment Sets, must be borrowed as a whole unit and returned as a whole unit. The arrangement of the components must be as the accompanying diagram stamped on the storage box. Lab Technician must ensure the availability of the components before the set is taken and after the set is returned.
+2. School of Engineering and Technology (SET)
+For more information, please refer to https://set.uts.edu.my/
+SET was established on 1 April 2013. It is one of the pioneer schools established together with the establishment of UTS. SET is also the biggest school within UTS.  The school currently has both undergraduate and postgraduate programmes.
+The undergraduate programmes offered are:
+•	Bachelor of Civil Engineering (Hons)
+•	Bachelor of Mechanical Engineering (Hons)
+•	Bachelor of Electrical Engineering (Honours)
+•	Bachelor of Food Technology (Hons)
+•	Bachelor of Science in Occupational Safety and Health (Honours)
+The school’s four postgraduate programmes (By research) offered are as below:
+•	Master in Engineering 
+•	Master of Science in Applied Science
+•	Doctor of Philosophy (PhD) in Engineering 
+•	Doctor of Philosophy (PhD) in Applied Sciences 
+Currently, the school has five buildings properly equipped with modern teaching and learning facilities. We welcome all visitors to visit our school and UTS in general. The school welcomes linkage with the community and industry. This include community activities, research collaboration and consultancy. Staff of SET have wide variety of experiences in their own respective fields. Any collaboration is welcomed and please do not hesitate to contact any one of them.
+Administrative Team:
+1. Assoc. Prof. Ts. Dr. Dayang Siti Hazimmah binti Ali
+Position:  Dean and Associate Professor
+Extension:   543
+Email:  siti.hazimmah@uts.edu.my
+Qualifications: PhD Civil Engineering in Construction Materials (UMP), MSc. in Materials Engineering (USM), B. Eng. in Materials Engineering (USM)
+2. Ts. Dr. Samat bin Iderus
+Position:  Deputy Dean and Senior Lecturer
+Extension:   508
+Email:  samat.iderus@uts.edu.my
+Qualifications: PhD in Engineering (UTS), Mater of Electrical Engineering (UTHM), Bachelor in Electrical Engineering (Honours) (UTHM)
+3. Keren John 
+Position:  Executive
+Extension:   500
+Fax:  084-367301
+Email:  kerenjohn@uts.edu.my
+4. Nur Raihan binti Zapry
+Position:  Admin Officer
+Extension:   544
+Fax:  084-367301
+Email:  raihan@uts.edu.my
+5. Shirley Tricia
+Position:  Admin Officer
+Extension:   545
+Fax:  084-367301
+Email:  shirley@uts.edu.my
+Programmes Offered:
+1. Bachelor of Mechanical Engineering (Hons)
+For more detailed information, please refer to https://set.uts.edu.my/bachelor-of-mechanical-engineering-hons/
+Programme Aims:
+To produce mechanical engineers capable of fulfilling their professional demands in highly competitive global markets with confidence, outstanding ethical and moral values.
+Programme Educational Objectives (PEOs):
+•	Graduates will be employed in mechanical and relevant engineering field with good level of knowledge and competency skills with appropriate attitude enabling them to have successful career.
+•	Graduates will acquire abilities for effective communication, creativity, entrepreneur leadership, collaborative working in diverse teams and continual development through professional involvement. 
+•	Graduates will pursue lifelong learning in order to contribute to the advancement of the Mechanical Engineering professions and related contemporary issues.
+Programme Learning Outcomes (PLOs):
+•	Apply knowledge of mathematics, natural science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+•	Identify, formulate, and conduct research literature and analyses complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+•	Design solutions for complex engineering problems and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations.
+•	Create, select and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modelling, to complex engineering problems, with an understanding of the limitations.
+•	Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional engineering practice and solutions to complex engineering problems.
+•	Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice.
+•	Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+•	Function effectively as an individual, and as a member or leader in diverse teams and in multi-disciplinary settings.
+•	Demonstrate knowledge and understanding of engineering management principles and economic decision making and apply these to one’s own work, as a member and leader in a team, to manage projects in multidisciplinary environments.
+•	Conduct investigation of complex engineering problems using research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.
+•	Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+•	Understand and evaluate the sustainability and impact of professional engineering work in the solutions of complex.
+Academin Staffs:
+1. Dr. Sebastian Dayou
+Position: Head of Programme and Senior Lecturer
+Extension: 503
+Email: sebastian@uts.edu.my
+Qualifications: PhD in Nanoscience and Technology (USM), MEng in Mechanical Engineering (UMS), BEng in Mechanical – Materials (UTM)
+
+2. Prof. Ir. Ts. Dr. Mohd Shahril bin Osman
+Position: Deputy Vice Chancellor and Professor
+Extension: 368
+Email: drshahril@uts.edu.my
+Qualifications: PhD (Loughborough), P.Eng (BEM) FIEM, B.Eng Mechanical (Loughborough)
+
+3. Assoc. Prof. Ts. Dr. Dayang Siti Hazimmah binti Ali
+Position: Dean and Associate Professor
+Extension: 543
+Email: siti.hazimmah@uts.edu.my
+Qualifications: PhD Civil Engineering in Construction Materials (UMP), MSc. in Materials Engineering (USM), B. Eng. in Materials Engineering (USM)
+
+4. Assoc. Prof. Dr. Abu Saleh Ahmed
+Position: Associate Professor
+Extension: 525
+Email: abusaleh@uts.edu.my
+Qualifications: PhD in Energy (Kyoto Univeristy), M. Eng in Mechanical (UM), B. Eng in Mechanical Engineering (BUET).
+
+5. Ir. Ts. Ngu Heng Jong
+Position: Senior Lecturer
+Extension: 412
+Email: ngu.heng.jong@uts.edu.my
+Qualifications: MProfEngLead (Griffith University, Australia), B.Eng (Hons) in Mechanical Engineering (Monash university, Australia).
+
+6. Capt (Rtd) Dr. Othman Inayatullah
+Position: Senior Lecturer
+Extension: 434
+Email: drothman@uts.edu.my
+Qualifications: PhD in Mechanical & Materials (UKM), M.Eng Manufacturing System (UKM), B.Eng Mechanical Systems (Osaka).
+
+7. Dr. Ting Tiew Wei
+Position: Senior Lecturer
+Extension: 540
+Email: dr.ting@uts.edu.my
+Qualifications: PhD in Mechanical Engineering (Monash University), B.Eng in Mechanical (Multimedia University).
+
+8. Dr. Irina Wong Ming Ming
+Position: Lecturer
+Extension: 461
+Email: dr.irina@uts.edu.my
+Qualifications: Bachelor of Manufacturing Engineering, (UNIMAP), PhD in Manufacturing Engineering, (UNIMAP).
+
+9. Dr. Peter Yek Nai Yuh
+Position: Lecturer
+Extension: 531
+Email: peter.yek@uts.edu.my
+Qualifications: PhD in Environmental Technology and Management, (UMT), M. Eng in Mechanical (UNIMAS), B. Eng in Mechanical & Manufacturing (UNIMAS).
+
+10. Taharah binti Edin
+Position: Senior Lecturer
+Extension: Study Leave
+Email: taharah@uts.edu.my
+Qualifications: B. Eng in Mechanical & Manufacturing Eng. (UNIMAS), M.Eng in Mechanical (UNIMAS)
+
+11. Lau Sie Yee
+Position: Lecturer
+Extension: Study Leave
+Email: lau.sie.yee@uts.edu.my
+Qualifications: M. Eng in Eng. Management (UPM), B. Eng in Manufacturing Eng. (UTeM)
+
+12. Ting Sing Tung
+Position: Lecturer
+Extension: 472
+Email: t.sing.tung@uts.edu.my
+Qualifications: Master in Mechanical Engineering (L'institut Superieur De I'automobile Et Des Transports).
+
+13. Mohamad Saiful bin Sulaiman
+Position: Senior Lecturer
+Extension: 569
+Email: saiful.sulaiman@uts.edu.my
+Qualifications: Degree of Applied Science in Bio Composite Technology (UiTM), Master of Science in Natural Resources Management, (UMK).
+
+14. Amira Farhana binti Mohamad Tar
+Position: Lecturer
+Extension: 555
+Email: amirafarhana@uts.edu.my
+Qualifications: Master of Science in Manufacturing Engineering (UTeM).
+
+15. Ellisha anak Iling
+Position: Lecturer
+Extension: 551
+Email: ellisha@uts.edu.my
+Qualifications: Bachelor of Degree in Materials Engineering (UNIMAP), Master of Engineering (UCTS)
+
+16. Ting Kee Chuong
+Position: Lecturer
+Extension: 518
+Email: tingkeechuong@uts.edu.my
+Qualifications: Master of Engineering (UTS), Bachelor Degree of Mechanical Engineering (UTS)
+
+17. Ros Syazmini binti Mohd Ghani
+Position: Lecturer
+Extension: Study Leave
+Email: ros.syazmini@uts.edu.my
+Qualifications: Master of Science in Natural Resources Management (UMK), Bachelor of Forestry Science with Honours (Technology and Industry of Wood Fiber) (UMS)
+
+18. Mah Hoe Tiang
+Position: Lecturer
+Extension: 618
+Email: htmah@uts.edu.my
+Qualifications: Master of Mechanical Engineering (INSA De Lyon), Mechanical Engineering Technical Diploma (DUT)
+
+19. Wong Ai Moi
+Position: Lecturer
+Email: wong.ai.moi@uts.edu.my
+Qualifications: Master of Engineering (UTS), Bachelor of Mechanical Engineering (Hons) (UTS)
+
+20. Abang Mohamad Harith bin Abang Beniamin
+Position: Lecturer
+Email: harith@uts.edu.my
+Qualifications: Master of Engineering (UTS), Bachelor of Chemical Engineering (Hons) (UM)
+Technicians Staffs:
+1. Syazwan Nizam bin Othman
+Position: Senior Technologist
+Extension: 393
+Email: syazwannizam@uts.edu.my
+Qualifications: Diploma in Mechanical Engineering, Politeknik Mukah Sarawak
+
+2. Muhammad Aswadi bin Mahdi
+Position: Technologist
+Extension: 394
+Email: mohd.aswadi@uts.edu.my
+Qualifications: Diploma in Mechanical Technology, IKBN Pagoh Johor
+
+3. Mohamad Firdaus bin Ahmad
+Position: Technologist
+Extension: 359
+Email: mohd.firdaus@uts.edu.my
+Qualifications: Diploma in Mechanical Engineering, Politeknik Mukah
+
+4. Dayang Haseena bin Abang Ali
+Position: Assistant Lab Technologist
+Extension: 397
+Email: dayanghaseena@uts.edu.my
+Qualifications: Diploma in Mechanical Engineering, Politeknik Mukah
+
+2. Bachelor of Civil Engineering (Hons)
+For more detail information, please refer to https://set.uts.edu.my/bachelor-of-civil-engineering-hons/
+Programme Aims:
+To produce graduates with strong civil engineering background, capable to fulfill their professional demands in highly competitive global markets with confidence, outstanding ethical and moral values.
+Programme Educational Objectives:
+•	To produce engineers with sufficient knowledge and skills in sync with appropriate attitude to succeed in positions in civil engineering practice and in other fields they choose to pursue.
+•	To produce engineers with abilities for effective communication, collaborative working in diverse teams, and continual development through professional involvement.
+•	To produce engineers who pursue lifelong learning, stay informed of current civil engineering practices and contemporary issues, and actively involving in research.
+Programme Learning Outcomes:
+At the end of the programme, graduates should be able to:
+•	Apply knowledge of mathematics, sciences, civil engineering fundamentals and engineering specialisations to solve complex engineering problems.
+•	Identify, formulate, research literature and analyse complex engineering problems creatively and innovatively using the first principles in civil engineering fields to acquire substantiated conclusions.
+•	Develop and design solutions for complex engineering problems, systems and processes using integrated & interdisciplinary approaches with appropriate considerations for public health and safety, cultural, societal and environmental sustainability.
+•	Use the advance techniques, competent skills, appropriate methods and tools to implement complex engineering development, with an understanding of the limitations.
+•	Apply contextual knowledge to assess societal, health, safety, legal and cultural issues, and the consequent responsibilities relevant to professional engineering practices and solutions to complex engineering problems.
+•	Conduct and commit to professional and ethical responsibilities.
+•	Communicate effectively on complex engineering activities with the engineering community and the society, verbally and in written forms.
+•	Function effectively both as individuals and in a group as a leader or a team member in diverse teams and in multi-disciplinary settings.
+•	Demonstrate understanding and apply knowledge of engineering management principles and economic decision-making to manage works and projects in multidisciplinary environments.
+•	Design and conduct investigations for complex problems using research-based knowledge and methods, such as design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.
+•	Engage in life-long learning.
+•	Evaluate the sustainability and impact of civil engineering solutions for complex engineering problems in societal and environmental context.
+Academic Staffs:
+1. Dr. Mastura binti Bujang
+Position: Senior Lecturer and Head of Programme
+Extension: 510
+Email: mastura.bujang@uts.edu.my
+Qualification: PhD Civil Engineering in Highway & Transportation (UTM), Bachelor in Civil Engineering (UTM).
+
+2. Assoc. Prof. Ir. Dr. Ling Jen Hua
+Position: Associate Professor
+Extension: 526
+Email: lingjenhua@uts.edu.my
+Qualifications: PhD (UTM), M.Eng (UTM), B.Eng Civil (UTM).
+
+3. Dr. Mazizah Ezdiani binti Mohamad
+Position: Senior Lecturer
+Extension: 471
+Email: mazizah@uts.edu.my
+Qualifications: PhD in Civil Engineering (Structure & Material), M. Eng in Civil Eng.(UTM), B. Eng in Civil Eng.(UTHM), Dip. in Quantity Surveying (UTM).
+
+4. Azrul bin Zulwali Kifli
+Position: Senior Lecturer
+Email: azrulzulwali@uts.edu.my
+Qualifications: M.Eng in Civil Eng. (Unimas), B.Eng in Civil Eng. (HONS) (UiTM), Diploma in Civil Eng. (UiTM).
+
+5. Ir. Sie Teck Sung
+Position: Senior Lecturer
+Extension: 419
+Email: sietecksung@uts.edu.my
+Qualifications: P.Eng (BEM), Bachelor Civil Engineering (Auckland).
+
+6. Ir. Sia How Teck
+Position: Senior Lecturer
+Extension: 501
+Email: sia.how.teck@uts.edu.my
+Qualifications: P.Eng (BEM), B.Eng in Civil Eng. (USM).
+
+7. Ir. Leong Wen Kam
+Position: Senior Lecturer
+Extension: 549
+Email: leong.wen.kam@uts.edu.my
+Qualifications: P.Eng (Civil), (M.I.E.M.), M.Sc (Civil) ,(NTU Singapore), B.Eng (Civil) (Hons), (UNITEN).
+
+8. Syazie Nordzaima Ali Mohamad
+Position: Senior Lecturer
+Extension: 527
+Email: syazie@uts.edu.my
+Qualifications: M.Eng in Civil Engineering, (UNIMAS), B.Eng in Civil Engineering (UNIMAS).
+
+9. Wong Chee Chung
+Position: Senior Lecturer
+Extension: 564
+Email: wongcheechung@uts.edu.my
+Qualifications: MSc Environmental ,(South Australia), B.Eng in Civil Eng. ,(South Australia).
+
+10. Nisa 'Aqila bt Bakie
+Position: Senior Lecturer
+Extension: Study Leave
+Email: nisa.aqila@uts.edu.my
+Qualifications: M. Eng in Civil Engineering, (UNIMAS), B. Eng in Civil Engineering, (UNIMAS).
+
+11. Ummi Humaira binti Bujang
+Position: Lecturer
+Extension: Study Leave
+Email: ummi.humaira@uts.edu.my
+Qualification: Master of Civil Engineering, Universiti Tun Hussein Onn Malaysia, (UTHM), Bachelor in Civil Engineering, (UTHM).
+
+12. Lim Yong Tat
+Position: Lecturer
+Extension: 580
+Email: limyongtat@uts.edu.my
+Qualification: Master of Engineering ,(UCTS), Bachelor in Civil Engineering (Hons), (UCTS).
+
+13. Dr. Qurratu Aini binti Siat @ Sirat
+Position: Lecturer
+Extension: 490
+Email: qurratuaini@uts.edu.my
+Qualification: Doctor of Philosophy in Civil Engineering (UTM), Master in Geotechnics (UTM), Bachelor of Civil Engineering (Hons) (UTM).
+
+Technicians Staffs:
+1. Joseph Anak Henry
+Position: Technologist
+Extension: 356
+Email: joseph.henry@uts.edu.my
+Qualifications: Certificate in Civil Engineering ,(Politeknik Mukah), Diploma in Civil Engineering ,(Politeknik Mukah).
+
+2. Hamzi bin Padlam
+Position: Technologist
+Extension: 398
+Email: hamzi@uts.edu.my
+Qualifications: Dip. in Civil Eng, (Politeknik Mukah).
+
+3. Asmaa Muniera bt Mohamad Tar
+Position: Technologist
+Extension: 388
+Email: asmaa.muniera@uts.edu.my
+Qualifications: Diploma In Civil Engineering, (Politeknik Mukah Sarawak).
+
+4. Noradibah Binti Lok
+Position: Assistant Technologist
+Extension: 380
+Email: noradibah@uts.edu.my
+Qualifications: Diploma in Civil Engineering, (UiTM).
+
+3. Bachelor of Electrical Engineering (Honours)
+For more detail information, please refer to https://set.uts.edu.my/bachelor-of-electrical-engineering-honours/
+Programme Aims:
+To produce Electrical engineers capable of fulfilling their professional demands in highly competitive global markets with confidence, outstanding ethical and moral values.
+Programme Educational Objectives (PEOs):
+Graduates with good level of knowledge and competency skills, graduates will be employed or self-employed in electrical and relevant engineering field.  Appropriate attitude will enabling them to have successful career.
+Graduates will acquire abilities for effective communication, collaborative working in diverse teams, and continual development through professional involvement.
+Graduates will pursue lifelong learning, stay informed of current electrical and relevant engineering practices and contemporary issues, and actively involved in research.
+Programme Learning Outcomes (PLOs):
+•	Apply knowledge of mathematics, natural science, electrical engineering fundamentals and an engineering specialisation to the solution of complex engineering problems (WK1 to WK4).
+•	Identify, formulate, conduct research literature and analyse complex electrical engineering problems reaching substantiated conclusions creatively and innovatively (WK1 to WK4).
+•	Design solutions or processes for complex electrical engineering problems using integrated approaches (WK5).
+•	Create, select and apply appropriate techniques, resources, and modern tools, including prediction and modelling, to complex electrical engineering problems, with an understanding of the limitations (WK6).
+•	Apply reasoning informed by contextual knowledge to assess societal, health, safety and cultural issues and the consequent responsibilities relevant to professional engineering practice and solutions to complex engineering problems (WK7).
+•	Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice (WK7).
+•	Communicate effectively in writing and verbally on complex engineering activities with the engineering community and with society at large.
+•	Function effectively as an individual, and as a member or leader in diverse teams.
+•	Demonstrate knowledge and understanding of engineering management principles and economic decision making to manage projects in diverse environments.
+•	Conduct investigation of complex electrical engineering problems using research-based knowledge (WK8) and research methods including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.
+•	Recognise the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+•	Understand and evaluate the sustainability and impact of professional engineering work in the solutions of complex engineering problems in societal and environmental contexts. (WK7).
+Academic Staffs:
+1. Ts. Nuramalina binti Bohari
+Position: Head of Programme and Lecturer
+Extension: 504
+Email: nuramalina@uts.edu.my
+Qualifications: Master of Engineering in Electronics (UNIMAS), Bachelor of Electronics and Telecommunication Engineering (UNIMAS)
+
+2. Assoc. Prof. Ts. Dr. Ramli bin Rashidi KMN, PBS
+Position: Director CEPD and Associate Professor
+Extension: 537
+Email: ramli.rashidi@uts.edu.my
+Qualifications: PhD. in Technical & Vocational Edu. (Germany), PhD. in Technical & Vocational Edu. (UTHM), M. Sc in Human Resource Development (UPM), B. Eng. in Electrical & Electronic (Brighton, UK), Adv. Dip. Skill Malaysia
+
+3. Assoc. Prof. Ir. Dr. Prashobh Kumar Karunakaran
+Position: Associate Professor
+Extension: 406
+Email: prashobh@uts.edu.my
+Qualifications: PhD in Manufacturing Engineering (Automation) (UNIMAS), BSc. in Electrical Engineering at SDSU (SD, USA), MSc. Economic at SDSU (SD, USA).
+
+4. Ts. Dr. Samat bin Iderus
+Position: Deputy Dean and Senior Lecturer
+Extension: 508
+Email: samat.iderus@uts.edu.my
+Qualifications: PhD in Engineering (UTS), Master of Electrical Engineering (UTHM), Bachelor in Electrical Engineering (UTHM)
+
+5. Assoc. Prof. Ts. Dr. Thomas Moh Shan Yau
+Position: Associate Professor
+Extension: 424
+Email: t.s.y.moh@uts.edu.my
+Qualifications: PhD in Electrical & Electronic Eng.(
+TU Delft), M.Sc in Biophotonics (ENS Cachan), M.Eng in Mechatronics and Automation Control (UTM), B.Eng Electrical (UTM)
+
+6. Ir. Ts. Dr. Tonny Ling Heng Yew
+Position: Senior Lecturer
+Extension: 565
+Email: tonnyling@uts.edu.my
+Qualifications: PhD in Engineering (Electrical and Electronics) (OUM), MSc in Engineering (Intelligence Eng.) (Liverpool, UK), B. Eng (Hons) in Electrical and Electronics Eng. (Liverpool, UK), P.Eng (BEM), MIEM.
+
+7. Dr. Geno Peter
+Position: Senior Lecturer
+Extension: 566
+Email: drgeno.peter@uts.edu.my
+Qualifications: PhD Electrical Engineering, Anna University, India, Master of Engineering in Power Electronics and Drives, Karunya University, India, Bachelor of Engineering in Electrical & Electronics Engineering, Bharathiar University, India
+
+8. Ir. Wong Chee Swee
+Position: Senior Lecturer
+Extension: 528
+Email: wongcheeswee@uts.edu.my
+Qualifications: MSc Structural (Leeds), B. Eng in Civil Eng. (Leeds)
+9. Ts. Dr. Yong Ching Yee
+Position: Senior Lecturer
+Extension: 554
+Email: ching.yee@uts.edu.my
+Qualifications: PhD in Electrical Engineering (UTM), Bachelor in Electrical Engineering (UTM)
+
+10. Dr. Wong Ling Ai
+Position: Lecturer
+Extension: 415
+Email: ling.ai.wong@uts.edu.my
+Qualifications: PhD in Engineering (UNITEN), M.Sc in Electrical Engineering (UKM) , (B.Eng) in Electrical & Electronic Eng. (UKM)
+
+11. Dr. Tiong Meng Chung
+Position: Lecturer
+Extension: 581
+Email: tiongmc@uts.edu.my
+Qualifications: Doctor of Philosophy in Electrical Engineering (UMP), Master Science in Electrical Engineering (UMP), Bachelor Engineering (Hons) Electrical Engineering (Power System) (UMP)
+
+12. Dr. Nor Asrina binti Ramlee
+Position: Senior Lecturer
+Extension: 552
+Email: asrina@uts.edu.my
+Qualifications: PhD of Philosophy (Electrical Engineering) (UTM), M.Eng in Electrical Eng. (UTHM), B.Eng in Electrical Eng.(Telecommunication) (UTM)
+
+13. Dr. Muhammad 'Aasim Asyafi'ie bin Ahmad
+Position: Lecturer
+Email: aasim@uts.edu.my
+Qualifications: Doctor of Philosophy in Electrical Engineering (UTM), Master of Engineering in Electrical Engineering (UTM), Bachelor of Engineering in Electrical - Electronics (UTM)
+
+14. Kee Keh Kim
+Position: Deputy Director CEPD and Senior Lecturer
+Extension: 435
+Email: kkkee@uts.edu.my
+Qualifications: C. Eng (UK) , MSc in Electronics (Communication system), Diploma in Technology (Electronic Engineering) (TARC)
+
+15. Tiong Tung Chuan
+Position: Senior Lecturer
+Extension: 532
+Email: tiongtungchuan@uts.edu.my
+Qualifications: MSc.Electronics (Queens Uni. Belfast), Adv.Dip.in Technology (TARC), Dip. Technology, Electronic Engineering (TARC)
+
+16. Jong Chian Haur
+Position: Senior Lecturer
+Extension: 502
+Email: chian.haur@uts.edu.my
+Qualifications: M.Sc in Electronics Engineering (UNIMAS), B.Sc in Electronics & Computer Eng (UNIMAS)
+
+Technician Staffs:
+1. Mohamad Drahim bin Bujang
+Position: Senior Technologist
+Extension: 357
+Email: rahim@uts.edu.my
+Qualifications: Diploma In Electronic Engineering, Politeknik Mukah Sarawak
+
+2. Matteus Sabang anak Kisong
+Position: Technologist
+Extension: 358
+Email: matteus@uts.edu.my
+Qualification: Sijil Kejuruteraan Elektrik (Domestik & Industri), IKM Kuching
+
+3. Hasfiza binti Mohd Ikhwan
+Position: Technologist
+Extension: 396
+Email: hasfiza@uts.edu.my
+Qualification: Diploma in Electrical Engineering, Politeknik Kota Kinabalu
+
+4. Bachelor of Food Technology (Hons)
+For more detail information, please refer to https://set.uts.edu.my/bachelor-of-food-technology-hons/
+Programme Aims: 
+To produce Food Scientist and Technologist capable of fulfilling their professional demands in highly competitive global market with confidence, outstanding ethical and moral values.
+Programme Educational Objectives (PEOS):
+The objectives of the programme are stated as follows:
+•	Graduates will be employed or self-employed in food industries and relevant field with good level of knowledge and competency skills with appropriate attitude enabling them to have successful career.
+
+•	Graduates will acquire abilities for effective communication, collaborative working in diverse teams, and continual development through professional involvement.
+•	Graduates will pursue lifelong learning in order to contribute to the advancement of the Food science and technology professions and related contemporary issues.
+Programme Learning Outcomes (PLOS):
+•	Upon completion of this programme, students should be able:
+•	Apply the knowledge of technology fundamental to the procedures, processes, systems and methodologies in the field of food science and technology.
+•	Propose and employ current tools and techniques to resolve food science and technology problems.
+•	Demonstrate deep investigative and significant thinking abilities to solve food science and technology problems.
+•	Communicate effectively and flexibly in oral and written language for social, academic and professional purposes.
+•	Illustrate the understanding of corresponding issues related to the society and the subsequent responsibilities to the food science and technology practices.
+•	Acknowledge the requirement of professional establishment and to employ independent continuing learning in the field of food science and technology.
+•	Illustrate consciousness of management and technopreneurship routine in real perspective.
+•	Illustrate ethical awareness and professionalism.
+•	Illustrate leadership character, mentoring and work efficiently in diverse teams.
+
+Academic Staffs:
+1. Mohd Syafiq bin Abdullah
+Position: Head of Programme & Senior Lecturer
+Extension: 414
+Email: mohdsyafiq@uts.edu.my
+Qualifications: Bac in Food Science & Technology, UiTM, Master in Food Science, University Malaysia Terengganu
+
+2. Assoc. Prof. Dr. Mohd Zahid bin Abidin
+Position: Director CRD & Associate Professor
+Extension: 361
+Email: zahidabidin@uts.edu.my
+Qualifications: PhD Food Technology (UiTM), MSc Foodnology (USM), BSC Food Technology (USM)
+
+3. Assoc. Prof. Ts. Dr. Hii Siew Ling
+Position: Associate Professor
+Extension: 430
+Email: hiisl@uts.edu.my
+Qualifications: PhD BioProcess Engineering / Fermentation Technology (UPM), MSc Environmental Engineering (UPM), BSc Biotechnology (UPM)
+
+4. Ching Lee Fung
+Position: Senior Lecturer
+Extension: 568
+Email: chinglf@uts.edu.my
+Qualifications: MSc Resource Chemistry (UNIMAS), BSc Analytical Chemistry (UNIMAS)
+
+5. Suzy Rini anak Gindi
+Position: Senior Lecturer
+Extension: 506
+Email: suzy@uts.edu.my
+Qualifications: MSc Aquaculture (National Taiwan Ocean Univ), BSc Food Technology & Bioprocess (UMS)
+
+6. Ts. Nurhayatie binti Sajali
+Position: Senior Lecturer
+Extension: 553
+Email: nurhayatie@uts.edu.my
+Qualifications: Master of Science (Medical Microbiology) of Universiti Putra Malaysia, Bachelor of Science (Biomedical Sciences) of Universiti Putra Malaysia
+
+7. Ts. Dr. Abdul Fattah B. Ab Razak
+Position: Senior Lecturer
+Extension: 480
+Email: abdul.fattah@uts.edu.my
+Qualifications: Master of Process Safety & Loss Prevention, UPM, Bachelor in Chemical Engineering (Hons) Food Technology, UniKL
+
+8. Ts. Mastura binti Sani
+Position: Senior Lecturer
+Extension: 550
+Email: mastura@uts.edu.my
+Qualifications: Master of Science in Biotechnology (UNIMAS), Bachelor Degree (Honors) Resource Biotechnology (UNIMAS)
+
+9. Ts. Koh Chen Chung
+Position: Senior Lecturer
+Extension: 436
+Email: koh.chenchung@uts.edu.my
+Qualifications: Graduate Technologist (Malaysia Board of Technologists), M.Sc. (USM) Food Technology, B.Tech. (USM) Food Technology
+
+10. Ashraf bin A. Razak
+Position: Senior Lecturer
+Extension: 418
+Email: ashraf@uts.edu.my
+Qualifications: MSc Advanced Chemical Engineering (Birmingham), B. Eng. in Chemical Engineering (Australia)
+
+11. Nasihah binti Mokhtar
+Position: Senior Lecturer
+Extension: 473
+Email: nasihah@uts.edu.my
+Qualifications: BSc. of Plant Resources Sc. and Management, UNIMAS, MSc. of Natural Resources, UMK
+
+12. Ts. Farah Syahirah binti Abdul Shukri
+Position: Lecturer
+Extension: 422
+Email: farah.syahirah@uts.edu.my
+Qualifications: Master of Science (Food Technology) , Universiti Putra Malaysia (UPM), Bachelor of Science, UPM
+
+13. Mohammad Hafsanjani bin Salleh
+Position: Lecturer
+Extension: 567
+Email: mohd.hafsanjani@uts.edu.my
+Qualifications: Master of Engineering (UCTS), Bachelor of Science with Honours (Biochemistry), Universiti Kebangsaan Malaysia (UKM)
+
+14. Nur ' Ain Farhah binti Suhardi
+Position: Lecturer
+Extension: 587
+Email: nurainfarhah@uts.edu.my
+Qualifications: Master of Food Technology (UPM), BSc (Hons) in Resource Chemistry (UNIMAS)
+
+15. Ts. Siti Nadhira binti Mohamad Basri
+Position: Lecturer
+Extension: 514
+Email: siti.nadhira@uts.edu.my
+Qualifications: Master of Food Safety & Quality Assurance (UPM), Bachelor of Food Technology (Hons.) (UniSZA).
+
+16. Hwong Chia Shing
+Position: Lecturer
+Email: cshwong14@uts.edu.my
+Qualifications: Master of Clinical Nutrition and Health, Glasgow Caledonian University (GCU), Bachelor of Nutrition Science with Honours, Universiti Kebangsaan Malaysia (UKM)
+
+Technician Staffs:
+1. Tc. Micholas anak Lembang
+Position: Lab Technologist
+Extension: 571
+Email: micholas@uts.edu.my
+Qualifications: Diploma In Medical Lab Technology, Ptpl Kuching
+
+2. Afizah binti Razali
+Position: Assistant Lab Technologist
+Extension: 574
+Email: afizah@uts.edu.my
+Qualifications: SKM Tahap 1, 2, 3 Lanjutan Teknologi Makanan, IKBN Miri
+
+5. Bachelor of Science in Occupational Safety and Health (Honours)
+For more detail information, please refer to https://set.uts.edu.my/bachelor-of-science-in-occupational-safety-and-health-honours/
+Programme Aim:
+To produce the occupational safety, health and environment graduates capable of fulfilling their professional demands in highly competitive global market with confidence, outstanding ethical and moral values.
+Programme Educational Objective (PEO):
+•	Analyse and relate broad knowledge of OSH concepts and principles, incorporating technical skills in OSH practices.
+•	Commit to take responsibility and deliver assigned tasks when leading, interacting, and communicating with peers and stakeholders while ensuring continual professional and      ethical practices oriented towards SDG.
+•	Demonstrate the technical competency in innovative and creative digital technology and numerical techniques in OSH.
+•	Commit to lifelong learning and exhibit entrepreneurial skills for professional and academic contributing to contemporary issues in all industries.
+Programme Learning Outcomes (PLO):
+•	Relate and explain knowledge of OSH at workplace.
+•	Identify, formulate, conduct research, and analyse issues to provide solutions on OSH.
+•	Interpret, analyse, synthesis, and apply evidence-based scientific principles in discussing ideas of preventive and corrective measures in OSH.
+•	Educate and train employees, employers and other interested parties on OSH.
+•	Apply and comply legal, ethical principles and commit to organizational and professional code of conduct in OSH workplace environment.
+•	Demonstrate responsibility, leadership, communication, and interaction skills in carrying out OSH task.
+•	Demonstrate commitment in complying with organizational and professional ethics in OSHE work environment.
+•	Develop responsibility when collaborating with other OSH related professionals.
+•	Utilise digital applications and information management system to enhance the OSH practices as well as to seek and process data related to work.
+•	Demonstrate skills to use and interpret routine and complex numerical, graphical, or visual OSH data.
+•	Promote self-improvement initiatives and possibilities for further education related to OSH.
+•	Explore and engage in lifelong learning and entrepreneurship activities related to OSH.
+Academic Staffs:
+1. Dr. Zalikha binti Raman
+Position: Head of Programme and Senior Lecturer
+Extension: 516
+Email: zalikha@uts.edu.my
+Qualifications: Master of Science Safety, Health and Environment (UTM), Degree in Medicine (Medical) (IM Sechenov First Moscow State Medical University, Russia)
+
+2. Ts. Abdul Ismail Abdul Rani
+Position: Lecturer
+Extension: 572
+Email: abdulismail@uts.edu.my
+Qualifications: M.Eng in Electrical & Electronic Engineering (UMS), B.Sc in Physics with Electronics (UMS)
+
+3. Dayang Noor Azie binti Abang Zainal Abidin
+Position: Lecturer
+Extension: 592
+Email: dygnazie@uts.edu.my
+Qualifications: Master of Process Safety and Loss Prevention (UPM), B.Sc in Chemical Engineering and Energy Sustainability (UNIMAS)
+
+4. Mohd Azimie bin Ahmad
+Position: Lecturer
+Extension: TBC
+Email: azimie@uts.edu.my
+Qualifications: Master of Engineering (Bioprocess Engineering) (UMP), Bachelor Degree of Chemical Engineering Technology with Hons. (Biotechnology) (UMP), Competency in Major Hazard (HQ/19/MH/00/00013), OSH Coordinator (PK/21/OSHC/02/00522), Safety and Health officer Trained Person (Passed All Paper 1, 2, 3 & 4).
+
+3. School of Business and Management (SBM)
+For more detail information, please refer to https://sbm.uts.edu.my/
+A degree in business administration can help you develop leadership skills. Not only do you learn the fundamentals of business including finance, operations, human resources, marketing, and management, but you learn how to lead and motivate people, communicate effectively, and think critically.
+Why Choose Us?
+•	A Good Introduction to the Realities of Business.
+•	Become a More Effective Leader, Team Player, and Interpersonal Communicator.
+•	Learn How to Effectively Manage People.
+•	Gain a Competitive Edge.
+•	A Variety of Excellent Career Opportunities.
+Programmes Offered:
+1. Bachelor Of Business Administration (Hons) [N/345/6/0358] [6/18] [MQA/FA3077]
+For more detail information, please refer to https://sbm.uts.edu.my/programme/undergraduate/bachelor-of-business-administration-hons/
+Programme Overview: 
+School of Business and Management (SBM) offers a Bachelor of Business Administration (BBA) programme to cater to the needs of the business community locally as well as globally. The programme prepares students to enter the world of business by providing them with the knowledge and understanding of concepts, theories and approaches of business administration and management, developing leadership and teamwork skills, understanding of the contemporary business environment as well as analytical skills for decision making purpose. Students are required to complete 120 credits in three years. This programme has been approved by the Ministry of Education (Ref: N/345/6/0358) and obtained full accreditation from the Malaysian Qualification Agency (MQA) (Ref: MQA FA 3077).
+Program Educational Objectives (PEOs):
+•	To produce graduates who are successfully engaged in multidisciplinary practices in the business field.
+•	To produce graduates who are able to demonstrate leadership capabilities in the work environment.
+•	To produce graduates who are able to demonstrate effective communication in the business environment.
+Programme Learning Outcomes (PLOs):
+Upon successful completion of the programme, graduates would be able:
+•	To evaluate theories and concepts in business studies (MQF-knowledge, problem-solving and scientific skills);
+•	To communicate creative and innovative ideas effectively ((MQF- social skills and responsibilities; Communication, leadership and team skills);
+•	To apply critical thinking skills for decision-making (MQF-knowledge, problem-solving and scientific skills, information management and lifelong learning skills);
+•	To display innovative entrepreneurial skills (MQF- knowledge, practical skills, managerial and entrepreneurial skills);
+•	To demonstrate leadership, teamwork, communication and social skills in accordance with ethical and legal practices (MQF- social skills and responsibilities; value, attitude and professionalism; Communication, leadership and team skills); and
+•	To apply the skills and principles of lifelong learning in their academic and career development (MQF- practical skills, information management and lifelong learning skills).
+Note: Students entering this programme with a relevant Diploma may apply for credit transfers up to 30% of the programme credits.
+2. Bachelor Of Accountancy (Honours) [N/344/6/0326] [9/19] [MQA/FA4790]
+Please refer https://sbm.uts.edu.my/bachelor-of-accountancy-honours/ for programme structure and synopsis.
+Programme Overview:
+The Bachelor of Accountancy is a three-year professional degree which is designed to align with accounting programme standards set by the Malaysian Qualifications Agency (MQA) and accounting professional bodies such as Malaysian Institute of Accountants (MIA).  The programme prepares students to enter the world of work by providing them with the knowledge and understanding of concepts, theories and approaches of accounting and management, developing leadership and teamwork skills, understanding of the contemporary business environment as well as analytical skills for decision making purpose. It is a mixture of industry-driven theoretical content with industrial practical aspect with the aim to develop a holistic understanding of business operations, the functional areas of accounting, taxation, auditing and business environment.  It integrates disciplines of finance, management, economy and entrepreneurial skills. Students are required to complete 126 credits.  This programme has been approved by the Ministry of Higher Education (Ref: N/344/6/0326), accredited and recognised by the Malaysian Qualifications Agency (MQA), Chartered Tax Institute of Malaysia (CTIM), Association of Chartered Certified Accountants (ACCA) and CPA Australia.
+Programme Learning Outcomes (PLoS):
+Upon completion of the programme, graduates would be able:
+•	To describe, differentiate and integrate the knowledge of accounting concepts and principles.
+•	To prepare, apply, interpret and evaluate financial and non-financial information in accordance with approved accounting standards to assist them in making business and organizational decisions both in private or public sector organizations.
+•	To demonstrate particular skills in entrepreneurship and management.
+•	To communicate effectively both orally and in writing with different stakeholders.
+•	To demonstrate and secure work management and collaboration with leadership qualities and team skills.
+•	To think critically and innovatively in the application of knowledge and suggest possible solutions to accounting issues.
+•	To commit to lifelong learning and professional development.
+•	To display and uphold high professional values and ethics and be socially responsible.
+3. Bachelor of Business (Honours) in Marketing [N/342/6/0199] [5/22] [MQA/PA 8731]
+For programme structure and synopsis, please refer to https://sbm.uts.edu.my/programme/undergraduate/bachelor-of-business-honours-in-marketing/. 
+Programme Overview: 
+School of Business and Management (SBM) offers a Bachelor of Business (Honours) in Marketing (BBM) programme to cater to the needs of the business and marketing community locally as well as globally. The programme aims to provide students with in-depth knowledge, communication & critical thinking skills, and creativity & innovation in marketing. This includes a contextual understanding of the dynamism and vibrancy in the business environment, entrepreneurship and professionalism in order to perform effectively and ethically within their specified areas of marketing, hence influencing personal achievement, lifelong learning and contributing to industry development. Students are required to complete 120 credits in a full-time or part-time mode of study. This program has been approved by the Ministry of Higher Education [Ref: N/342/6/0199] and given provisional accreditation from the Malaysian Qualification Agency [Ref: MQA/PA 8731].
+Programme Learning Outcomes (PLOs):
+Upon successful completion of the programme, graduates will be able:
+1. To evaluate theories and concepts in business studies
+2. To communicate creative and innovative ideas effectively
+3. To apply critical thinking skills for decision making
+4. To display innovative entrepreneurial skills
+5. To demonstrate leadership, teamwork, communication and social skills in accordance with ethical and legal practices
+6. To apply the skills and principles of lifelong learning in their academic and career development
+4. Bachelor of Technology Management (Honours) [N/345/6/1085] [09/23] [MQA/FA10874]
+For programme structure and synopsis, please refer to https://sbm.uts.edu.my/programme/undergraduate/bachelor-of-technology-management-honours/
+Programme Overview:
+School of Business and Management (SBM) offers Bachelor of Technology Management (Honours) a unique programme that is based on an interdisciplinary in nature and focuses on technology management within the business, engineering and IT contexts. The degree programme is designed to meet the increasing demand for skilled and semi-skilled workers by the government of Malaysia. This programme introduces students to the relevant business issues that technology can help to solve and provide the students with the knowledge and skills necessary to become technologists, leaders and managers in organizations within a changing business and technical environment. This degree programme is designed to provide students with an understanding of basic information technology management concepts and practical technology skills. Students are required to complete 121 credits in full time or part-time mode of study.  This program has been approved by the Ministry of Higher Education [Ref: N/345/6/1085] and given provisional accreditation from the Malaysian Qualification Agency [Ref: MQA/PA 10874].
+Programme Learning Outcomes (PLOs):
+•	Upon successful completion of the programme, graduates will be able:
+•	To evaluate theories and concepts in business studies
+•	To communicate creative and innovative ideas effectively
+•	To apply critical thinking skills for decision making
+•	To display innovative entrepreneurial skills
+•	To demonstrate leadership, teamwork, communication and social skills in accordance with ethical and legal practices
+•	To apply the skills and principles of lifelong learning in their academic and career development
+5. Master of Business Administration [N/340/7/0588] [08/20] [MQA/FA6146] (MBA)  
+Intakes – February & September
+Please visit https://sbm.uts.edu.my/programme-structure-master-of-business-administration-mba/ to view the Programme Structure.	
+Programme Overview:
+The Master of Business Administration (MBA) programme is to provide learners with the knowledge and skills demanded to successfully manage organizations in a dynamic environment by offering an integrated curriculum that balances theoretical concepts with practical applications. Explicitly, the MBA programme preparing and enhancing learners with the skills and competency in the functional area as business management, accounting and finance, marketing, strategic decision making and other matters pertaining to business and societal issues.  In addition, courses like Financial Management, Managerial Economics, Strategic Management, Organizational Management and Marketing Management would help developing leadership and critical analysis skills and would enable the learners for better decision making in various societal, managerial field, business and cultural contexts. 
+6. Master of Project Management [N/345/7/1060] [6/22] [MQA/PA8730]
+Intakes – February & September
+For programme structure and synopsis structure, please refer to https://sbm.uts.edu.my/programme/postgraduate/master-of-project-management/
+Programme Overview: 
+The Master of Project Management is designed to prepare graduates to be managers who are able to enhance their knowledge through the multidisciplinary field and equipped with project management skills that are essential for the implementation of projects. The programme offers various and diverse courses that will enhance students’ critical enquiries, problem-solving capabilities, decision making and analytical skills. Courses like Financial Management, Managerial Economics, Strategic Management, and Marketing Management would help in developing leadership and critical analysis skills and would enable the students for better decision making in the various societal and managerial field, business and cultural contexts.
+Programme Aims:
+To prepare graduates to be managers who are able to enhance their knowledge through a multidisciplinary field and equipped with project management skills that are essential for the implementation of projects. This includes utilising knowledge and skills effectively in collaborating and/or innovating in efforts to address social, technical and business challenges and engage in lifelong learning and professional development.
+Program Learning Outcomes (PLOs):
+Upon successful completion of the programme, graduates will be able:
+1. To demonstrate mastery of knowledge in the relevant field
+2. To apply practical skills in the relevant field
+3. To relate ideas to societal issues in the relevant field
+4. To conduct research with minimal supervision and adhere to legal, ethical and professional codes of practice
+5. To demonstrate leadership qualities through communicating and working effectively with peers and stakeholders
+6. To generate solutions to problems using scientific and critical thinking skills
+7. To manage information for lifelong learning
+
+7. Master of Science in Business Management [N/345/7/0842] [08/20] [MQA/PA7420]
+Intakes: March, June, September & December
+For programme structure, please refer the link https://sbm.uts.edu.my/programme-structure-master-of-science-in-business-management-programme-structure/.
+Programme Aims: 
+The programme aims to provide students with focused and in-depth research knowledge within their specific areas of Business Management Studies.  It also aims to inculcate in them a systematic and ethical approach in conducting research in specialized areas, thereby contributing to knowledge and practice.
+Programme Objectives:
+1. To equip graduates with enhanced knowledge, by research work, within the area of business management;
+2. To enhance communications skills through presentation and publications; and
+3. To perform research independently and collaboratively in a professional and ethical manner.
+Details of Programme:
+1. Master Thesis (Core Major)
+2. Research Methodology (Compulsory)
+3. Seminars (Compulsory)
+4. Business-related modules
+
+8. Doctor of Philosophy (PhD) in Business Management  
+Intakes: March, June, September & December
+For programme structure and synopsis structure, please refer to https://sbm.uts.edu.my/programme-structure-doctor-of-philosophy-phd-in-business-management/
+Programme Aims:
+The programme aims to provide students with in-depth and advanced knowledge within their specific areas of Business Management Studies. It also aims to inculcate in them a systematic, rigorous and ethical approach in conducting research in specialized areas, thereby contributing new insights to the body of knowledge and managerial practices.
+Programme Objectives:
+1. To equip graduates with in-depth and advanced knowledge, by research work, within the area of business management
+2. To enhance communications skills through presentation and publications
+3. To perform research independently and collaboratively in a systematic, rigorous and ethical manner
+Details of Programme:
+1. Doctoral Thesis (Core Major)
+2. Research Methodology (Compulsory)
+3. Seminars (Compulsory)
+4. Business-related modules
+Academic Staffs:
+i) DR. WINNIE WONG POH MING 
+Position: DEAN & ASSOCIATE PROFESSOR
+Extension: 400
+Email: winniewong@uts.edu.my
+Qualifications: Ph.D (Marketing) of University Malaysia Sarawal, Master of Business and Administration of Ursity Malaysia Sabah, Bachelor of Education with Economics (Flaneurs) o University Malaysia Sabah.
+ii) DR RAHMAT AIDIL BIN DJUBAIR
+Position: DEPUTY DEAN
+Extension: 409
+Email: slydil@uts.edu.my
+Qualifications: PhD in Businesses Management (Digital Marketing, E-commerce and Data Management), Master of Business Administration of Chonnam National University, Bachelor of Arts and Social Science (South East Asian Studies) of University Malaya.
+1. Programme: Bachelor of Accountancy (Honours) (BBA)
+a) Lim Wee Cheng
+Position: Head of Programme for BBA & Lecturer
+Extension: 404 
+Email: lim.wee.cheng@uts.edu.my
+Qualifications: Bachelor of Commerce, Majoring in Accounting and Finance of University of Western Australia, Certified Practicing Accounting (CPA), CPA Australia Chartered Accountant
+b) DR SIM SIEW LING 
+Position: DIRECTOR CQA
+Extension: 360
+Email: simsiewling@uts.edu.my
+Qualifications: Doctor of Philosophy in Business Management of University Technology Sarawak, Master of Business Administration (Venture Capital Management) of Universiti Teknologi Malaysia, Bachelor of Business Administration (Finance) of Universiti Putra Malaysia.
+c) WONG KEE HOOK, JOSEPH
+Position: SENIOR LECTURER
+Extension: 411
+Email:w.keehook@uts.edu.my
+Qualifications: Bachelor of Business, Majoring in Accounting and Finance of Edith Cowan Univesity (Australia), Certified Practicing Accountant (CPA), Australia.
+d) DR. RABUAN BIN MANTINE
+
+Position: ASSOCIATE PROFESSIOR BUSARY OFFICE
+Extension: 321
+Email: rabuanm@uts.edu.my
+Qualifications: Ph.D in Finance of University Malaysia Sarawak, Master in Business Administration of OHIO, Advanced Diploma in Accountancy of UiTM, Chartered Accountant (M)
+e) NANCY LING ING
+Position: SENIOR LECTURER
+Extension: 468
+Email: nancy@uts.edu.my
+Qualifications: Master of Science in Finance & Business of Manchester Metropolitan, ACCA Professional level, ACCA Fundamentals Level, Certified Accounting Technician Advanced Level, Chartered Accountant.
+f) DR. ANDREW SIJR 
+Position: LECTURER
+Extension: 431
+Email: andrewsija@uts.edu.my
+Qualifications: Doctor of Business Administration of Asia e University. Master of Business Administration of University Malaysia Sarawak. Bachelor in Accounting of UiTM. Diploma in Accounting of UiTM. Malaysian Skills Diploma in Financial Accounting. Certified Instructor in Accounting for Hospitality Managers (AHLEI, USA). Certified Trainer in Business Accounting (PSMB)
+g) NORFAZELLE BINTI MOHO FARIZ
+Position: LECTURER
+Email: norfazella@uts.edu.my
+Qualifications: Master of Accountancy of UiTM, Bachelor of Accounting (Hons) of UniKL Business School, Diploma in Technology Management (Accounting) of University Technology Malaysia, School of Professional and Continuing Education.
+h) CINDY LING LIING SING
+Position: LECTURER
+Extension: 405
+Email: cindyling@uts.edu,my
+Qualifications: Fellow Member of the Association of Chartered Certified Accountants (FCCA), Member of Malaysian Institute of Accountants (MIA), B.Sc in Applied Accounting of Oxford Brookes University, Diploma in Accounting
+i) KIEW JIET PING
+Position: LECTURER
+Extension: 475
+Email: kiew.jiet.ping@uts.edu.my
+Qualifications: Master of Science in Finance of University of Stracthlyde, Glasgow, UK. Fellow Member at Association of Chartered Certified Accountants (FCCA), Fellow Member of Association of Chartered Certified Accountants (ACCA) Certified Accounting Technician
+j) WONG MEI ING 
+Position: LECTURER
+Extension: 470
+Email:wongmeiing@uts.edu.my
+Qualifications: Master of Science in Professional Accountancy, University of London ACCA member, Association of Chartered Certified Accountant Bachelor of Business (Accountancy), Queensland University of Technology
+k) MUHAMMAD HAFIZ BIN MUHAMMAD HISHAM
+Position: LECTURER
+Extension: 586
+Email: mhafiz@uts.edu.my
+Qualifications: Master of Accounting of UKM, Bachelor of Accounting (Hons) of UiTM, Diploma in Accountancy of UiTM
+l) NUR FADZILAH BINTI YONG 
+Position: LECTURER 
+Extension: 594
+Email: nurfadzilah@uts.edu.my
+Qualifications: Diploma in Accountancy, UiTM Kota Samarahan, Bachelor of Accountancy, UiTM Kota Samarahan, Master in Forensic Accounting & Financial Criminology, UiTM Shah Alam
+2. Programme: Bachelor of Business Administration (Honours) (BBA)
+a) MDM. WONG HUI SHEIN
+Position: HEAD OF PROGRAMME BUSINESS ADMINISTRATION (HONS) & SENIOR LECTURER
+Extension: 408
+Email: wong.hui.shein@uts.edu.my
+Qualifications: Master in Science by Research of University Putra Malaysia, Applied and Computational Statistics of Institute for Mathematical Research, Bachelor of Science (Honours) Major in Statistics.
+b) DR. MOHD ZAINAL MUNSHID BIN HARUN
+Postioin: ASSOCIATE PROFESSOR
+Extension: 511
+Email: zainal@uts.edu.my
+Qualifications: Doctor of Business Admin (DBA) of University Utara Malaysia Master of Business Admin of Univesity Utara Malaysia, BA (Hons) Business Admin and Commerce of De Montfort University, Higher National Diploma (Business and Finance) of De Montfort University.
+c) LAU HUI LIN
+Position: SENIOR LECTURER
+Extension: 407
+Email: lauhuilin@uts.edu.my
+Qualifications: Master Degree in Business Administration of University Putra Malaysia, Dioloma in Business and Management of Tunku Abdul Rahman University College, Chartered Secretary, Chaetered Governance Professional, Associate Member of Malaysia Institute of Chartered Secretaries and Administrators (ACIS)
+d) EVELYN TOH TING LING
+Position: LECTURER
+Extension: 462
+Email: evelyntoh@uts.edu.my
+Qualifications:
+Master of Business Administration of University College Technology Sarawak, Bachelor of Internationa Financial Economics with Honours of Univeristy Malaysia Sabah.
+e) MDM. TAN CHIANG CHING
+Position: PROGRAMME COORDINATOR OF MASTER IN BUSINESS ADMINISTRTATION & SENIOR LECTURER
+Extension: 401
+Email: tan.chiang.ching@uts.edu.my
+Qualifications: Master of Science in Economics of University Malaysia Sarawak.
+f) MOHD KAMARUL ANWAR BIN MOHD SUHAIMI 
+Position: LECTURER
+Extension: 535
+Email: kamarul.anwar@uts.edu.my
+Qualifications: Master of Laws (LL.M) of Universiti Kebangsaan Malaysia, Bachelor of Laws (LL.B) of UiTM, Bachelor of Legal Studies (Hons) of UiTM, Foundation of Law, UiTM, Advocate & Solicitor of High Court of Malaya.
+g) ABDUL HAYY HAZIQ BIN MOHAMAD
+Position: Lecturer
+Email: abdul.hayy.haziq@uts.edu.my
+Qualifications: Master in Islamic Economics by Coursework (Major in Finance), University Kebangsaan Malaysia, Degree in Economics (Natural Resources) of University Malaysia Terengganu
+h) DR. LING PICK SOON
+Position: LECTURER
+Extension: 426
+Email: ling.pick.soon@uts.edu.my
+Qualifications: PhD by Research of University Kebangsaan Malaysia, Master of Economics of University Kebangsaan Malaysia, Bachelor of Business Administration with Honours (Major in Finance) of University Kebangsaan Malaysia, Diploma in Business Studies Management of Kuching Polytechnic Sarawak.
+i) EMY AZIZAH BINTI MAJIO 
+Position: LECTURER
+Email: emyazizah@uts.edu.my
+Qualificatiotis: Coorporate Master of Business Administration (CMBA) of Ucversity Malaysia Sarawak, Bachelor of Science in Mathematics with Economics (Hons) of University Malaysia Sabah
+j) NURUL SARAH BINTI MOHAMED OSSMAN
+Position: LECTURER
+Extension: 478
+Email: nurul.sarah@uts.edu. my
+Qualifications: Master of Business Admin in International Business of Oniversity Putra Malaysia, Bachelor of Business Administration in International Business of University Malaysia Sabah, Diploma in Accountancy of UiTM.
+k) NGIAN EK TEE
+Position: LECTURER
+Extension: 429
+Email: ngianektee@uts.edu.my
+Qualifications: Master of Science in Business Management of University College of Technology Sarawak, Bachelor of Business Administration (Hons) of University College of Technology Sarawak
+l) DR. SIM CHONG YANG 
+Position: PROGRAMME COORDINATOR OF MASTER IN BUSINESS ADMINISTRTATION & LECTURER
+Extension: 585
+Email: simcy@uts.edu.my
+Qualifications: Doctor of Philosophy in Economics (Financial Economics) of University Malaysia Sarawak, Bachelor of Economics with Honours (International Economics) of University Malaysia Sarawak
+m) CHARLES TING JING SHING
+Position: LECTURER 
+Extension: 579
+Email: charlesting@uts.edu.my
+Qualifications: Master of Laws of Northumbria University UK, Bachelor of Laws (Honours) of the University of London
+
+3. Programme: Bachelor of Business (Hons) in Marketing (BBM)
+a) DR. CHIN CHEE HUA 
+Position: HEAD OF PROGRAMME FOR BACHELOR OF BUSINESS IN MARKERNE & LECTURER
+Extension: 410
+Email: chincheehua@uts.edu.my
+Qualifications: Ph.D (Business Tourism) Universiti Malaysia Sarawak, Master by Research (eTourism) of University Malaysia Sarawak, Bachelor of Business Administration in Marketing of University Malaysia Sarawak.
+b) DR. WINNIE WONG POH MING 
+Position: DEAN & ASSOCIATE PROFESSOR
+Extension: 400
+Email: winniewong@uts.edu.my
+Qualifications: Ph.D (Marketing) of University Malaysia Sarawal, Master of Business and Administration of Ursity Malaysia Sabah, Bachelor of Education with Economics (Flaneurs) o University Malaysia Sabah.
+c) DR RAHMAT AIDIL BIN DJUBAIR
+Position: DEPUTY DEAN
+Extension: 409
+Email: slydil@uts.edu.my
+Qualifications: PhD in Businesses Management (Digital Marketing, E-commerce and Data Management), Master of Business Administration of Chonnam National University, Bachelor of Arts and Social Science (South East Asian Studies) of University Malaya.
+d) ABDUL RAHMAN EDRUCE BIN KUSHAIRI
+Position: SENIOR LECTURER
+Extension: 402
+Email: abdulrahman@uts.edu.my
+Qualifications: Master of Science in Consumer Science of University Putra Malaysia, Bachelor of Consumer Studies of University Putra Malaysia, Diploma in Business Management
+e) CLEMENT LANGET SABANG 
+Position: SENIOR LECTUR
+Extension: 573
+Email: clementls@uts.edu.my
+Qualifications: Master of Science (Human Resource Development) of University Malaysia Sarawak, Bachelor of Business Administration (Hons) in Marketing of UiTM, Advanced Diploma in Management of University of Western Australia, Certificate IV in Assessment & Workplace, Australia.
+f) DAYANG ZUHAIZA BINTI ABANG ABD WAHAP
+Position: LECTURER
+Extension: 563
+Emai: dayang.zuhaiza@uts.edu.my
+Qualifications: Corporate Master Business Administration (CMBA) of University Malaysia Sarawak, Bachelor of Science in Human Resource Development with Honours of University Malaysia Sarawak.
+g) DR. SHAISTA FALAK
+Position: LECTURER
+Extension: 534
+Email: shaista@uts.edu.my
+Qualifications: Ph.D of Universiti Malaysia Sarawak, Master of Business Administration (Finance) of Kohat University of Science and Technology Pakistan, Bachelor in Computer Sciences of Dera Ismail Khan University Pakistan.
+h) SITI MARHAMAH BINTI MOHAMED @ WASLI
+Position: LECTURER
+Extension: 594
+Email: sitimarhamah@ufs.edu.my 
+Qualifications: Corporate Master of Business Administration (GMBA) of University Malaysia Sarawak, Bachelor Degree of Business Administration with Honours Marketing of University Malaysia Sarawak.
+i) ASHMAN SHAHRUDIN BIN KHAIRUDDIN
+Position: LECTURER
+Email: ashman.shahrudin@uts.edu.my
+Qualifications: Master of Science in International Management of University of Essex, Bachelor of Science in International Business and Entrepreneurship of University of Essex.
+
+4. Programme: Bachelor of Technology Management (Honours) (BTM)
+a) SUMAN TIWARI D/O SURESH TIWARI 
+Position: HEAD OF PROGRAMME FOR BACHELOR OF TECHNOLOGY MANAGEMENT (HONOURS) & LECTURER
+Extension: 403
+Email: mantiwari@uts.edu.my
+Qualifications: Master of Science in Technology Management of University Tun Hussein Onn Malaysia, Bachelor of Technology management (Production and Operation) with Honours of University Tun Hussein Onn Malaysia.
+b) DR. JAMES WONG LIM JIN
+Position: PROGRAMME COORDINATOR OF MASTER IN MASTER OF PROJECT MANAGEMENT & LECTURER
+Extension: 463
+Email: wonglimjin@uts.edu.my
+Qualifications: Ph.D in Business Administration of Open University Malaysia. Master of Business Administration, Swinburne University of Technology Bachelor in Electrical Engineering (Instrumentation and Control of Univeristy Technology Malaysia.
+c) DR. ROLYSELRA ORBINTANG ANAK ROBIN 
+Position: LECTURER 
+Extension: 395
+Email: rolyselra@uts.adu.my
+Qualifications: Doctor of Philosophy in Technology Management, Universiti Tun Hussein Onn Malaysia (UTHM), Master of Science in Construction Technology Management, Universiti Tun Hussein Onn Malaysia (UTHM), Bachelor of Technology Management (Construction) with Honours, Universiti Tun Hussein Onn Malaysia (UTHM)
+d) LAU LING KUNG
+Position: LECTURER 
+Extension: 630
+Email: laulk@uts.edu.my
+Qualifications: Master of Project Management of Open University Malaysia, Bachelor of Science in Building of University of Newcastle, Higher National Diploma in Quantity Surveying of Nottingham Trent University
+e) BENEDICT LINANG 
+Position: LECTURER
+Email: benedict@uts.edu.my
+Qualifications: Master of Technology and Innovation Management, University Technology Malaysia (UTM), Bachelor of Management (Hons), UNITAR.
+
+Office Contact details:
+Phones: +6 084 367 300
+ext: 345 (Undergratuade)
+ext: 575 (Postgraduate)
+
+4. School of Build Environment (SBE)
+For more information, please refer to https://sbe.uts.edu.my/
+Programme Offered: 
+1. Bachelor of Science in Architecture (Hons) [N/581/6/0051] [5/19] [MQA/FA4450]
+For more detail information, please refer to https://sbe.uts.edu.my/archi/#tab2
+OUR VISION: 
+To be a global technical university founded on science and technology
+OUR MISSION:
+To provide world-class educational programmes and learning environment to nurture creative and entrepreneurial leaders through a broad education in science and technology
+PROGRAMME AIM:
+The programme aims to produce alumni with strong architectural background, capable to fulfil their professional demands in highly competitive market with confidence, outstanding ethical and moral values.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs):
+•	Graduates will be able to apply the understanding of construction, materials, services, historical, cultural and regulatory application in architectural design.
+•	Graduates will be able to translate design that comply to the requirements of the local authorities and produce technical drawings with appropriate architectural communication skills.
+•	Graduates will be able to display good work ethics, work independently and collaborate in team to fulfil the demand of architectural practice.
+PROGRAMME LEARNING OUTCOMES (PLOs):
+At the end of the programme, students should be able to attain the following learning outcomes:
+•	Ability to acquire and apply knowledge of historical and cultural context, legislation, technology and environment in architectural design.
+•	Ability to produce design using related or relevant architectural communication skills.
+•	Ability to solve problems through creative and innovative architectural design strategies that are responsive to societal and environmental needs.
+•	Ability to apply soft skills in multi-disciplinary networking.
+•	Ability to demonstrate leadership and professional responsibility when working in team.
+•	Ability to apply entrepreneurial skills for effective architectural practice.
+•	Ability to show good ethical behaviour architectural profession.
+•	Ability to develop self-learning skills and value the importance of continuous learning.
+CAREER PROSPECTS:
+When you’ve successfully completed this degree programme, you could embark on any of these exciting careers, including:
+•	Assistant Architect
+•	Design Consultant
+•	Interior Designer
+•	3D Visualiser
+•	Graphic Illustrator
+•	Research Assistant
+•	Academic Tutor
+2. Master of Architecture [N/581/7/0106] [06/23][MQA/PA 9736]
+OUR VISION:
+To be a global technical university founded on science and technology
+OUR MISSION:
+To provide world-class educational programmes and learning environment to nurture creative and entrepreneurial leaders through a broad education in science and technology
+PROGRAMME AIM:
+Master in Architecture is designed to produce talented and skilled human capital that meets the demands of construction industry as well as complies with the objectives of the Council of Architectural Accreditation and Education Malaysia (CAAEM) under the Board of Architects Malaysia.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs):
+•	Graduates will be able to apply architectural knowledge and skills in professional practice;
+•	Graduates will be able to apply their abilities in architectural communication and collaborative skills with multi-disciplinary teams in the construction industry;
+•	Graduates will be able to interpret current architectural issues and apply appropriate solutions.
+PROGRAMME LEARNING OUTCOMES (PLOs):
+At the end of the programme, students should be able to attain the following learning outcomes:
+•	Ability to develop ideas through creative and innovative problem solving approach to produce architectural design of suitable complexity and scale that meets functionality, aesthetics and local Acts;
+•	Ability to interpret and analyse design requirements from design brief into functional design;
+•	Ability to apply and integrate knowledge of architectural theories with respect to technology, environment, socioeconomic, socio-cultural, urban design and planning principles in architecture;
+•	Ability to communicate design through advanced architectural presentation;
+•	Ability to work in a team and demonstrate understanding of inputs of other relevant professions within the building industry;
+•	Ability to demonstrate awareness of cost implication in design options;
+•	Ability to demonstrate professionalism and leadership within the framework of architectural practice in the building industry.
+CAREER PROSPECTS:
+When you’ve successfully completed this master programme, you could embark on any of these exciting careers, including:
+•	Project Architect
+•	Design Architect
+•	Resident Architect
+•	Conservator
+•	Project Manager
+•	Urban Designer
+•	Architectural Structure Specialist
+•	Interior Designer
+•	Property Developer
+•	Academician
+•	Researcher
+•	Building Information Model Specialist
+
+3. Bachelor of Quantity Surveying (Hons) [N/526/6/0045] [8/25] [MQA/FA 3577]
+For more detail information, please refer to https://sbe.uts.edu.my/qs/#tab2
+OUR VISION:
+To be a global technical university founded on science and technology
+OUR MISSION:
+To provide world-class educational programmes and learning environment to nurture creative and entrepreneurial leaders through a broad education in science and technology
+PROGRAMME AIM:
+To produce quantity surveying alumni who are capable of discharging their roles competently, professionally and ethically in a competitive global environment.  The graduates will be equipped with sound and coherent technical knowledge as well as management skills, within a broad appreciation of cost, time, and quality in construction and sustainable development.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs):
+•	To prepare QS graduates with adequate knowledge and skills that underpin the quantity surveying practices
+•	To produce QS graduates who possess transferable skills which is imperative for pursuing a career in quantity surveying
+•	To produce QS graduates with positive personal qualities who are capable of engaging lifelong learning and cognizant to the needs of built environment.
+PROGRAMME LEARNING OUTCOMES (PLOs):
+•	At the end of the programme, students should be able to attain the following learning outcomes:
+•	Demonstrate in-depth understanding in the principles of construction technology, legal, building economics and management in the context of built environment (Knowledge).
+•	Demonstrate competency in the application of practical skills in discharging their roles at professional level (Practical Skills).
+•	Demonstrate the application of entrepreneurship and managerial skills in the process of managing an integrated project from inception to completion (Entrepreneurship and Managerial Skills).
+•	Possess adaptable social skills and positive attitudes when interacting and collaborating with other participants in teamwork (Social Skills and Responsibilities).
+•	Capable to communicate ideas professionally and effectively in enhancing teamwork and inter-professional collaboration (Communication, Leadership and Teamwork Skills).
+•	Demonstrate confidence to undertake scientific inquiry independently utilizing appropriate scientific and thinking skills (Scientific Methods, Critical Thinking & Problem Solving Skills).
+•	Demonstrate proficiency in information management so as to be capable of undertaking lifelong learning independently (Lifelong Learning and Information Management Skills).
+•	Demonstrate the ability to be conversant with the professional ethics and social responsibilities towards sustainable development and construction process (Ethics, Professionalism & Humanities).
+CAREER PROSPECTS:
+•	Professional career in quantity surveying always promotes qualities of leadership which allows members of this profession to advance in many other fields. Overall, a degree in quantity surveying prepare you for the following careers namely:
+•	Professional Quantity Surveyors (PQS) in construction firms;
+•	Consultant Quantity Surveyors (CQS) in quantity surveying consultancy firms;
+•	Contract Administrator and Commercial Manager in property development companies;
+•	Cost Engineer in oil and gas exploration and production companies;
+•	Cost consultant in financial institutions;
+•	Arbitrator, mediator and adjudicator in dispute resolution;
+•	Contract Manager and Quantity Surveyors in public sector;
+•	Research at universities and Tutor and lecturers at universities, college and training provider.
+CAREER PROSPECTS:
+Professional career in quantity surveying always promotes qualities of leadership which allows members of this profession to advance in many other fields. Overall, a degree in quantity surveying prepare you for the following careers namely:
+•	Professional Quantity Surveyors (PQS) in construction firms;
+•	Consultant Quantity Surveyors (CQS) in quantity surveying consultancy firms;
+•	Contract Administrator and Commercial Manager in property development companies;
+•	Cost Engineer in oil and gas exploration and production companies;
+•	Cost consultant in financial institutions;
+•	Arbitrator, mediator and adjudicator in dispute resolution;
+•	Contract Manager and Quantity Surveyors in public sector;
+•	Research at universities and
+•	Tutor and lecturers at universities, college and training provider.
+4. Bachelor of Art in Interior Design (Hons) [N/214/6/0220] [MQA/PA 14260]
+For more detail information, please refer to https://sbe.uts.edu.my/id/
+OUR VISION:
+To be a global technical university founded on science and technology
+OUR MISSION:
+To provide world-class educational programmes and learning environment to nurture creative and entrepreneurial leaders through a broad education in science and technology
+PROGRAMME AIM:
+Bachelor of Arts (Hons) in Interior Design is designed to produce talented and skilled Interior Designer that meets the demands of the construction industry as well as complied with the objectives of the Council of Architectural Accreditation and Education Malaysia (CAAEM) under Board of Architects Malaysia.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs):
+•	Graduates will be able to apply interior design knowledge and skills in professional practice.
+•	Graduates will be able to apply their abilities in interior design communication and collaborative skills with multi-disciplinary teams in the construction industry.
+•	Graduates will be able to interpret current interior design issues and apply appropriate solutions.
+PROGRAMME LEARNING OUTCOMES (PLOs):
+At the end of the programme, students should be able to attain the following learning outcomes:
+•	Ability to apply the influence of history, theory, legislation, environment, technology, socio economic and cultural studies in interior design practice.
+•	Ability to generate creative problem-solving approaches in designing a unique space design at different levels of complexity and scales that support human behaviour within interior environment and aesthetic values.
+•	Ability to integrate knowledge of behavioural science and human factors to enhance the health, safety, wellbeing, and performance of building occupants as well as to protect and conserve culturally significant interior space.
+•	Ability to apply ideas effectively using appropriate visual, verbal and written communication covering a range of interior design issues of culture, theory and design.
+•	Ability to demonstrate good leadership and intercommunication skills required for networking, and working as a team in a multidisciplinary environment.
+•	Ability to identify the accepted standards of professionalism, legislation and obligation, collaborate in multi-disciplinary teams respecting a variety of points of view and perspectives that enrich the process and product of the team.
+•	Ability to recognize the value and potential of innovative and entrepreneurial thinking for effective management.
+•	Ability to acquire knowledge of interior technologies and building systems, building construction, building life safety, and interior construction methods rules and regulation in interior space design.
+•	Ability to design relevant and appropriate building products, materials and FF&E (furniture, fittings and equipment) to create a conducive purposeful, aesthetically pleasing environment in compliance with rules and regulation of building, sustainability guideline and current needs.
+CAREER PROSPECTS:
+When you’ve successfully completed this degree programme, you could embark on any of these exciting careers, including:
+•	Interior Designer
+•	Product Designer
+•	Textile Designer
+•	Stylist
+•	Stage Designer
+•	Graphic Designer
+•	Showroom & Lighting Designer
+•	Furniture Designer
+•	Exhibition & Store Display Designer
+•	Restoration & Conservation Consultant
+5. Bachelor of Science (Hons) in Property and Construction Management [N/345/6/1160][MQA/PA14565]
+For more detail information, please refer to https://sbe.uts.edu.my/property-construction/
+OUR VISION:
+To be a global technical university founded on science and technology
+OUR MISSION:
+To provide world-class educational programmes and learning environment to nurture creative and entrepreneurial leaders through a broad education in science and technology
+PROGRAMME AIM:
+Bachelor of Science in Property and Construction Management is designed to produce knowledgeable and skilled professional valuers, estate agents, property managers, and construction project managers as well as complies with the objectives of the Board of Valuers, Appraisers, Estate Agents and Property Managers (BOVAEP) Malaysia.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs):
+The objectives of the Property and Construction Management are:
+•	Graduates will be able to apply adequate knowledge and skills in real estate and construction practice.
+•	Gradates will be able to apply their skills in communication and collaboration skills with multi-disciplinary teams in the real estate and construction industry.
+•	Graduates will be able to demonstrate positive personal qualities to engage in lifelong learning and cognizant to the needs of real estate and construction industry.
+PROGRAMME LEARNING OUTCOMES (PLOs):
+Upon completion of the programme, graduates are able:
+•	To apply the knowledge of valuation, building technology, legal, economics, and management in the context of real estate and construction industry.
+•	To apply critical, analytical and evaluation skills in the practice within real estate and construction.
+•	To demonstrate competency in the application of practical skills in discharging their duties.
+•	To demonstrate intercommunication and social skills when interacting and collaborating with other disciplines in the real estate and construction industry.
+•	To apply the broad range of information, technology and numerical knowledge related to real estate and construction management.
+•	To demonstrate leadership and professionalism in managing responsibilities within broad range organizational parameters.
+•	To demonstrate entrepreneurship skills and engage effectively in self-directed lifelong learning.
+•	To demonstrate the awareness on ethical issues and work professionally within   real estate and construction industry.
+CAREER PROSPECTS:
+With a property and construction management degree, the graduates may choose to work with larger real estate and construction firm or set out their own firms. There are a wide range of job options that it can be considered by the graduates:
+•	Valuer
+•	Estate Agent
+•	Property Manager
+•	Construction Project Manager
+•	Property Auctioneer
+•	Property Development
+•	Property Investment and Financing
+•	Leasing/Tenancy Officer or Executive
+•	Real Estate Entrepreneur
+In order to succeed in the real estate and construction industries, the graduates must be equipped with technological, mathematical, and legal knowledge. Besides, the graduates must also possess sufficient analytical thinking, problem solving, communication, teamwork and managerial skills.
+
+SBE Team:
+For latest update, please refer to https://sbe.uts.edu.my/sbe-people/
+i) KAN FOCK KUI (Dr.)
+Position: Dean & Senior Lecturer (BQS)
+Qualifications: PhD Quantity Surveying (UTM), MSc in Construction Management (Bath), Dip in Technology (Building) (TARC)
+Professional Associations:
+•	Royal Institute of Chartered Surveyors (RICS) 
+•	Board of Quantity Surveyors Malaysia (BQSM) 
+•	Royal Institution of Surveyors Malaysia (RISM)
+Specialisations: Construction Management
+Tel: (+6) 084 367 458 
+Email: fockkuikan@uts.edu.my
+ii) ANDY WONG CHIH SIONG (Dr.)
+Position: Deputy Dean & Senior Lecturer (BSA)
+Qualifications: PhD Architecture (UTM), Master of Information Technology Management (UNITAR), Bachelor of Planning & Design (Uni. of Melbourne), GBIF, MMGBC, MMIM
+Professional Associations: Green Building Index Facilitator, Malaysia Green Building Confederation, Malaysian Institute of Management, Pertubuhan Akitek Malaysia
+Specialisations:
+•	Architecture and Human Behaviour 
+•	Person-Environment Congruence
+Tel: (+6) 084 367 441 Email: andywong@uts.edu.my
+
+1. Architecture
+a) MUHAMMAD OLIVER ENSOR SILINI
+Position: Head of Programme & Senior Lecturer
+Qualifications: B.Arch (Hons) in Architecture (USM), B.Sc (Hons) in Housing, Building and Planning (USM)
+Professional Associations: Lembaga Arkitek Malaysia, Pertubuhan Akitek Malaysia
+Tel: (+6) 084 367 421 
+Email: oliver@uts.edu.my
+b) AIMI FARHANA GHAZALI
+Position: Master Coordinator & Senior Lecturer
+Qualifications:
+•	B. Arch (UPM)
+•	B. Design (Architecture) (UPM)
+Professional Associations:
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Akitek Malaysia
+Specialisations:
+•	Building Technology 
+•	Architecture History
+Tel: (+6) 084 367 492
+
+Email: aimi.farhana@uts.edu.my
+c) Ar. Mustapha Mohd Salleh (Adjunct. Prof.. Ar.) 
+Position: Adjunct Professor
+Qualifications: 
+•	M.A. in Architectural Management (Nottingham) 
+•	Dip. in Advanced Architecture Studies (Aberdeen) 
+•	BA (Hons) in Architecture (CNAA) (Aberdeen)
+•	Dip. in Architecture (ITM)
+Professional Associations:
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Arkitek Malaysia 
+•	Malaysian Institute of Interior Designer 
+•	Concrete Society Malaysia 
+•	ASEAN Architect 
+•	APEC Architect
+Specialisations:
+•	Construction Technology 
+•	Architectural Management 
+•	Architecture Education
+Tel: (+6) 019 275 7371 
+Email: sallehmustapha@gmail.com
+d) SAMUEL LEE CHEE ZIN (Ar.). 
+Position: Senior Lecturer
+Qualifications:
+•	B. Arch (UPM)
+•	B. Design (Architecture) (UPM)
+•	MBA (Finance)
+•	GBI Facilitator
+Professional Associations:
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Akitek Malaysia 
+•	Green Building Index
+Specialisations:
+•	Green Building 
+•	Building Technology 
+•	Architecture History
+Tel: (+6) 084 367 484 
+Email: samuel@uts.edu.my
+e) MUHAMMAD ARIFF MAT SARUAN
+Position: Senior Lecturer
+Qualifications: 
+•	B. Arch in Architecture (Hons.) (UiTM) 
+•	B.Sc in Architecture (UiTM)
+Professional Associations:
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Arkitek Malaysia
+Specialisations: 
+•	Building Construction Technology 
+•	Architecture Planning 
+•	Sustainable Design
+Tel: (+6) 084 367 447 
+Email: m.ariff@uts.edu.my
+f) JASPER LING THIEN JIN
+Position: Senior Lecturer
+Qualifications:
+•	MSc in Architecture (UWA) 
+•	B.Environmental Design (UWA)
+Professional Associations:
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Akitek Malaysia
+Specialisations:
+•	Property Management 
+•	Architecture Planning 
+•	Construction Management 
+•	Project Coordinator
+Tel: (+6) 084 367 443 
+Email: jasper@uts.edu.my
+g) RAHMAT BIN MORIAT
+Position: Lecturer
+Qualifications:
+•	B.Arch (LAM PART II) (UITM) 
+•	Dip. In Arch. (LAM PART I) (ITM)
+Professional Associations: 
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Akitek Malaysia
+Specialisations: 
+•	Architecture Planning 
+•	Urban Planning 
+•	Construction Management 
+•	Project Coordinator
+Tel: (+6) 011 1220 4852
+Email: rahmat.moriat@uts.edu.my
+h) AARON CHEW WEI-LI
+Position: Lecturer
+Qualifications:
+•	MSc in Architecture (UWA) 
+•	Bachelor of Environments (University of Melbourne) 
+•	Diploma in Architecture Technology (Taylors University College)
+Professional Associations:
+•	Lembaga Arkitek Malaysia
+•	Pertubuhan Arkitek Malaysia
+Specialisations:
+•	Property Management 
+•	Architecture Planning 
+•	Construction Management 
+•	Fine Arts
+ Tel: (+6) 084 367 461 
+Email: aaron@uts.edu.my
+i) TIMOTHY IGAT MAURICE
+Position: Lecturer
+Qualifications: Master of Architecture (UTAS), Bachelor of Environmental Design (UTAS)
+Specialisations:
+•	Environmentally sustainable building designs 
+•	Designing for dementia and aged care facilities
+Tel: (+6) 084 367 452 
+Email: timothyigat@uts.edu.my
+j) HIRDA LAILANI KHALID
+Position: Lecturer
+Qualifications: MSc in Architecture (USM), B.Arch (USM), B.Sc. Housing, Building, & Planning (Architecture) (USM)
+Professional Associations:
+•	Lembaga Arkitek Malaysia 
+•	Pertubuhan Akitek Malaysia
+Specialisations:
+•	Energy Efficient Building Design 
+•	Green Architecture
+Tel: (+6) 084 367 485 
+Email: hirda.lailani@uts.edu.my
+
+2. Quantity Surveying:
+a) PRESCILLA ANAK PALIS
+Position: Head of Programme & Lecturer
+Qualifications: Master of Philosophy (Quantity Surveying) (UTM), Bachelor of Quantity Surveying (Hons) (UTM), Diploma in Quantity Surveying (Politeknik Kota Kinabalu), Provisional Graduate Member Quantity Surveyor
+Professional Associations: Board of Quantity Surveying Malaysia (BQSM)
+Tel: (+6) 084 367 442 
+Email: prescilla@uts.edu.my
+b) ESTHER WONG SIAW WEI
+Position: Mater Coordinator & Lecturer
+Qualifications: MSc Quantity Surveying (University of Portsmouth, UK), Bachelor of Quantity Surveying (Hons) (UCTS), Diploma in Quantity Surveying (Kolej Laila Taib) Provisional Graduate Member Quantity Surveyor
+Professional Associations: Board of Quantity Surveying Malaysia (BQSM)
+Specialisations: Measurement
+Tel: (+6) 084 367 450 
+Email: esther.wong@uts.edu.my
+c) Abdul Ghani Khalid (Prof., Dr., Sr.)
+Position: Adjunct Professor
+Qualifications: Ph.D (Reading), B.Q.S. (Hons.) (UTM)
+Professional Associations: Royal institution of Surveyors Malaysia (RISM) Certified Quantity Surveyor (CQS)
+Specialisations: Construction Economy
+Tel: (+6) 07 553 7386 
+Email: drdrghani@yahoo.com
+d) DING CHU SHENG
+Position: Senior Lecturer
+Qualifications: Master in Project Management (OUM), Bachelor of Construction Management and Economics (UniSA), Diploma in Quantity Surveying (UCS), Provisional Graduate Member Quantity Surveyor
+Professional Associations: Board of Quantity Surveying Malaysia (BQSM)
+Specialisations: Project management, Constructability, Quantity Surveying
+Telephone: (+6) 084 367 588 
+Email: ding.chu.sheng@uts.edu.my
+e) WONG SING SING (Assoc. Prof., Dr.)
+Position: Associate Professor
+Qualifications: PhD in Quantity Surveying (USM), MSc in Project Management (USM), BSc (Hons.) Housing, Building & Planing (USM)
+Professional Associations: Royal Institution of Surveyors Malaysia (RISM)
+Specialisations: International Construction
+Tel: (+6) 084 367 328 
+Email: drwong@uts.edu.my
+f) WONG CHII NGUONG (Sr.)
+Position: Senior Lecturer
+Qualifications: BSc (Hons) Housing, Building & Planning (USM) MRICS, MRISM, Consultant QS (CQS)
+Professional Associations: Board of Quantity Surveyors Malaysia (BQSM) Royal Institution of Surveyors Malaysia (RISM) Royal Institute of Charted Surveyors, UK (RICS)
+Specialisations: Quantity Surveying Practice
+Tel: (+6) 084 367 454 
+Email: wongchiinguong@uts.edu.my
+g) WONG SHI YEE (Dr.) 
+Position: Lecturer
+Qualifications: PhD in Property and Planning (QUT), B.UrbDev (QS) (QUT)
+Professional Associations: 
+•	Provisional QS (Board of Quantity Surveyors Malaysia)
+•	Graduate member (Royal Institution of Surveyors Malaysia) 
+•	Associate Fellow (Higher Education Academy)
+Specialisations: 
+•	Information Flow
+•	Sustainability
+Tel: (+608) 4367492 Email: wongshiyee@uts.edu.my
+h) CHIENG TIONG KOH
+Position: Senior Lecturer
+Qualifications: MSc in Construction Economic and Manageme (South Bank, UK), Dip in Technology (Building) (TARC)
+Professional Associations: 
+•	Board of Quantity Surveyors Malaysia (BQSM) 
+•	Royal Institution of Surveyors Malaysia (RISM)
+Tel: (+6) 084 367 459 
+Email: chiengtiongkoh@uts.edu.my
+i) ANGELA TING MEE YII (Mdm.)
+Position: Lecturer
+Qualifications: MSc in Project Management (OUM), BSc (Hons) Quantity Surveying (Northumbria University, UK)
+Professional Associations:
+Board of Quantity Surveyors Malaysia (BQSM), Royal Institution Surveyor Malaysia (RISM)
+Specialisations: Measurement Skills
+Tel: (+6) 084 367 439 Ernail: angela.ting@uts.edu.my
+j) MAGDALEN PETRUS
+Position: Lecturer
+Qualifications: MSc in Project Management (USM), BSc (Hons) Housing, Building & Planning (Quantity Surveying) (USM), Diploma in Quantity Surveying (Politeknik Kota Kinabalu), Provisional Graduate Member Quantity Surveyor (ProvQS)
+Professional Associations: Board of Quantity Surveying Malaysia (BQSM)
+Tel: (+6) 084 367 481 
+Email: magdalen@uts.edu.my
+k) STEPHANIE STELLA ANAK DAWI
+Position: Lecturer
+Qualifications: Master of Science (Construction Management) (UTM), Bachelor of Quantity Surveying (Hons) (UTM), Diploma in Quantity Surveying (Politeknik Kota Kinabalu), Provisional Graduate Member Quantity Surveyor
+Professional Associations: Board of Quantity Surveying Malaysia (BQSM)
+Specialisations: Research
+Tel: (+6) 084 367 491
+Email: stephanie.stella@uts.edu.my
+l) NURUL HAYATI YONG
+Position: Lecturer
+Qualifications: MSc in Facilities Management (UiTM), Bachelor (Hons.) of Quantity Surveying (UiTM), Diploma in Quantity Surveying (UITM)
+
+Professional Associations: Provisional Quantity Surveyor in Board of Quantity Surveyor Malaysia (BQSM)
+Tel: (+6) 084 367 456 
+Email: nurul.hayati@uts.edu.my
+m) WAHIDA WAHI
+Position: Lecturer
+Qualifications: MSc in Construction Management (UTM), B (Hons) in Quantity Surveying (UITM), Provisional Graduate Member Quantity Surveyor
+Professional Associations: 
+•	Board of Quantity Surveyors Malaysia (BQSM) 
+•	Construction Industry Development Board
+Specialisations: Quantity Surveying Management
+Tel: (+6) 084 367 456 Email: wahidawahi@uts.edu.my
+
+3. Property & Construction:
+a) WONG JING JING (Ms.)
+Position: Head of Programme & Senior Lecturer
+Qualifications: MSc in Assets and Facilities Management (UTM), BSc in Land Administration and Development (UTM)
+Professional Associations: Malaysian Institute of Estate Agents (MIEA)
+Specialisations: 
+•	Financial Management 
+•	Property Management 
+•	Property Market
+Telephone: (6) 084 367 482 
+Email: wong.j.j@uts.edu.my
+
+4. Administration:
+a) NURFAIRUZ ANUAR
+Position: Administrative Assistant
+Qualifications: BBA (Hons.) Marketing (UNIMAS)
+T: (+6) 084 367 453
+Email: nurfairuz@uts.edu.my
+b) FATIN HAMIDAH WAFAA
+Position: Clerk
+Qualifications: Sijil Pelajaran Malaysia
+Telephone: (+6) 084 367 488 
+Email: fatin.hamidah@uts.edu.my
+
+5. Technical:
+a) NAZIR MOHAMED ZUBIR 
+Position: Senior Lab Technician
+Qualifications: Level 5 BTEC Higher National Diploma (IUCTT)
+Telephone: (+6) 084 367 493 
+Email: nazirzubir@uts.edu.my
+b) MUHAMMED AL MUBARAQ DZALMIRA
+Position: Assistant Lab Technician
+Qualifications: Diploma Kejuruteraan Mekanikal (Politeknik Kuching)
+Telephone: (+6) 084 367 493 
+Email: dzalmira@uts.edu.my
+Contact Details:
+DEAN’S OFFICE, SBE
+Telephone: (+6) 084 367 450
+Email: harisfadzilah@uts.edu.my
+Facebook: https://www.facebook.com/sbe.uts
+Instagram: https://www.instagram.com/uts_sbe/
+
+5. School of Computing and Creative Media (SCM)
+For more information, please refer to https://scm.uts.edu.my/
+Programme Offered:
+1. Bachelor of Computer Science (Hons) [N/481/6/0560] [8/19] [MQA/FA4984]
+For programme structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2023/04/2023BCS-Structure-DFinal.pdf
+For synopsis structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2019/02/BCS-Programme-Synopsis.pdf
+Programme Aims:
+To produce software engineers capable of fulfilling the professional demands in highly competitive global market with confidence, outstanding ethical and moral values.
+Programme Educational Objectives (PEOs):
+•	Graduates with good level of knowledge and competency skills will be employed or self-employed in relevant software engineering fields; and with appropriate attitudes will enable them to have successful careers.
+•	Graduates will acquire abilities for effective communication, collaborative working in diverse teams, and continual development through professional involvement.
+•	Graduates will pursue lifelong learning in order to contribute to the advancement of information technology and computer science professions and related contemporary issues.
+Programme Learning Outcomes (PLOs):
+Upon completion of this programme, students should be able:
+•	Apply knowledge and understanding of essential facts, concepts, principles, skills, and theories relating to Software Engineering, and
+•	Apply theoretical principles of Software Engineering in relevant areas, and
+•	Demonstrate appropriate methodologies, models, techniques that provide a basis for analysis, design, development, test and implementation, evaluation, maintenance, and documentation of a large-scale software system, and
+•	Use relevant techniques and demonstrate analytical and critical thinking skills in problem solving, and
+•	Conduct professional and ethical responsibilities in accordance with ethical and legal principles, and
+•	Function effectively both as individuals and in a group in the capacity of a leader or a team member, and
+•	Apply broad business and real world perspectives daily and demonstrate entrepreneurship skills related to software engineering practice, and
+•	Communicate effectively with the software system development community and with the society at large, and
+•	Apply skills and principles of lifelong learning in both academic and career development.
+2. Bachelor Of Arts In Industrial Design (Honours) [N/214/6/0210] [MQA/PA 9621]
+For programme structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2023/04/2023BID-STRUCTURE-BFinal.pdf
+For synopsis structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2019/02/BID-Programme-Synopsis.pdf
+Programme Overview:
+Industrial Design is a methodology responsible for creating products that can be both practical and aesthetically pleasing. It focuses on the design of products by using knowledge from applied science as well as applied arts and various engineering disciplines, supported with state of the art equipment and software. The aim of an industrial designer is to create a product which fulfils aesthetical, ergonomic as well as usability standards. This programme teaches students how to combine the theoretical concepts of materials and processes with the practicality of design and patterns, and it is the type of discipline that adapts to the country it is taught in. During their academic courses, students will participate in computer labs, design studios, theoretical courses, and classroom projects. Students will learn how to develop design concepts, taking into account social, environmental, functional, financial, and aesthetic aspects. Students will also develop computer and IT skills including CAD, 3D modelling, graphics modelling, multimedia, and web-design. All of these are made to help students develop their problem-solving skills, aesthetic ability, and creativity levels. Studying Industrial Design can open the way for many career opportunities as it teaches students how to develop and design any kind of product, from mobile phones, vehicles, furniture and even fashions or videos games. The opportunities are limitless whether one wants to become a product designer, researcher, or entrepreneur.
+Programme Aims:
+To produce Industrial Designers with broad technical, innovative and creative knowledges, associated hands-on and entrepreneurship skills to fulfill their professional demands in the highly competitive global market with confidence, outstanding ethical and moral values.
+Programme Educational Objectives (PEOs):
+•	Graduates will apply the latest knowledge and techniques of Industrial Design to creatively and innovatively solve design problems with high level of competency, and entrepreneurship.
+•	Graduates will demonstrate leadership, management and teamwork skills, and able to communicate effectively in diverse teams.
+•	Graduates will pursue lifelong learning in order to contribute to the advancement of the industrial design and technology professions and related contemporary issues.
+Programme Learning Outcomes (PLOs):
+Upon completion of this programme, students should be able:
+•	Ability to acquire and apply fundamental knowledge of industrial design and technology appropriate to the discipline.
+•	Ability to identify, formulates, and solves of industrial design and technology problems.
+•	Ability to design and conduct experiments with data interpretation, and able to design systems or process to meet desired needs.
+•	Ability to use the techniques, skills, and modern tools necessary for industrial design and technology practice.
+•	Ability to function in multi-disciplinary teams, able to write effectively and also communicate effectively with individuals.
+•	Ability to understand and commit themselves to professional and ethical responsibilities, and the impact of industrial design and technology solutions in a social context.
+•	Ability to identify fundamental entrepreneurship skills as applied in industrial design and technology profession.
+•	Recognition of the need for, and an ability to engage in life-long learning.
+•	Demonstrate an awareness of and consideration for societal, health, safety, legal and cultural issues and their consequent responsibilities
+•	Demonstrate an understanding of professional ethics, responsibilities and norms of art and design technology practices.
+•	Appreciate the impact of sustainable development in art and design, and technology practice.
+•	Recognise the need for professional development and to engage in independent learning
+3. Bachelor Of Arts (Hons.) In Creative Digital Media [N/213/6/0350][MQA/PA 11221]
+For programme structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2023/04/2023BDM-STRUCTURE-BFinal.pdf
+For synopsis structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2020/02/BDM-PROGRAMME-SYNOPSIS-.pdf
+Programme Overview:
+The Creative Digital Media programme in UCTS is mainly an experiential-based programme, which embraces and develops students’ digital specialisations in interactive, immersive, and motion media. This programme is designed to meet the current and future creative industry needs, therefore collaboration with the industry is the fundamental feature of this programme.
+During the academic courses, students’ learnings will encompass the fundamental of creative digital media right through to real world research project in their final year study. Students will be trained to specialize in the field they are interested in whether it is digital animation, 3D CG, computer generated imagery, game design, VR and AR, apps, interactive design, film and documentary. They will also have direct involvement with relevant companies and industry through live projects and industrial training as this course share a philosophy of embedded and applied real world collaboration to add a relevant context to the skills based curriculum this programme offer.
+Upon graduation, students will be equipped with the knowledge and skills to be at the forefront of the creative digital media industry both locally and internationally. With the acquired knowledge and skills, students will be able to embark in careers or become an entrepreneur in the creative industry such as digital film and animation, computer generated imagery (CGI), computer and video game design, digital marketing and advertisement, visual and augmented reality design, graphics communication, etc. The opportunity is endless as this industry is constantly evolving thus creating astonishing prospects for new expertise within the industry.
+Programme Aims:
+To create alumni with broad technical knowledge and associated hands-on skills to fulfil their professional demands in highly competitive global market with confidence, outstanding ethical and moral values.
+Programme Educational Objectives (PEOs)
+•	Graduate will apply the latest knowledge and techniques of Creative Digital Media to creatively and innovatively solve challenges with high level of competency and entrepreneurship.
+•	Graduates will demonstrate leadership, management and teamwork skills, and able to communicate effectively in diverse teams.
+•	Graduates will pursue lifelong learning in order to contribute to the advancement of the creative digital media professions and addressing related contemporary challenges.
+Programme Learning Outcomes (PLOs):
+•	Ability to acquire and apply fundamental knowledge of creative digital media and technology appropriate to the discipline.
+•	Ability to identify and solves creative digital media challenges
+•	Ability to design and conduct experiments to meet the desired benchmarks
+•	Ability to use the techniques, skills and modern tools necessary for creative digital media and technology practice.
+•	Adhere to management, business practices and entrepreneurship in the context of creative digital media.
+•	Ability to practice professionalism with ethics and social responsibilities
+•	Function effectively as individuals, and as members or leaders in diverse multi-disciplinary technical teams.
+•	Recognise the need for professional development and ability to engage in independent life-long learning.
+4. Bachelor of Mobile Game Development (Honours) [N/0211/6/0004][MQA/PA 15925]
+For programme structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2023/04/2023BMD-Structure-AFinal.pdf
+For synopsis structure, please refer to https://scm.uts.edu.my/wp-content/uploads/2023/03/BMD-Synopsis.pdf
+Programme Aims:
+To educate and prepare mobile game developers who have the skills and confidence needed to succeed in a highly competitive global market, while maintaining outstanding ethical and moral values.
+Programme Educational Objectives (PEOs):
+•	Analyse and relate broad knowledge of Mobile Game Development concepts and principles to practices incorporating technical skills in relevant fields.
+•	Commit to take responsibility in leading and deliver assigned tasks when leading, interacting and communicating with peers and stakeholders while ensuring ethical practices.
+•	Demonstrate technical competency in the innovative and creative use of digital technology and apply numerical techniques in Mobile Game Development.
+•	Commit to life-long learning and exhibit entrepreneurial skills for academic and career advancement in relevant industries and related contemporary issues.
+Programme Learning Outcomes (PLOs):
+Upon completion of this programme, students should be able:
+•	Analyse and apply broad knowledge and skills in relevant areas in Mobile Game Development effectively for innovative practices.
+•	Critically analyse historical, contextual, conceptual theories, and ethical judgement in Mobile Game Development practice.
+•	Create, conceive digital ideation and innovation for the practise areas of Mobile Game Development.
+•	Articulate and communicate ideas and concepts comprehensively in visual, written and oral engagements.
+•	Execute design concepts and analysis through the use of numeracy skill application for effective delivery.
+•	Construct Mobile Game/s, through reflectivity, reviews and evaluations.
+•	Demonstrate commitment when communicating and interacting with experts, peers, clients, superiors and society under work and organisational related environment for the development of Mobile Game Development.
+•	Demonstrate commitment in leadership and accountability including adherence to legal requirements and organisational functions.
+•	Demonstrate commitment in professionalism and ethical practices in delivering innovative or creative services and / or conducting exploratory research.
+•	Demonstrate commitment to lifelong learning for academic and career development in the applications of Mobile Game Development.
+•	Demonstrate commitment in continuing development of entrepreneurial mindset for the value creation of Mobile Game Development.
+5. Master in Computing [N/481/7/0815] [MQA/PA 12389]
+Program Overview:
+A Master in Computing program is one of the high levels of academic qualifications one can achieve. This qualification will enable you to develop an advanced understanding of your selected focus area in the discipline of computing, placing you at the forefront of your chosen field of research.
+Our Master program provides you with opportunities to undertake deep and broad investigation within your chosen computing field and you are encouraged to develop new ideas or employ well thought-out methodologies to produce noteworthy theoretical and practical contributions. You will utilise the best-suited research methodologies to explore and/or test informed ideas.
+The outcome of your research may include the frontiers of knowledge and you will disseminate the scholarly findings to peers and practitioners, through academic and professional networks, conferences, seminars and even publications.
+UTS has a dedicated team of academicians and fellow researchers to assist and mentor you along your research journey, as you investigate a topic of your choice.
+You may pursue a topic or an issue in which you are currently researching within your work place, in which case your Masters can also be of direct relevance to your current employment. Alternatively, you may choose to conduct research in any particular area that you are passionate about.
+Programme Structure:
+The Master program is purely based on individual supervised research. Candidates will be exposed to Research Methodology Course (3 Credits) to strengthen their research knowledge. At the end of the candidate’s study, a thesis must be submitted and upon successful defence, the candidate will be graduated.
+Research Specialisations:
+The research specializations for Master in Computing (by Research) are based on the MQA’s program standards. The main research areas are as listed:
+•	Computer Science
+•	Information Systems
+•	Software Engineering
+•	Information Technology
+•	Data Science
+•	Cyber Security
+Programme Coordinator:
+Associate Professor Dr Tariq Zaman
+Email: tariqzaman@uts.edu.my
+Tel : (+6) 084-367300 
+ext: 520
+6. PhD in Computing [N/481/8/0789] [MQA/PA 12390]
+Program Overview:
+A Doctor of Philosophy (PhD) in Computing is the highest level of academic qualifications one can achieve. This qualification sets you apart as having developed an exhaustive understanding of your selected focus area in the discipline of computing,   placing you at the cutting-edge of your chosen field of research.
+Our PhD program provides you with opportunities to undertake extensive investigation within your chosen computing field and you are expected to develop new ideas, findings or employ well thought-out methodologies to produce noteworthy theoretical and practical contributions. You will utilise the best-suited research methodologies to explore and/or test informed ideas.
+The outcome of your research should extend and advance the frontiers of knowledge and you will disseminate the scholarly findings to peers and  practitioners, through academic and professional networks, conferences, seminars, exhibitions, and even publications.
+UTS has a dedicated team of academicians and fellow researchers to assist and mentor you along your research journey, as you investigate a topic of your choice.
+You may pursue a topic or an issue in which you are currently researching within your work place, in which case your PhD can also be of direct relevance to your current employment. Alternatively, you can choose  to  undertake research in any particular area you are passionate about.
+Programme Structure:
+The PhD program is purely based on individual supervised research. Candidates will be exposed to Research Methodology Course (3 Credits) to strengthen their research knowledge. At the end of the candidate’s study, a thesis must be submitted and upon successful defence, the candidate will be graduated.
+Research Specialisations:
+The research specializations for Ph.D. in Computing (by Research) are based on the MQA’s program standards. The main research areas are as listed:
+•	Computer Science
+•	Information Systems
+•	Software Engineering
+•	Information Technology
+•	Data Science
+•	Cyber Security
+Programme Coordinator:
+Associate Professor Dr Tariq Zaman
+Email: tariqzaman@uts.edu.my
+Tel : (+6) 084-367300 
+ext: 520
+
+SCM Team:
+i). Assoc. Prof. Ts. Dr. Alan Ting Huong Yong
+Position: Dean
+Phone: 084-367546
+Email: alan.ting@uts.edu.my
+Qualifications: PhD (MMU)
+Research Interest: Computer Vision, Soft Computing, 3D Imaging
+Affiliation: MBOT, BEM, IEM
+ii) Dr. Yiiong Siew Ping
+Position: Deputy Dean
+Phone: 084-367561
+Email: siew.ping@uts.edu.my
+Qualifications: PhD in Computational Science, Universiti Malaysia Sarawak.
+Research Interest: Theory and Computation of Fluid Dynamics, Mathematical Modelling of Dynamical Systems
+
+1. Bachelor of Computer Science (Hons)
+a) Ts. Dr. Chew Kim Mey
+Position: Head of Programme, Bachelor of Computer Science (Hons.)
+Phone: 084-367475
+Email: chew.kim.mey@uts.edu.my
+Qualifications: PhD Universiti Teknologi Malaysia (UTM))
+Research Interest: Ontology Learning (enhancement, information extraction, data analysis), Biomedical Engineering (CST simulation, diseases detection-tumor), Phantom Development (dielectric properties of human organ and tumor), Signal Processing (microwave signal, s-parameters), Image Processing (medical images).
+Affiliation: MIEEE
+b) Ts. Gary Loh Chee Wyai
+Position: Senior Lecturer / Director, Centre of International Relations
+Phone: 084-367523
+Email: gary@uts.edu.my
+Qualifications: Master of Science in Computer Science, Universiti Malaysia Sarawak
+Research Interest: Information and Communications Technology for Rural Development (ICT4RD), Human Computer Interaction (HCI), Multimodal Speech and Sketch Interaction, Project Management, Cyber Security
+Affiliation: Association for Computing Machinery
+c) Eileen Ong Sing Ling
+Position: Senior Lecturer
+Phone: 084-367560
+Email: eileenong@uts.edu.my
+Qualifications: Master in Business Administration, The University of Southern Queensland, Bachelor of Computer Science, University of Wollongong
+d) Ts. Daniel Tan Yong Wen
+Position: Senior Lecturer/Director of Drone Research and Application Centre
+Phone: 084-367432
+Email: danieltan@uts.edu.my
+Qualifications: Master of Science in Computer Science, Universiti Malaysia Sarawak
+Research Interest: Knowledge Management, Visualization Methods, Semantic Technology
+Affiliation: ACM Professional Membership
+e) Chang Wui Lee
+Position: Lecturer
+Phone: 084-367437
+Email: wui.lee@uts.edu.my
+Qualifications: Bachelor of Electronic & Computer Engineering (UNIMAS)
+f) Marcella Peter
+Position: Lecturer
+Phone: 084-367556
+Email: marcella@uts.edu.my
+Qualifications: Master of Science (Computer Science), Bachelor of Computer Science (Multimedia Computing)
+Research Interest: Computer Vision and Image Processing (Face Analysis and Recognition), Mobile game-based learning
+g) Khairunnisa Binti Ibrahim
+Position: Lecturer
+Phone: 084-367518
+Email: khairunnisa.ibrahim@uts.edu.my
+Qualifications: Master of Science (Computer Science) UNIMAS, Bachelor of Honours in Computer Science (Information System) UNIMAS
+Research Interest: Data Visualisation, Network Algorithms
+h) Dr. Tariq Zaman
+Position: Head of ASSET/Programme Coordinator, Master in Computing and PhD in Computing/Associate Professor
+Phone: 084-367520
+Email: tariqzaman@uts.edu.my
+Qualifications: PhD (Computer Science), UNIMAS
+Research Interest: Co-Design, Rural Informatics and ICT4D
+Affiliation: Associate Fellow, the Malaysian Commonwealth Studies Centre, Trinity College, Cambridge
+i) Nur Hidayatullah Binti Rashidi
+Position: Lecturer
+Phone: 084-367588
+Email: nurhidayatullah@uts.edu.my
+Qualifications: Master in Information Technology, University islam Selangor(UIS)
+Research Interest: Internet of Things (Digitalization)
+j) Dr. Michael Tang Chi Seng
+Position: Lecturer
+Phone: 084-367474
+Email: michaeltang@uts.edu.my
+Qualifications: PhD in Electronic Engineering
+Research Interest: Computer Vision & Image Processing
+
+2. Bachelor of Arts in Industrial Design (Honours)
+a) Ts. Ahmad Lutfee Bin Mohd Lasa, CIDe
+Position: Head of Programme, Bachelor of Arts in Industrial Design (Honours)
+Extension: 417
+Email: lutfee@uts.edu.my
+Qualifications: Master of Design Technology (Industrial Design)
+Research Interest: Design Thinking, Design Making, Design Education, Design Intervention
+Affiliation: MBOT (GT18120249) ,PEREKA (IDE 00070), CIDe (00025/22)
+b) Barbara Anak Dieo
+Position: Lecturer
+Phone: 084-367513
+Email: barbara@uts.edu.my
+Qualifications: Master of Arts (Design Management), UNIMAS
+Research Interest: Grassroots Innovation, Design Management Process
+c) Khatijah Binti Hanapi
+Position: Lecturer
+
+Extension: 084-367521
+Email: khatijah@uts.edu.my
+Qualifications: Master of Arts (Industrial Design) & Bachelor of Applied Arts (Honours) in Design Technology, UNIMAS
+Research Interest: Product Personality & Service Design
+Affiliation: Malaysia Design Council (1-A-000441), MBOT (GT21010363)
+d) Cherry Ling Yieng Siang
+Position: Lecturer
+Phone: 084-367433
+Email: cherryling@uts.edu.my
+Qualifications: Msc. Industrial Engineering, Seoul National University, Bsc. Industrial Engineering, Seoul National University.
+Research Interest: Ergonomics, User Experience Design
+e) Dr. Muhammad Firdaus Abong Abdullah
+Position: Director, UTS Publication Unit / Associate Professor
+Phone: 084-367529
+Email: muhammad.firdaus@uts.edu.my
+Qualifications: PhD. Industrial Design, Loughborough University UK, MSc. Industrial Design, Loughborough University UK, B.A. Industrial Design, UITM, Shah Alam
+Research Interest: Industrial Design, Design Management, Design for Modularity, Medical Application of Design, Grassroot Innovation
+Affiliation: Malaysian Design Council (Majlis Rekabentuk Malaysia) (1-A-000375-2018)
+f) Ts. Muhammad Huzail bin Hasbullah
+Position: Lecturer
+Email: huzail@uts.edu.my
+Qualifications: Master In Industrial Design
+Research Interest: Design Technology & Knowledge Transfer
+Affiliation: Panel Audit for MBOT & Panel Audit for MOSTI
+
+3. Bachelor of Arts (Hons.) in Creative Digital Media
+a) Mohamad Suffian Bin Abdul Kadir
+Position: Head of Programme, Bachelor of Arts(Hons.) in Creative Digital Media
+Phone: 084-367435
+Email: mohd.suffian@uts.edu.my
+Qualifications: Master of Arts (Fine Art, Electronic Art), Bachelor of Applied Arts(Honours) in Fine Arts (Electronic Arts), UNIMAS
+Research Interest: Interactive Arts
+b) Ts. Vanden Michael
+Position: Lecturer
+Extension: 084-367517
+Email: vanden@uts.edu.my
+Qualifications: Master of Arts (Design Management, Animation), Bachelor of Applied Arts(Honours) in Design Technology, UNIMAS
+Research Interest: Character Design
+c) Nur Atiqah Binti Zaini
+Position: Lecturer
+Phone: 084-367428
+Email: nuratiqah@uts.edu.my
+Qualifications:
+Master of Information Technology (Multimedia System) - Universiti Kebangsaan Malaysia, Bachelor of Science with Honours (Multimedia Technology) - Universiti Malaysia Sabah
+Research Interest: Human Computer Interaction, Game-Based Learning, Usability
+d) Jaibi Bin Sabian
+Position: Lecturer
+Phone: 084-367477
+Email: jaibi@uts.edu.my
+Qualifications: Master of Arts - UNIMAS
+Research Interest: Research interest: Visual in Animation, Graphic Design, Game Visual, 3D Software, Motion Capture, Artistic playability in game
+e) Hasrunnaim Bin Hasan
+Position: Lecturer
+Phone: 084-367423
+Email: hasrunnaim@uts.edu.my
+Qualifications: Master of Arts, UNIMAS
+Research Interest: New Media
+f) Nurnazifah Binti Manshor
+Position: Lecturer
+Email: nurnazifah@uts.edu.my
+Qualifications: Master of Arts in Information and Media Warfare Studies
+Research Interest: Artificial Intelligence, Cybersecurity, Graphic Design, Communication
+
+4. Bachelor of Mobile Game Development (Honours)
+a) Ts. Jackie Ting Tiew Wei
+Position: Head of Programme, Bachelor of Mobile Game Development(Honours)
+Phone: 084-367515
+Email: jackie@uts.edu.my
+Qualifications: Master of Engineering, University College of Technology Sarawak
+Research Interest: Computer Vision, 3D Imaging, Image Processing
+
+Affiliation: MBOT, ACS, IEEE
+
+5. Administrative Staff & Lab Technician
+a) Khairunnisa Binti Ramli
+Position: Executive
+Phone: 084-367547
+Email: khairunnisaramli@uts.edu.my
+b) Salmia Binti Anuar
+Position: Clerk
+Phone: 084-367548
+Email: salmia@uts.edu.my
+c) Muhammad Asraf Bin Zulkarnain
+Position: Senior Laboratory Technician
+Email: muhd.asraf@uts.edu.my
+
+6. School of Postgraduate Studies (SPS)
+For more information, please refer to https://sps.uts.edu.my/
+About Us:
+Postgraduate study is study to a level that is higher than a first degree.  The reasons for pursuing a postgraduate degree are diverse and usually driven by personal needs and desires. Improving employment and salary prospects is not the only reason to pursue further study. People also undertake postgraduate study to specialize after doing a more generalize undergraduate degree, to gain profession registration, and to increase their depth of knowledge and expertise in their chosen field – so they can go on to do high-level work that is simulating, challenging, and ultimately more rewarding.
+Programme Offered: 
+1. SCHOOL OF ENGINEERING & TECHNOLOGY
+•	Master of Engineering (Research Mode)
+•	Master of Science in Applied Sciences (Research Mode)
+•	Doctor of Philosophy (PhD) in Engineering (Research Mode)
+•	Doctor of Philosophy (PhD) in Applied Sciences (Research Mode)
+2. SCHOOL OF BUSINESS AND MANAGEMENT
+•	Master of Business Administration (Coursework Mode)
+•	Master of Project Management (Coursework Mode)
+•	Master of Science in Business Management (Research Mode)
+•	Doctor of Philosophy (PhD) in Business Management (Research Mode)
+3. SCHOOL OF COMPUTING & CREATIVE MEDIA
+•	Master in Computing (Research Mode)
+•	Doctor of Philosophy (PhD) in Computing (Research Mode)
+4. SCHOOL OF BUILT ENVIRONMENT
+•	Master of Architecture (Coursework Mode)
+•	Master of Construction Management (Coursework Mode)
+•	Master of Science in Construction Management (Research Mode)
+•	Master of Science in Architecture (Research Mode)
+•	Doctor of Philosophy (PhD) in Construction Management (Research Mode)
+•	Doctor of Philosophy (PhD) in Architecture (Research Mode)
+
+Staff:
+1. ASSOC PROF. DR. MOHD ZAINAL MUNSHID BIN HARUN
+Position: Dean, School of Postgraduate Studies
+Extension: 511
+Email: zainal@uts.edu.my
+Qualifications: Doctor of Business Admin (DBA) of University Utara Malaysia, Master of Business Admin of University Utara Malaysia, BA (Hons) Business Admin Commerce of De Montfort University, Higher National Diploma (Business and Finance of De Montfort University) 
+2. RICHELLE LIIK HUN
+Position: Senior Executive
+Extension: 509
+Email: liik.hun@uts.edu.my
+Qualifications: Bachelor of Social Sciences (Development Planning & Management)
+3. JULIA ANAK LAKO
+Position: Admin Assistant
+Email: julia@uts.edu.my
+Qualifications: Diploma in Business Studies
+4. AINUL YAQIEN BIN ABU BAKAR
+Position: Senior Clerk
+Extension: 562
+Email:  ainulyaqien@uts.edu.my
+Qualifications: Sijil Pelajaran Malaysia
+Contact information:
+Contact Number: +6084-367300 Ext 509/562
+Email: postgraduate@uts.edu.my
+Facebook: School of Postgraduate Studies
+Instagram: sps__uts
+Entry Qualification
+Note:  The entry qualifications listed are subject to change as approved by the Senate, Malaysian Qualification Agency (MQA) and Ministry of Higher Education.
+Foundation
+1. Foundation in Science	 
+i) Pass SPM / O-level equivalent with five (5) Grade C’s including Mathematics and one (1) Science subject (Physics or Chemistry);
+  or
+ii) Pass UEC with three (3) Grade B’s including Mathematics and one (1) Science subject (Physics or Chemistry)
+2. Foundation in Arts	 
+i) Pass SPM / O-level equivalent with five (5) Grade C’s;
+  or
+ii) Pass UEC with four (4) Grade B’s
+Undergraduate
+1. Bachelor of Civil Engineering (Hons) 2. Bachelor of Mechanical Engineering (Hons) 3. Bachelor of Electrical Engineering (Hons)
+i) Pass STPM / A-level with full pass in Mathematics and Physical Science;
+  or
+ii) Pass UEC with five (5) Grade B’s including Mathematics and Physical Science;
+  or
+iii) Pass Matriculation / Pre-U / Foundation in Science from recognised institutions with minimum CGPA 2.0;
+  or
+iv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;
+  or
+ v) Other equivalent qualifications recognised by the Malaysian Government
+4. Bachelor of Quantity Surveying (Hons) 	
+ i) Pass STPM minimum Grade C (2.00) in three (3) subjects;
+  or
+ii) Pass UEC with minimum Grade B in five (5) subjects including credits in Mathematics, Bahasa Malaysia AND English;
+  or
+iii) Pass Matriculation Programme with minimum CGPA of 2.50;
+  or
+iv) Pass Foundation Programme with minimum CGPA of 2.50 offered by HEP recognised by the Government of Malaysia, or equivalent;
+  or
+v) Pass A-Levels Programme with minimum Grade D in three (3) subjects including Mathematics;
+  or
+vi) Students with an accredited Diploma in QS must obtain a minimum CGPA of 2.67 to be eligible for advanced entry into a QS degree programme;
+  or
+vii) Matured students with relevant qualifications and experience, and students with a diploma in QS or related disciplines may be exempted from certain subjects and may be given advanced entry, the duration of which may be decided based on the previous programme attended, qualifications and grades achieved and / or the number of years of relevant experience held. These students are to be assessed on a case by case basis by the HEP in accordance with the latest BQSM requirements particularly Preambles of the List of Accredited Qualifications and Guidelines of Advanced Entry.
+
+**Important: Student having SPM qualification must possess a minimum of three (3) credits including Mathematics, Bahasa Malaysia OR English
+5. Bachelor of Science (Hons) in Architecture	
+i) Pass STPM / A-level with full pass in two (2) subjects and SPM / O-level credit in Mathematics;
+  or
+ii) Pass UEC with five (5) Grade B’s including Mathematics;
+  or
+iii) Pass Matriculation / Pre-U / Foundation from recognised institutions with minimum CGPA 2.0 and Pass SPM / O-level equivalent with a minimum of credit in Mathematics;
+  or
+iv) Pass Diploma in related fields from recognised institutions with minimum CGPA 2.0;
+  or
+v) Other equivalent qualifications recognised by the Malaysian Government;
+  and
+vi) SPM / O-level pass in Visual Arts / Pass UCTS Portfolio Assessment / Interview
+6. Bachelor of Business Administration (Hons)	 
+i) Pass STPM / A-level with full pass in two (2) subjects or CGPA 2.0;
+  or
+ii) Pass UEC with five (5) Grade B’s; 
+  or
+iii) Pass Matriculation / Pre-U / Foundation from recognised institutions with minimum CGPA 2.0;
+  or
+iv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;
+  or
+v) Other equivalent qualifications recognised by the Malaysian Government
+7. Bachelor of Business (Hons) in Marketing
+i) Pass STPM with minimum Grade C (GP 2.00) in any two (2) subjects, and a pass in Mathematics and English at SPM level or equivalent;
+  or
+ii) Pass STAM with a minimum Grade of Jayyid and a pass in Mathematics and English at SPM level;  
+  or
+iii) Any qualifications equivalent to Diploma or Advanced Diploma (MQF, Level 4 or 5);
+  or
+iv) Matriculation/Foundation qualification with a minimum CGPA of 2.00 out of 4.00;
+  or
+v) Pass UEC with five (5) Grade B’s;
+  or
+vi) Other equivalent qualifications recognised by the Malaysian Government
+8. Bachelor of Accountancy (Honours)	
+i) Pass STPM or equivalent with minimum Grade C+ (CGPA 2.33) in any two (2) subjects and credit in Mathematics and a pass in English at SPM level or equivalent;
+  or
+ii) Pass GCE A-level with minimum one (1) Grade B and two (2) Grade  C’s (including Matematics);
+  or
+iii) Pass UEC with five (5) Grade B’s including Mathematics and a pass in English;
+  or
+iv) Pass STAM with Jayyid, and credit in Mathematics and a pass in English at SPM level;
+v) Pass Matriculation / Pre-U / Foundation from recognised institutions with minimum CGPA 2.50 and credit in Mathematics and a pass in English at SPM level or equivalent;
+  or
+vi) Pass Diploma in Accounting or related field from recognised institutions with minimum CGPA 2.50, and credit in Mathematics and a pass in English at SPM level or equivalent;
+  or
+vii) Obtained at least Band 2 at the Malaysian University English Test (MUET); 
+  or
+viii) Other equivalent qualifications recognised by the Malaysian Government
+9. Bachelor of Technology Management (Honours)
+i)A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a full pass in any TWO subjects of CGPA 2.00, and a pass in Mathematics and English at SPM level;
+or
+ii) A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum Grade of Jayyid and a pass in Mathematics and English at SPM level;
+or
+iii) Matriculation or Foundation qualification with a minimum CGPA of 2.00 out of 4.00;
+or
+iv)A Diploma [Level 4, Malaysian Qualifications Framework, (MQF)] with at least CGPA of 2.00;
+or
+v) An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00;
+or
+vi) A pass in Unified Examination Certificate (UEC) with a minimum Grade B in five subjects;
+or
+vii) Pass Diploma Vokasional Malaysia (DVM), Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) as according to the Pekeliling of Ministry of Higher Education dated 21st April 2020 with a minimum CGPA of 2.5 subject to UTS Senate approval;
+or
+ViiI) Pass DKM / DLKM / DVM with a minimum CGPA of 2.00 AND have at least 2 years of work experience in a related field.
+10. Bachelor of Food Technology (Hons)	
+i) Pass STPM / A-level with credits in Mathematics and Science at SPM level;
+  or
+ii) Pass UEC with five (5) Grade B’s;
+  or
+iii) Pass Matriculation / Pre-U / Foundation in Science from recognised institutions with minimum CGPA 2.0;
+  or
+iv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;
+  or
+v) Other equivalent qualifications recognised by the Malaysian Government
+11. Bachelor of Computer Science (Hons) 	
+i) A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00;
+AND a credit in:
+Additional Mathematics at SPM level or its equivalent; OR
+Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.
+Note: Students from Matriculation / Foundation or its equivalent can be exempted from taking the Reinforcement Mathematics, provided that the Mathematics offered at that programme level is equivalent / more than the Additional Mathematics offered at an SPM level.
+OR;
+ii) A pass in STPM (Art Stream) with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects;
+AND a credit in:
+Additional Mathematics at SPM level or its equivalent; OR
+Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.
+OR;
+iii) A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects;
+AND a credit in:
+Additional Mathematics at SPM level or its equivalent; OR
+Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.
+OR;
+ iv) Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75. Candidates with a CGPA below 2.75 but more than 2.50 can be admitted subject to a thorough rigorous assessment;
+AND a credit in:
+Additional Mathematics at SPM level or its equivalent; OR
+Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.
+OR;
+v) Pass UEC with a minimum Grade B in 5 subjects including a Mathematics subject that is equivalent to the Additional Mathematics at SPM level
+OR;
+vi) A pass in STPM (Science Stream) or its equivalent with a minimum grade of C (CGPA 2.00) in Mathematics subject and ONE (1) Science / ICT subject
+OR;
+vii) Diploma in Computing fields (Level 4, MQF) or its equivalent with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but more than 2.0 may be admitted subject to thorough internal evaluation process
+OR;
+viii) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval
+OR;
+ix) Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval
+OR;
+x) Other relevant and equivalent qualifications recognised by the Malaysia Government. (Candidates can be admitted if their admission qualification contains Mathematics subject(s) equivalent to Additional Mathematics at the SPM level. If it is not equivalent, reinforcement Mathematics subject that equivalent to the SPM level must be offered in the first semester or before enrolment with unconditional offer).
+12. Bachelor of Arts in Industrial Design (Honours)	 
+i) Pass STPM or equivalent, with a minimum Subject Grade Value(NGMP) 2.00 and credit in Bahasa Malaysia subject and pass English Language subject at SPM level;
+or
+ii) Pass Unified Examination Certificate (UEC) with minimum Grade B in five (5) subjects;
+or
+iii) Pass Diploma (KKM, Level 4) from recognized institution or equivalent with a minimum CGPA 2.00;
+or
+iv) Pass Matriculation/Foundation from recognized institution or equivalent with minimum CGPA 2.00;
+or
+v) Pass Diploma Vocational Malaysia (DVM) (from any relevant Art and Design Programmes such as but not limited to: Fine Arts, Graphic Design, Animation, Creative Media, Product Design, Fashion Design, Furniture Design, Interior Design, Automotive Design, Traditional Arts and Crafts Design, any other Art and Design Fields) equivalent to credits in any 3 subjects SPM level; pass with credit in Bahasa Melayu 1104; minimum academic CGPA of 2.00; minimum vocational CGPA of 2.67; competence in all vocational modules; SVM cohort 2012-2016 pass History at SPM level;
+or
+vi) Other equivalent qualifications subject to approval by university’s senate and recognised by Malaysian Government. AND
+vii)Pass UCTS Interview and Portfolio Assessment.
+13. Bachelor of Arts (Hons) in Creative Digital Media	
+Pass STPM or equivalent with at least a Grade C (NGMP 2.0) in 2 subjects;  OR
+Pass STAM (Jayyid); OR
+Pass UEC with at least a B grade in 5 subjects;  OR
+Pass Matriculation / Foundation / Foundation from any IPTA / IPTS / Institution that is allowed to offer foundation program with CGPA of 2.00;  OR
+Creative Multimedia Diploma with a minimum CGPA of 2.5 (candidates with CGPA below 2.50 but above 2.00 may be subject to internal evaluation process);  OR
+Other equivalent qualifications subject to approval by university’s senate and recognised by Malaysian Government.
+Postgraduate
+1. Master of Architecture
+i) A Bachelor’s degree in Architecture from LAM accredited programme with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate; AND; 
+ii) Demonstrate good Architectural Design through interview and portfolio assessment; AND
+iii) Minimum of six (6) months of working experience in related field.
+  or
+i) A Bachelor’s degree in Architecture from LAM accredited programme with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate; AND
+ii) Demonstrate good Architectural Design through interview and portfolio assessment; AND
+iii) Minimum of three (3) years of working experience in related field.
+– Fulfill  English Language Requirements (for International Students only)
+2. Master of Business Administration (MBA)	
+i) A Bachelor’s degree with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate; 
+  or
+ii) A Bachelor’s Degree below a CGPA of 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to a minimum of five (5) years working experiences in related fields.;
+  or
+iii) Through APEL as approved by the Ministry of Education (MOE)
+Applicant must be/have:
+a Malaysian citizen; and
+at least 30 years of age in the year of application; and
+at least STPM/Diploma/equivalent qualifications; and
+relevant work experience (subject to appropriate APEL assessment conducted by MQA).
+– Fulfill  English Language Requirements (for International Students only)
+3. Master of Project Management
+  i) A Bachelor’s degree with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate; 
+  or
+ ii) A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate, subject to a minimum of five (5) years of working experience;;
+  or
+iii) For entry requirement through APEL, applicants must be/have:
+a Malaysian citizen; and
+at least 30 years of age in the year of application; and
+at least STPM/Diploma/equivalent qualifications; and
+relevant work experience (subject to appropriate APEL assessment conducted by MQA).
+– Fulfill  English Language Requirements (for International Students only)
+4. Master of Science in Business Management	
+  i) A Bachelor’s degree in business related field with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate;
+  or
+ ii) A Bachelor’s degree not meeting CGPA of 2.75 but above the CGPA of 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to internal assessment;
+  or
+iii) A Bachelor’s degree below a CGPA of 2.50 out of 4.00, or its equivalent qualifications may be accepted, subject to a minimum of five (5) years of working experience.
+– Fulfill  English Language Requirements (for International Students only)
+5. Master of Engineering	
+  i) A Bachelor’s degree in Engineering / Engineering Technology with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate;
+  or
+ ii) A Bachelor’s degree in Engineering / Engineering Technology not meeting CGPA of 2.75 but above CGPA of 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to internal assessment;
+  or
+iii) A Bachelor’s degree in Engineering / Engineering Technology with CGPA below 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to a minimum of five (5) years working experience in relevant field;
+– Fulfill  English Language Requirements (for International Students only)
+6. Master of Science in Applied Sciences	
+  i)A Bachelor’s degree with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate; ;
+  or
+ ii) A Bachelor’s degree not meeting CGPA of 2.75 but above CGPA of 2.50 out of 4.00 or its equivalent qualifications can be accepted, subject to rigorous internal assessment;
+  or
+iii) A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to a minimum of five (5) years working experience in relevant field;
+  or
+iv) Other equivalent qualifications recognised by Malaysian Government.
+– Fulfill  English Language Requirements (for International Students only)
+7. Doctor of Philosophy (PhD) in Engineering	
+  i) Applicants for the Doctor of Philosophy (PhD) programme must possess
+Recognized Master’s degree in Engineering or its equivalent; or
+Other qualifications equivalent to a Master’s degree that are accepted by the University Senate.
+  or
+ ii) Candidates currently pursuing the Master’s programme by research in the University, and who are recommended by the Postgraduate Committee to upgrade their status to a Doctoral programme can also be considered, subject to the University Senate’s approval.
+* Note:
+There shall be no direct entry from Bachelor’s degree level to Doctoral degree level.
+Candidates registered for Master’s degree programmes with at least CGPA 3.67 at Bachelor’s degree level may apply to convert their candidacy to the Doctoral degree programmes subject to:
+a. Having shown competency and capability in conducting research at Doctoral degree level
+b. Approval by the University Senate.
+– Fulfill  English Language Requirements (for International Students only)
+8. Doctor of Philosophy (PhD) in Applied Sciences	
+i) Applicants for the Doctor of Philosophy (PhD) programme must possess:
+A Master’s degree accepted by the University Senate; OR
+Other qualifications equivalent to a Master’s degree that are accepted by the University Senate.
+– Fulfill  English Language Requirements (for International Students only)
+9. Doctor of Philosophy (PhD) in Business Management	
+i) Applicants for the Doctor of Philosophy (PhD) programme must possess:
+Master’s degree (Level 7 MQF) in a business or related field accepted by the University Senate; OR
+Other qualifications equivalent to a Master’s degree (Level 7 MQF) as accepted by University Senate.
+ii) Candidates currently pursuing the Master’s programme by research in the University and who are recommended by the Postgraduate Committee to upgrade their status to a Doctoral programme can also be considered, subject to the University Senate’s approval.
+* Note:
+There shall be no direct entry from Bachelor’s degree level to Doctoral degree level.
+Candidates with Bachelor’s degree qualification, registered for Master’s degree by Research programmes may apply to convert their candidacy to Doctoral degree programmes.
+Application of conversion must be done within one (1) year after candidate has registered for Master’s degree programmes.
+Candidates registered for Master’s degree programmes with at least CGPA 3.67 at Bachelor’s degree level may apply to convert their candidacy to the doctoral degree programmes subject to:
+a. Having shown competency and capability in conducting research at Doctoral degree level
+b. Approval by the University Senate.
+– Fulfill  English Language Requirements (for International Students only)
+Tuition fees: the current fee schedule is in the UTS website snapshot (https://www.uts.edu.my/tuitionfees).
+Transfer Degree Programme
+What is Transfer Degree Programme?
+It is basically an inter-university arrangement whereby two or more universities agree to recognize part of the courses so that when the students proceed to transfer to the partner university they do not have to repeat the courses. They can get those credits recognized and transferred so that they can complete their study with a degree from our partner universities.
+Partner universities
+•	University of Essex, the United Kingdom
+•	University of Canterbury, New Zealand
+•	Murdoch University, Australia
+•	University of Birmingham, the United Kingdom
+For more information, click on this link https://uts.edu.my/wp-content/uploads/2021/01/TDP.pdf to download Transfer Degree Programme flyer.
+Registration Documents
+You may download the registration documents on this link https://www.uts.edu.my/registration-documents/
+Most Frequent Questions and Answers
+1. Is UTS a public or private university?
+- UTS is a private university registered with the Ministry of Higher Education under the IPTS Act 555.
+2. Who is the owner of UTS?
+- UTS is fully owned by the Sarawak State Government through the State Financial Secretary Incorporated.
+3. Are UTS’ programmes recognised?
+- All UTS’ programmes are accredited by the Malaysian Qualification Agency (MQA) and approved by the Ministry of Higher Education Malaysia.
+4. I am a Diploma holder. Will I be granted credit transfer from my previous study?
+- Candidates with a related / relevant and recognised Diploma qualification can apply for credit transfer up to 30% of the degree programme’s total credits.  Credit transfer can be given for subject where candidates have obtained Grade C, have about 80% syllabus similarity and have same credit value.
+5. What are the entry requirements for Diploma Vokasional Malaysia (DVM)?
+i) Purata Nilai Gred Kumulatif Akademik (PNGKA) – minimum 2.0
+ii) Purata Nilai Gred Kumulatif Vokasional (PNGKV) – minimum 2.67
+iii) Kepujian Bahasa Melayu 1104
+iv) Kompeten semua modul Vokasional
+v) Lulus Sejarah SPM
+6. Does UTS offer part-time programmes?
+- Currently UTS only offers the MBA Programme which is delivered during weekends/evenings (part-time mode).  Master and PhD programmes by research mode can also be undertaken on part-time basis.
+7. When am I supposed to pay for the tuition fees?
+- Tuition fees are payable at the point of semester registration and based on the number of credits taken for the semester.
+8. Can the tuition fees be paid by instalment?
+- Yes, tuition fees can be paid by instalment but subject to conditions.
+9. Do I have to pay for any registration fees?
+- Yes, there are two categories of registration fees as follows:
+(a) One-off Registration Fees (payable once during first registration). The amount is RM 350 to cover for orientation and security deposit amount of RM250. The deposit is refundable when a student leaves the university but subject to terms and conditions.
+
+(b) Recurring Registration Fees. The recurring fees are payable for every semester amounting to RM 150 to cover for student insurance and resources.
+The total registration fees payable for Category (a) is thus RM 350 + RM 150 = RM 500.
+The total registration fees payable for Category (b) and following semesters is RM 150.
+The above-mentioned amount is subject to review/change.
+10. Does UTS still offer rebate on tuition fees for 2017 onwards intake?
+- Effective January 2017, there is no more tuition fees rebate for new intakes.
+11. I want to apply for PTPTN. Will the University assist me in the application?
+- Yes, our Student Development & Services Centre (SDSC) will assist students to apply for PTPTN loan.
+12. Does UTS have university accommodation for students and what is the cost?
+- Yes, UTS has university accommodation for registered students but priorities shall be given to outstation students.
+

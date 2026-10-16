@@ -1,0 +1,20 @@
+# Ignore environment variables
+.env
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE specific folders if any
+.vscode/
+.idea/
+
+# Downloaded local embedding models
+.models/
+
+# Local tool settings (Claude Code, design checker)
+.claude/
+.impeccable/
+
+# Logs
+*.log

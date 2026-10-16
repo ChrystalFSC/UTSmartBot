@@ -1,0 +1,13 @@
+.env
+.git
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.claude/
+.impeccable/
+.models/
+knowledge_archive/
+tests/
+evals/
+*.log

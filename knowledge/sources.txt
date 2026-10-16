@@ -1,0 +1,60 @@
+# UTS web pages saved into knowledge/uts_website/ by `python -m rag.fetch` (one URL per line).
+# After fetching, run `python -m campus.extract` (fees, programmes, management) and
+# `python -m rag.ingest` (search index).
+#
+# Pages on www.uts.edu.my. tuitionfees and management are also read by campus/extract.py
+# for the fee estimator and staff lookup, so keep them in this list.
+https://www.uts.edu.my/tuitionfees
+https://www.uts.edu.my/management
+https://www.uts.edu.my/programmes
+https://www.uts.edu.my/undergraduate
+https://www.uts.edu.my/foundation_in_science
+https://www.uts.edu.my/foundation_in_art
+https://www.uts.edu.my/admissions
+https://www.uts.edu.my/entryqualification
+https://www.uts.edu.my/transferdegree
+https://www.uts.edu.my/regdocument
+https://www.uts.edu.my/aboutuniversity
+https://www.uts.edu.my/office
+https://www.uts.edu.my/campusfacilities
+https://www.uts.edu.my/academiccalendar
+
+# Academic calendars (PDF, linked from the academic calendar page)
+https://www.uts.edu.my/img/academic-calendar/undergraduate_session_1_20260702084935_jw0k6a8mln.pdf
+https://www.uts.edu.my/img/academic-calendar/undergraduate_session_2_20260702084935_kgdntthvf0.pdf
+https://www.uts.edu.my/img/academic-calendar/undergraduate_session_3_20260702084935_kvj1hnv8sm.pdf
+https://www.uts.edu.my/img/academic-calendar/undergraduate_session_4_20260703064449_fxvypjp0ef.pdf
+https://www.uts.edu.my/img/academic-calendar/foundation_session_1_20260702084935_di1dh4mo2u.pdf
+https://www.uts.edu.my/img/academic-calendar/foundation_session_2_20260702084935_wzvvmna6py.pdf
+https://www.uts.edu.my/img/academic-calendar/foundation_session_3_20260702084935_5y1xwbswwk.pdf
+https://www.uts.edu.my/img/academic-calendar/foundation_session_4_20260702084935_uzwiumygud.pdf
+
+# Staff pages on the school and department sites (their robots.txt allow crawling).
+# campus/extract.py reads these for the staff lookup, as the current staff lists.
+https://scm.uts.edu.my/team
+https://set.uts.edu.my/management-team/
+https://set.uts.edu.my/administrative-team/
+https://set.uts.edu.my/bme-academic-staffs/
+https://set.uts.edu.my/bce-academic-staffs/
+https://set.uts.edu.my/bep-academic-staffs/
+https://set.uts.edu.my/bft-academic-staffs/
+https://set.uts.edu.my/bsh-academic-staff/
+https://set.uts.edu.my/bmt-academic-staff/
+https://sbm.uts.edu.my/dean/
+https://sbm.uts.edu.my/staff/
+https://sbm.uts.edu.my/our-academic-staff/
+https://sbm.uts.edu.my/administrative-staff/
+https://sbe.uts.edu.my/sbe_management-staff/
+https://sbe.uts.edu.my/sbe_id-staff/
+https://sbe.uts.edu.my/sbe_property-amp-construction-staff/
+https://sfs.uts.edu.my/people/
+https://sfs.uts.edu.my/management-staff/
+https://sfs.uts.edu.my/academic-staff/
+https://sfs.uts.edu.my/staff/
+https://sps.uts.edu.my/our-staff/
+https://sdsc.uts.edu.my/staff/
+https://sdsc.uts.edu.my/contact-us-hostel/
+https://sdsc.uts.edu.my/financial-aids-welfare-contact-us/
+https://cir.uts.edu.my/staff-profile/
+https://itd.uts.edu.my/contact/
+https://arc.uts.edu.my/contact-us-try-2/

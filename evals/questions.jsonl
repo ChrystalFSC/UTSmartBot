@@ -1,0 +1,49 @@
+{"id": "vc", "question": "Who is the Vice Chancellor of UTS?", "expect": ["Shahril"]}
+{"id": "dvc", "question": "Who is the Deputy Vice Chancellor of UTS?", "expect": ["Zainal"]}
+{"id": "dean-business", "question": "Who is the Dean of the School of Business and Management?", "expect": ["Rahmat"]}
+{"id": "bursar", "question": "Who is the Bursar of UTS?", "expect": ["Rabuan"]}
+{"id": "dean-computing", "question": "Who is the Dean of the School of Computing & Creative Media?", "expect": ["Alan Ting"]}
+{"id": "alan-email", "question": "What is the email of Dr. Alan Ting?", "expect": ["alan.ting@uts.edu.my"]}
+{"id": "cqa-director", "question": "Who is the director of the Centre for Quality Assurance?", "expect": ["Sim Siew Ling"]}
+{"id": "bcs-fee", "question": "How much is the tuition fee for BCS?", "expect": ["36,708"]}
+{"id": "bcs-west-malaysia", "question": "What does a student from West Malaysia or Sabah pay in total for BCS?", "expect": ["36,708"]}
+{"id": "bcs-international", "question": "How much per year does an international student pay for the Bachelor of Computer Science?", "expect": ["19,743"]}
+{"id": "game-fee", "question": "How much is the tuition fee for the Bachelor of Mobile Game Development?", "expect": ["65,210"]}
+{"id": "interior-fee", "question": "What is the regular total fee for the Bachelor of Arts (Hons) in Interior Design?", "expect": ["64,870"]}
+{"id": "industrial-sabah", "question": "What is the total Industrial Design fee for a student from Sabah?", "expect": ["39,697"]}
+{"id": "registration-fee", "question": "How much is the one-off registration fee?", "expect": ["350"]}
+{"id": "recurring-fee", "question": "How much is the recurring registration fee each semester?", "expect": ["150"]}
+{"id": "security-deposit", "question": "How much is the security deposit and is it refundable?", "expect": ["250"]}
+{"id": "study-resources", "question": "How much is the study resources fee per semester?", "expect": ["100"]}
+{"id": "room-card", "question": "How much does it cost to replace a hostel room card?", "expect": ["50"]}
+{"id": "cleaning-fee", "question": "What is the cleaning fee if my hostel room is dirty when I move out?", "expect": ["30"]}
+{"id": "unicity-location", "question": "Where is the Unicity Hostel located?", "expect": ["Jalan Wawasan"]}
+{"id": "unicity-capacity", "question": "How many students can the Unicity Hostel accommodate?", "expect": ["460"]}
+{"id": "shoplot-capacity", "question": "How many students can stay at the Unicity Shoplot?", "expect": ["192"]}
+{"id": "library-name", "question": "What is the library at UTS called now?", "expect": ["Academic Resource"]}
+{"id": "library-computers", "question": "How many computers are available in the library?", "expect": ["100"]}
+{"id": "address", "question": "What is the address of UTS?", "expect": ["Jalan Universiti"]}
+{"id": "timetable", "question": "Where can I check my class timetable?", "expect": ["timetableplus"]}
+{"id": "staff-directory", "question": "Is there a staff directory website?", "expect": ["directory.uts.edu.my"]}
+{"id": "business-programmes", "question": "Which degrees does the School of Business and Management offer?", "expect": ["Accountancy"]}
+{"id": "foundation", "question": "What foundation programmes are available?", "expect": ["Foundation in Science"]}
+{"id": "phd", "question": "Does UTS offer PhD programmes?", "expect": ["Computing"]}
+{"id": "cepd-established", "question": "When was the CePD established?", "expect": ["2016"]}
+{"id": "malay-fee", "question": "Berapakah yuran pengajian untuk Bachelor of Computer Science?", "expect": ["36,708"]}
+{"id": "follow-up", "question": "How much are the fees for it?", "history": [{"role": "user", "text": "Tell me about the Bachelor of Mobile Game Development."}, {"role": "model", "text": "The Bachelor of Mobile Game Development (Hons) is a 3.5-year degree at UTS."}], "expect": ["65,210"]}
+{"id": "unknown-wifi-password", "question": "What is the WiFi password for the library?", "expect_unsure": true}
+{"id": "unknown-football", "question": "How many matches did the UTS football team win this season?", "expect_unsure": true}
+{"id": "unknown-parking", "question": "How many parking spaces are there on campus?", "expect_unsure": true}
+{"id": "tool-total-sabah", "question": "How much will the Bachelor of Computer Science cost in total for a student from Sabah, including registration fees?", "expect": ["38,108"], "expect_tool": "estimate_fees"}
+{"id": "tool-intl-total", "question": "I'm an international student. What is the total tuition for the Bachelor of Mobile Game Development?", "expect": ["84,735"], "expect_tool": "estimate_fees"}
+{"id": "tool-master-part-time", "question": "How much is the Master of Engineering if I study part-time?", "expect": ["14,750"], "expect_tool": "estimate_fees"}
+{"id": "tool-it-phone", "question": "What is the phone number of the IT manager?", "expect": ["084-367348"], "expect_tool": "lookup_staff"}
+{"id": "tool-interest", "question": "I'm interested in computers and games. Which degree programmes should I look at?", "expect": ["Computer Science", "Mobile Game"], "expect_tool": "find_programmes"}
+{"id": "tool-budget", "question": "Which undergraduate programmes cost less than RM11,000 per year for a student from West Malaysia?", "expect": ["Computer Science"], "expect_tool": "find_programmes"}
+{"id": "uec-eligibility", "question": "I have a UEC certificate. Can I apply for the Bachelor of Computer Science?", "expect": ["UEC", "Grade B"]}
+{"id": "ftes", "question": "What is FTES?", "expect": ["Free Tertiary Education"]}
+{"id": "all-courses", "question": "What courses does UTS offer?", "expect": ["Computer Science", "Mobile Game", "Civil Engineering", "Master of Business Administration"], "expect_tool": "find_programmes"}
+{"id": "tool-ftes-free", "question": "I'm from Sarawak. How much is the tuition for the Bachelor of Computer Science?", "expect": ["FTES"], "expect_tool": "estimate_fees"}
+{"id": "tool-bba-sarawak", "question": "How much is the Bachelor of Business Administration for a Sarawakian?", "expect": ["24,325"], "expect_tool": "estimate_fees"}
+{"id": "marine", "question": "Does UTS offer a marine engineering degree?", "expect": ["Marine Engineering Technology"]}
+{"id": "calendar-exams", "question": "When are the final examinations for the September 2026 semester for undergraduates?", "expect": [["25.01.2027", "25 January 2027", "25 Jan 2027", "25/01/2027"]]}

@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Foundation in Science",
+    "code": "FIS",
+    "level": "foundation",
+    "school": "School of Foundation Studies",
+    "mode": null,
+    "duration_years": 1.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "per_year": 10000
+      },
+      "international": {
+        "per_year": 13000
+      }
+    },
+    "entry_requirements": "i) Pass SPM / O-level equivalent with five (5) Grade C’s including Mathematics and one (1) Science subject (Physics or Chemistry);\nor\nii) Pass UEC with three (3) Grade B’s including Mathematics and one (1) Science subject (Physics or Chemistry)"
+  },
+  {
+    "name": "Foundation in Arts",
+    "code": "FIA",
+    "level": "foundation",
+    "school": "School of Foundation Studies",
+    "mode": null,
+    "duration_years": 1.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "per_year": 10000
+      },
+      "international": {
+        "per_year": 13000
+      }
+    },
+    "entry_requirements": "i) Pass SPM / O-level equivalent with five (5) Grade C’s;\nor\nii) Pass UEC with four (4) Grade B’s"
+  },
+  {
+    "name": "Bachelor of Civil Engineering (Hons)",
+    "code": "BCE",
+    "level": "undergraduate",
+    "school": "School of Engineering and Technology",
+    "mode": null,
+    "duration_years": 4.0,
+    "credits": 135,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 72395,
+        "per_year": 18099
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 50677,
+        "per_year": 12669,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 22830
+      }
+    },
+    "entry_requirements": "i) Pass STPM / A-level with full pass in Mathematics and Physical Science;\nor\nii) Pass UEC with five (5) Grade B’s including Mathematics and Physical Science;\nor\niii) Pass Matriculation / Pre-U / Foundation in Science from recognised institutions with minimum CGPA 2.0;\nor\niv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;\nor\nv) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Bachelor of Mechanical Engineering (Hons)",
+    "code": "BME",
+    "level": "undergraduate",
+    "school": "School of Engineering and Technology",
+    "mode": null,
+    "duration_years": 4.0,
+    "credits": 135,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 72015,
+        "per_year": 18004
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 50441,
+        "per_year": 12603,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 22455
+      }
+    },
+    "entry_requirements": "i) Pass STPM / A-level with full pass in Mathematics and Physical Science;\nor\nii) Pass UEC with five (5) Grade B’s including Mathematics and Physical Science;\nor\niii) Pass Matriculation / Pre-U / Foundation in Science from recognised institutions with minimum CGPA 2.0;\nor\niv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;\nor\nv) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Bachelor of Electrical Engineering (Honours)",
+    "code": "BEP",
+    "level": "undergraduate",
+    "school": "School of Engineering and Technology",
+    "mode": null,
+    "duration_years": 4.0,
+    "credits": 136,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 72585,
+        "per_year": 18146
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 50810,
+        "per_year": 12702,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 23045
+      }
+    },
+    "entry_requirements": "i) Pass STPM / A-level with full pass in Mathematics and Physical Science;\nor\nii) Pass UEC with five (5) Grade B’s including Mathematics and Physical Science;\nor\niii) Pass Matriculation / Pre-U / Foundation in Science from recognised institutions with minimum CGPA 2.0;\nor\niv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;\nor\nv) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Bachelor of Food Technology (Hons)",
+    "code": "BFT",
+    "level": "undergraduate",
+    "school": "School of Engineering and Technology",
+    "mode": null,
+    "duration_years": 4.0,
+    "credits": 129,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 60750,
+        "per_year": 15188
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 42525,
+        "per_year": 10631,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 19830
+      }
+    },
+    "entry_requirements": "i) Pass STPM / A-level with credits in Mathematics and Science at SPM level;\nor\nii) Pass UEC with five (5) Grade B’s;\nor\niii) Pass Matriculation / Pre-U / Foundation in Science from recognised institutions with minimum CGPA 2.0;\nor\niv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;\nor\nv) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Bachelor of Science in Occupational Safety and Health (Honours)",
+    "code": "BSH",
+    "level": "undergraduate",
+    "school": "School of Engineering and Technology",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 120,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 57840,
+        "per_year": 19280
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 40488,
+        "per_year": 13496,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 25064
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Bachelor of Marine Engineering Technology (Honours)",
+    "code": null,
+    "level": "undergraduate",
+    "school": "School of Engineering and Technology",
+    "mode": null,
+    "duration_years": 4.0,
+    "credits": 140,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 69100,
+        "per_year": 17275
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 48370,
+        "per_year": 12093,
+        "scheme": "30% UTS Bursary Scheme"
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Bachelor of Accountancy (Honours)",
+    "code": "BAC",
+    "level": "undergraduate",
+    "school": "School of Business and Management",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 126,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 46430,
+        "per_year": 15477
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 32501,
+        "per_year": 10834,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 19980
+      }
+    },
+    "entry_requirements": "i) Pass STPM or equivalent with minimum Grade C+ (CGPA 2.33) in any two (2) subjects and credit in Mathematics and a pass in English at SPM level or equivalent;\nor\nii) Pass GCE A-level with minimum one (1) Grade B and two (2) Grade  C’s (including Matematics);\nor\niii) Pass UEC with five (5) Grade B’s including Mathematics and a pass in English;\nor\niv) Pass STAM with Jayyid, and credit in Mathematics and a pass in English at SPM level;\nv) Pass Matriculation / Pre-U / Foundation from recognised institutions with minimum CGPA 2.50 and credit in Mathematics and a pass in English at SPM level or equivalent;\nor\nvi) Pass Diploma in Accounting or related field from recognised institutions with minimum CGPA 2.50, and credit in Mathematics and a pass in English at SPM level or equivalent;\nor\nvii) Obtained at least Band 2 at the Malaysian University English Test (MUET);\nor\nviii) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Bachelor of Technology Management (Honours)",
+    "code": "BTM",
+    "level": "undergraduate",
+    "school": "School of Business and Management",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 121,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 48790,
+        "per_year": 16263
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 34153,
+        "per_year": 11384,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 21160
+      }
+    },
+    "entry_requirements": "i)A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a full pass in any TWO subjects of CGPA 2.00, and a pass in Mathematics and English at SPM level;\nor\nii) A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum Grade of Jayyid and a pass in Mathematics and English at SPM level;\nor\niii) Matriculation or Foundation qualification with a minimum CGPA of 2.00 out of 4.00;\nor\niv)A Diploma [Level 4, Malaysian Qualifications Framework, (MQF)] with at least CGPA of 2.00;\nor\nv) An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00;\nor\nvi) A pass in Unified Examination Certificate (UEC) with a minimum Grade B in five subjects;\nor\nvii) Pass Diploma Vokasional Malaysia (DVM), Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) as according to the Pekeliling of Ministry of Higher Education dated 21st April 2020 with a minimum CGPA of 2.5 subject to UTS Senate approval;\nor\nViiI) Pass DKM / DLKM / DVM with a minimum CGPA of 2.00 AND have at least 2 years of work experience in a related field."
+  },
+  {
+    "name": "Bachelor of Quantity Surveying (Hons)",
+    "code": "BQS",
+    "level": "undergraduate",
+    "school": "School of Built Environment",
+    "mode": null,
+    "duration_years": 3.5,
+    "credits": 128,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 54210,
+        "per_year": 15489
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 37947,
+        "per_year": 10842,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 20114
+      }
+    },
+    "entry_requirements": "i) Pass STPM minimum Grade C (2.00) in three (3) subjects;\nor\nii) Pass UEC with minimum Grade B in five (5) subjects including credits in Mathematics, Bahasa Malaysia AND English;\nor\niii) Pass Matriculation Programme with minimum CGPA of 2.50;\nor\niv) Pass Foundation Programme with minimum CGPA of 2.50 offered by HEP recognised by the Government of Malaysia, or equivalent;\nor\nv) Pass A-Levels Programme with minimum Grade D in three (3) subjects including Mathematics;\nor\nvi) Students with an accredited Diploma in QS must obtain a minimum CGPA of 2.67 to be eligible for advanced entry into a QS degree programme;\nor\nvii) Matured students with relevant qualifications and experience, and students with a diploma in QS or related disciplines may be exempted from certain subjects and may be given advanced entry, the duration of which may be decided based on the previous programme attended, qualifications and grades achieved and / or the number of years of relevant experience held. These students are to be assessed on a case by case basis by the HEP in accordance with the latest BQSM requirements particularly Preambles of the List of Accredited Qualifications and Guidelines of Advanced Entry.\n**Important: Student having SPM qualification must possess a minimum of three (3) credits including Mathematics, Bahasa Malaysia OR English"
+  },
+  {
+    "name": "Bachelor of Science (Hons) in Architecture",
+    "code": "BSA",
+    "level": "undergraduate",
+    "school": "School of Built Environment",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 120,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 66910,
+        "per_year": 22303
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 46837,
+        "per_year": 15612,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 28220
+      }
+    },
+    "entry_requirements": "i) Pass STPM / A-level with full pass in two (2) subjects and SPM / O-level credit in Mathematics;\nor\nii) Pass UEC with five (5) Grade B’s including Mathematics;\nor\niii) Pass Matriculation / Pre-U / Foundation from recognised institutions with minimum CGPA 2.0 and Pass SPM / O-level equivalent with a minimum of credit in Mathematics;\nor\niv) Pass Diploma in related fields from recognised institutions with minimum CGPA 2.0;\nor\nv) Other equivalent qualifications recognised by the Malaysian Government;\nand\nvi) SPM / O-level pass in Visual Arts / Pass UCTS Portfolio Assessment / Interview"
+  },
+  {
+    "name": "Bachelor of Arts (Honours) Interior Design",
+    "code": "BAI",
+    "level": "undergraduate",
+    "school": "School of Built Environment",
+    "mode": null,
+    "duration_years": 3.5,
+    "credits": 120,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 64870,
+        "per_year": 18534
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 45409,
+        "per_year": 12974,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 24563
+      }
+    },
+    "entry_requirements": "i) Pass STPM or equivalent, with a minimum Subject Grade Value(NGMP) 2.00 and credit in Bahasa Malaysia subject and pass English Language subject at SPM level;\nor\nii) Pass Unified Examination Certificate (UEC) with minimum Grade B in five (5) subjects;\nor\niii) Pass Diploma (KKM, Level 4) from recognized institution or equivalent with a minimum CGPA 2.00;\nor\niv) Pass Matriculation/Foundation from recognized institution or equivalent with minimum CGPA 2.00;\nor\nv) Pass Diploma Vocational Malaysia (DVM) (from any relevant Art and Design Programmes such as but not limited to: Fine Arts, Graphic Design, Animation, Creative Media, Product Design, Fashion Design, Furniture Design, Interior Design, Automotive Design, Traditional Arts and Crafts Design, any other Art and Design Fields) equivalent to credits in any 3 subjects SPM level; pass with credit in Bahasa Melayu 1104; minimum academic CGPA of 2.00; minimum vocational CGPA of 2.67; competence in all vocational modules; SVM cohort 2012-2016 pass History at SPM level;\nor\nvi) Other equivalent qualifications subject to approval by university’s senate and recognised by Malaysian Government. AND\nvii)Pass UCTS Interview and Portfolio Assessment."
+  },
+  {
+    "name": "Bachelor of Science (Honours) in Property & Construction Management",
+    "code": "BSP",
+    "level": "undergraduate",
+    "school": "School of Built Environment",
+    "mode": null,
+    "duration_years": 3.5,
+    "credits": 122,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 52620,
+        "per_year": 15035
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 36834,
+        "per_year": 10524,
+        "scheme": "30% UTS Bursary Scheme"
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Bachelor of Computer Science (Hons)",
+    "code": "BCS",
+    "level": "undergraduate",
+    "school": "School of Computing & Creative Media",
+    "mode": null,
+    "duration_years": 3.5,
+    "credits": 126,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 52440,
+        "per_year": 14983
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 36708,
+        "per_year": 10488,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 19743
+      }
+    },
+    "entry_requirements": "i) A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00;\nAND a credit in:\nAdditional Mathematics at SPM level or its equivalent; OR\nMathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.\nNote: Students from Matriculation / Foundation or its equivalent can be exempted from taking the Reinforcement Mathematics, provided that the Mathematics offered at that programme level is equivalent / more than the Additional Mathematics offered at an SPM level.\nOR;\nii) A pass in STPM (Art Stream) with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects;\nAND a credit in:\nAdditional Mathematics at SPM level or its equivalent; OR\nMathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.\nOR;\niii) A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects;\nAND a credit in:\nAdditional Mathematics at SPM level or its equivalent; OR\nMathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.\nOR;\niv) Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75. Candidates with a CGPA below 2.75 but more than 2.50 can be admitted subject to a thorough rigorous assessment;\nAND a credit in:\nAdditional Mathematics at SPM level or its equivalent; OR\nMathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the Reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before the enrolment with unconditional offer.\nOR;\nv) Pass UEC with a minimum Grade B in 5 subjects including a Mathematics subject that is equivalent to the Additional Mathematics at SPM level\nOR;\nvi) A pass in STPM (Science Stream) or its equivalent with a minimum grade of C (CGPA 2.00) in Mathematics subject and ONE (1) Science / ICT subject\nOR;\nvii) Diploma in Computing fields (Level 4, MQF) or its equivalent with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but more than 2.0 may be admitted subject to thorough internal evaluation process\nOR;\nviii) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval\nOR;\nix) Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval\nOR;\nx) Other relevant and equivalent qualifications recognised by the Malaysia Government. (Candidates can be admitted if their admission qualification contains Mathematics subject(s) equivalent to Additional Mathematics at the SPM level. If it is not equivalent, reinforcement Mathematics subject that equivalent to the SPM level must be offered in the first semester or before enrolment with unconditional offer)."
+  },
+  {
+    "name": "Bachelor of Arts in Industrial Design (Honours)",
+    "code": "BID",
+    "level": "undergraduate",
+    "school": "School of Computing & Creative Media",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 120,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 56710,
+        "per_year": 18903
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 39697,
+        "per_year": 13232,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 24563
+      }
+    },
+    "entry_requirements": "i) Pass STPM or equivalent, with a minimum Subject Grade Value(NGMP) 2.00 and credit in Bahasa Malaysia subject and pass English Language subject at SPM level;\nor\nii) Pass Unified Examination Certificate (UEC) with minimum Grade B in five (5) subjects;\nor\niii) Pass Diploma (KKM, Level 4) from recognized institution or equivalent with a minimum CGPA 2.00;\nor\niv) Pass Matriculation/Foundation from recognized institution or equivalent with minimum CGPA 2.00;\nor\nv) Pass Diploma Vocational Malaysia (DVM) (from any relevant Art and Design Programmes such as but not limited to: Fine Arts, Graphic Design, Animation, Creative Media, Product Design, Fashion Design, Furniture Design, Interior Design, Automotive Design, Traditional Arts and Crafts Design, any other Art and Design Fields) equivalent to credits in any 3 subjects SPM level; pass with credit in Bahasa Melayu 1104; minimum academic CGPA of 2.00; minimum vocational CGPA of 2.67; competence in all vocational modules; SVM cohort 2012-2016 pass History at SPM level;\nor\nvi) Other equivalent qualifications subject to approval by university’s senate and recognised by Malaysian Government. AND\nvii)Pass UCTS Interview and Portfolio Assessment."
+  },
+  {
+    "name": "Bachelor of Arts (Honours) in Creative Digital Media",
+    "code": "BDM",
+    "level": "undergraduate",
+    "school": "School of Computing & Creative Media",
+    "mode": null,
+    "duration_years": 3.5,
+    "credits": 120,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 64895,
+        "per_year": 18541
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 45427,
+        "per_year": 12979,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 28110
+      }
+    },
+    "entry_requirements": "Pass STPM or equivalent with at least a Grade C (NGMP 2.0) in 2 subjects;  OR\nPass STAM (Jayyid); OR\nPass UEC with at least a B grade in 5 subjects;  OR\nPass Matriculation / Foundation / Foundation from any IPTA / IPTS / Institution that is allowed to offer foundation program with CGPA of 2.00;  OR\nCreative Multimedia Diploma with a minimum CGPA of 2.5 (candidates with CGPA below 2.50 but above 2.00 may be subject to internal evaluation process);  OR\nOther equivalent qualifications subject to approval by university’s senate and recognised by Malaysian Government."
+  },
+  {
+    "name": "Bachelor of Mobile Game Development (Honours)",
+    "code": "BMD",
+    "level": "undergraduate",
+    "school": "School of Computing & Creative Media",
+    "mode": null,
+    "duration_years": 3.5,
+    "credits": 120,
+    "ftes": true,
+    "fees": {
+      "actual": {
+        "total": 65210,
+        "per_year": 18631
+      },
+      "sarawakian": {
+        "total": 0,
+        "per_year": 0,
+        "scheme": "FTES"
+      },
+      "malaysian": {
+        "total": 45647,
+        "per_year": 13042,
+        "scheme": "30% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 24210
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Bachelor of Business Administration (Hons)",
+    "code": "BBA",
+    "level": "undergraduate",
+    "school": "School of Business and Management",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 120,
+    "ftes": false,
+    "fees": {
+      "actual": {
+        "total": 48650,
+        "per_year": 16217
+      },
+      "sarawakian": {
+        "total": 24325,
+        "per_year": 8108,
+        "scheme": "50% UTS Bursary Scheme"
+      },
+      "malaysian": {
+        "total": 36488,
+        "per_year": 12163,
+        "scheme": "25% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 21100
+      }
+    },
+    "entry_requirements": "i) Pass STPM / A-level with full pass in two (2) subjects or CGPA 2.0;\nor\nii) Pass UEC with five (5) Grade B’s;\nor\niii) Pass Matriculation / Pre-U / Foundation from recognised institutions with minimum CGPA 2.0;\nor\niv) Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;\nor\nv) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Bachelor of Business (Honours) in Marketing",
+    "code": "BDM",
+    "level": "undergraduate",
+    "school": "School of Business and Management",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": 120,
+    "ftes": false,
+    "fees": {
+      "actual": {
+        "total": 48940,
+        "per_year": 16313
+      },
+      "sarawakian": {
+        "total": 24470,
+        "per_year": 8157,
+        "scheme": "50% UTS Bursary Scheme"
+      },
+      "malaysian": {
+        "total": 36705,
+        "per_year": 12235,
+        "scheme": "25% UTS Bursary Scheme"
+      },
+      "international": {
+        "per_year": 21227
+      }
+    },
+    "entry_requirements": "i) Pass STPM with minimum Grade C (GP 2.00) in any two (2) subjects, and a pass in Mathematics and English at SPM level or equivalent;\nor\nii) Pass STAM with a minimum Grade of Jayyid and a pass in Mathematics and English at SPM level;\nor\niii) Any qualifications equivalent to Diploma or Advanced Diploma (MQF, Level 4 or 5);\nor\niv) Matriculation/Foundation qualification with a minimum CGPA of 2.00 out of 4.00;\nor\nv) Pass UEC with five (5) Grade B’s;\nor\nvi) Other equivalent qualifications recognised by the Malaysian Government"
+  },
+  {
+    "name": "Master of Architecture",
+    "code": "MAR",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": "coursework",
+    "duration_years": 2.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 32850,
+        "full_time_scholarship": 17000,
+        "part_time": null,
+        "part_time_scholarship": null
+      },
+      "international": {
+        "total": 43330
+      }
+    },
+    "entry_requirements": "i) A Bachelor’s degree in Architecture from LAM accredited programme with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate; AND;\nii) Demonstrate good Architectural Design through interview and portfolio assessment; AND\niii) Minimum of six (6) months of working experience in related field.\nor\ni) A Bachelor’s degree in Architecture from LAM accredited programme with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate; AND\nii) Demonstrate good Architectural Design through interview and portfolio assessment; AND\niii) Minimum of three (3) years of working experience in related field.\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Master of Construction Management",
+    "code": null,
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": "coursework",
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 20950,
+        "full_time_scholarship": 10950,
+        "part_time": 21600,
+        "part_time_scholarship": 11600
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Master of Project Management",
+    "code": "MPM",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": "coursework",
+    "duration_years": 1.5,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 21950,
+        "full_time_scholarship": 11450,
+        "part_time": 22700,
+        "part_time_scholarship": 12200
+      },
+      "international": {
+        "total": 30000
+      }
+    },
+    "entry_requirements": "i) A Bachelor’s degree with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate;\nor\nii) A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate, subject to a minimum of five (5) years of working experience;;\nor\niii) For entry requirement through APEL, applicants must be/have:\na Malaysian citizen; and\nat least 30 years of age in the year of application; and\nat least STPM/Diploma/equivalent qualifications; and\nrelevant work experience (subject to appropriate APEL assessment conducted by MQA).\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Master of Business Administration",
+    "code": "MBA",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": "coursework",
+    "duration_years": 1.5,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 21850,
+        "full_time_scholarship": 11350,
+        "part_time": 22300,
+        "part_time_scholarship": 11800
+      },
+      "international": {
+        "total": 30000
+      }
+    },
+    "entry_requirements": "i) A Bachelor’s degree with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the University Senate;\nor\nii) A Bachelor’s Degree below a CGPA of 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to a minimum of five (5) years working experiences in related fields.;\nor\niii) Through APEL as approved by the Ministry of Education (MOE)\nApplicant must be/have:\na Malaysian citizen; and\nat least 30 years of age in the year of application; and\nat least STPM/Diploma/equivalent qualifications; and\nrelevant work experience (subject to appropriate APEL assessment conducted by MQA).\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Master of Science in Business Management",
+    "code": "MBM",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": 2.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 10300,
+        "full_time_scholarship": 6550,
+        "part_time": 10750,
+        "part_time_scholarship": 7000
+      },
+      "international": {
+        "total": 18000
+      }
+    },
+    "entry_requirements": "i) A Bachelor’s degree in business related field with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate;\nor\nii) A Bachelor’s degree not meeting CGPA of 2.75 but above the CGPA of 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to internal assessment;\nor\niii) A Bachelor’s degree below a CGPA of 2.50 out of 4.00, or its equivalent qualifications may be accepted, subject to a minimum of five (5) years of working experience.\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Master of Science in Architecture",
+    "code": null,
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 10300,
+        "full_time_scholarship": 6550,
+        "part_time": 10750,
+        "part_time_scholarship": 7000
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Master of Science in Construction Management",
+    "code": null,
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 10300,
+        "full_time_scholarship": 6550,
+        "part_time": 10750,
+        "part_time_scholarship": 7000
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Master of Engineering",
+    "code": "MEG",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": 2.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 12300,
+        "full_time_scholarship": 8550,
+        "part_time": 14750,
+        "part_time_scholarship": 11000
+      },
+      "international": {
+        "total": 19500
+      }
+    },
+    "entry_requirements": "i) A Bachelor’s degree in Engineering / Engineering Technology with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate;\nor\nii) A Bachelor’s degree in Engineering / Engineering Technology not meeting CGPA of 2.75 but above CGPA of 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to internal assessment;\nor\niii) A Bachelor’s degree in Engineering / Engineering Technology with CGPA below 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to a minimum of five (5) years working experience in relevant field;\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Master of Science in Applied Sciences",
+    "code": "MAS",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 12300,
+        "full_time_scholarship": 8550,
+        "part_time": 14750,
+        "part_time_scholarship": 11000
+      }
+    },
+    "entry_requirements": "i)A Bachelor’s degree with minimum CGPA of 2.75 out of 4.00 or its equivalent qualifications as accepted by the University Senate; ;\nor\nii) A Bachelor’s degree not meeting CGPA of 2.75 but above CGPA of 2.50 out of 4.00 or its equivalent qualifications can be accepted, subject to rigorous internal assessment;\nor\niii) A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications may be accepted, subject to a minimum of five (5) years working experience in relevant field;\nor\niv) Other equivalent qualifications recognised by Malaysian Government.\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Master in Computing",
+    "code": "MIC",
+    "level": "master",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 12300,
+        "full_time_scholarship": 8550,
+        "part_time": 14750,
+        "part_time_scholarship": 11000
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Doctor of Philosophy (PhD) in Business Management",
+    "code": "PBM",
+    "level": "phd",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 17250,
+        "full_time_scholarship": 11000,
+        "part_time": 15700,
+        "part_time_scholarship": 10450
+      },
+      "international": {
+        "total": 26000
+      }
+    },
+    "entry_requirements": "i) Applicants for the Doctor of Philosophy (PhD) programme must possess:\nMaster’s degree (Level 7 MQF) in a business or related field accepted by the University Senate; OR\nOther qualifications equivalent to a Master’s degree (Level 7 MQF) as accepted by University Senate.\nii) Candidates currently pursuing the Master’s programme by research in the University and who are recommended by the Postgraduate Committee to upgrade their status to a Doctoral programme can also be considered, subject to the University Senate’s approval.\n* Note:\nThere shall be no direct entry from Bachelor’s degree level to Doctoral degree level.\nCandidates with Bachelor’s degree qualification, registered for Master’s degree by Research programmes may apply to convert their candidacy to Doctoral degree programmes.\nApplication of conversion must be done within one (1) year after candidate has registered for Master’s degree programmes.\nCandidates registered for Master’s degree programmes with at least CGPA 3.67 at Bachelor’s degree level may apply to convert their candidacy to the doctoral degree programmes subject to:\na. Having shown competency and capability in conducting research at Doctoral degree level\nb. Approval by the University Senate.\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Doctor of Philosophy (PhD) in Architecture",
+    "code": null,
+    "level": "phd",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 17250,
+        "full_time_scholarship": 11000,
+        "part_time": 15700,
+        "part_time_scholarship": 10450
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Doctor of Philosophy (PhD) in Construction Management",
+    "code": null,
+    "level": "phd",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 17250,
+        "full_time_scholarship": 11000,
+        "part_time": 15700,
+        "part_time_scholarship": 10450
+      }
+    },
+    "entry_requirements": null
+  },
+  {
+    "name": "Doctor of Philosophy (PhD) in Engineering",
+    "code": "PEG",
+    "level": "phd",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 21250,
+        "full_time_scholarship": 15000,
+        "part_time": 21700,
+        "part_time_scholarship": 16450
+      },
+      "international": {
+        "total": 32000
+      }
+    },
+    "entry_requirements": "i) Applicants for the Doctor of Philosophy (PhD) programme must possess\nRecognized Master’s degree in Engineering or its equivalent; or\nOther qualifications equivalent to a Master’s degree that are accepted by the University Senate.\nor\nii) Candidates currently pursuing the Master’s programme by research in the University, and who are recommended by the Postgraduate Committee to upgrade their status to a Doctoral programme can also be considered, subject to the University Senate’s approval.\n* Note:\nThere shall be no direct entry from Bachelor’s degree level to Doctoral degree level.\nCandidates registered for Master’s degree programmes with at least CGPA 3.67 at Bachelor’s degree level may apply to convert their candidacy to the Doctoral degree programmes subject to:\na. Having shown competency and capability in conducting research at Doctoral degree level\nb. Approval by the University Senate.\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Doctor of Philosophy (PhD) in Applied Sciences",
+    "code": "PAS",
+    "level": "phd",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": 3.0,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 21250,
+        "full_time_scholarship": 15000,
+        "part_time": 21700,
+        "part_time_scholarship": 16450
+      },
+      "international": {
+        "total": 32000
+      }
+    },
+    "entry_requirements": "i) Applicants for the Doctor of Philosophy (PhD) programme must possess:\nA Master’s degree accepted by the University Senate; OR\nOther qualifications equivalent to a Master’s degree that are accepted by the University Senate.\n– Fulfill  English Language Requirements (for International Students only)"
+  },
+  {
+    "name": "Doctor of Philosophy (PhD) in Computing",
+    "code": "PIC",
+    "level": "phd",
+    "school": "School of Postgraduate Studies",
+    "mode": null,
+    "duration_years": null,
+    "credits": null,
+    "ftes": false,
+    "fees": {
+      "local": {
+        "full_time": 21250,
+        "full_time_scholarship": 15000,
+        "part_time": 21700,
+        "part_time_scholarship": 16450
+      }
+    },
+    "entry_requirements": null
+  }
+]
