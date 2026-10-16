@@ -39,22 +39,6 @@ Every answer shows which tool it used, links its sources, and names the AI model
 
 ---
 
-## 🚀 From a 2024 assignment to a production-style app
-
-UTSmartBot started as a university assignment: a Flask page that sent one huge prompt to Gemini. It has since been rebuilt step by step:
-
-| | 2024 assignment | Now |
-|---|---|---|
-| **Knowledge** | 360 KB of text pasted into every request | Hybrid search sends only the relevant passages (**96% less**) |
-| **Accuracy** | Unmeasured; the old prompt even had the wrong phone prefix | A 49-question evaluation set, run after every change |
-| **Facts** | 2024 data typed by hand | Snapshot of the UTS website and school staff pages, refreshed with one command |
-| **Exact answers** | The AI did the arithmetic | Python tools for fees, staff and programmes |
-| **Chats** | One conversation shared by every visitor | Private per browser; the server stores nothing |
-| **AI provider** | One model; any outage broke the bot | Four providers with automatic fallback |
-| **Deployment** | Local only | Live on Render, with per-visitor rate limits |
-
----
-
 ## 🧠 How it works
 
 ```mermaid
