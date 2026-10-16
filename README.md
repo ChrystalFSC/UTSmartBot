@@ -1,14 +1,3 @@
----
-title: UTSmartBot
-emoji: 🎓
-colorFrom: indigo
-colorTo: blue
-sdk: docker
-app_port: 7860
-pinned: false
-short_description: AI assistant for the University of Technology Sarawak
----
-
 # UTSmartBot
 
 UTSmartBot is a Flask-based AI chatbot designed to answer questions related to the University of Technology Sarawak (UTS). It works with several AI providers (Google Gemini, Groq, OpenRouter or a local Ollama model) and serves as a friendly and intelligent virtual assistant capable of providing information on admissions, faculties, facilities, and general campus life.
@@ -117,7 +106,7 @@ It was chosen by running the search evaluation (34 questions) against each candi
 | `minishlab/potion-multilingual-128M` | 28/34 | < 0.01 s | 1 s |
 | Keyword search only | 30/33 | – | – |
 
-To use another model (or `gemini-embedding-001`, which is limited to about 1,000 requests per day on the free tier), set `EMBEDDING_MODEL` in `.env` and rebuild the index with `python -m rag.ingest`. The index records which model built it, and the app refuses to start with a mismatched model rather than giving silently bad search results.
+To use another model (or `gemini-embedding-001`, which is limited to about 1,000 requests per day on the free tier), set `EMBEDDING_MODEL` in `.env` and rebuild the index with `python -m rag.ingest`. Each model has its own index file (`data/index-<model>.npz`), so the repository holds both the local-model index and the Gemini one used on Render. Each index records the chunks it was built from, and the app refuses to start with an out-of-date index rather than giving silently bad search results.
 
 ## Chat Model Providers
 Search runs locally, so only the chat model needs an API. Free tiers are limited (Gemini allows as few as 20 requests per day for `gemini-3.5-flash`, and a question that uses a tool takes two requests), so the bot can chain several providers:
@@ -219,24 +208,26 @@ docker run --rm -p 7860:7860 --env-file .env -e BEHIND_PROXY=0 utsmartbot
 ```
 Then open [http://localhost:7860](http://localhost:7860). The image includes the embedding model (about 3 GB), so the first build takes a while.
 
-## Deploy to Hugging Face Spaces (free)
-Spaces' free *CPU basic* hardware (2 vCPU, 16 GB RAM) is enough for the local embedding model; the block at the top of this README tells Hugging Face to build the `Dockerfile` and use port 7860.
+## Deploy to Render (free)
+[Render](https://render.com)'s free web service has 512 MB of RAM, which is too little for the local embedding model, so the deployment searches with **Gemini embeddings** instead (`EMBEDDING_MODEL=gemini-embedding-001`, using `data/index-gemini-embedding-001.npz`). Everything is described in `render.yaml`.
 
-1. Create a Space at [huggingface.co/new-space](https://huggingface.co/new-space): choose **Docker** (blank template) and **CPU basic**.
-2. In the Space's **Settings → Variables and secrets**, add your keys as **secrets**: `GEMINI_API_KEY`, `GROQ_API_KEY`, `OPENROUTER_API_KEY`, and `LLM_CHAIN` (see `.env.example`). Never commit `.env`.
-3. Push this repository to the Space (it is a git repository too). Use a Hugging Face [access token](https://huggingface.co/settings/tokens) with write access as the password:
-   ```bash
-   git remote add space https://huggingface.co/spaces/<your-username>/<space-name>
-   ```
-   ```bash
-   git push space main
-   ```
-4. Watch the **Logs** tab while it builds (about 10 minutes the first time), then open the Space's link.
+1. Sign up at [render.com](https://render.com) with your GitHub account.
+2. Click **New → Blueprint**, pick this repository and confirm. Render reads `render.yaml`.
+3. When asked, enter the secrets `GEMINI_API_KEY`, `GROQ_API_KEY` and `OPENROUTER_API_KEY` (from your `.env`).
+4. Wait for the first build (a few minutes), then open the `https://utsmartbot-....onrender.com` link.
 
-Free Spaces sleep after about two days without visitors and wake up on the next visit, which takes a minute or two.
+Every `git push` to `main` redeploys automatically. Free services sleep after 15 minutes without visitors; the next visit wakes them up, which takes about a minute. Search uses one Gemini embedding request per question (free tier: about 1,000 per day); if that runs out, search falls back to keywords until the next day.
+
+If you change the knowledge files, rebuild both search indexes before pushing:
+```bash
+python -m rag.ingest
+```
+```bash
+EMBEDDING_MODEL=gemini-embedding-001 python -m rag.ingest
+```
 
 ### Usage limits
-A public link lets anyone use your API keys, so questions are limited per visitor and for the whole site (see `rate_limit.py`). Change the limits with Space variables, or `0` to turn one off:
+A public link lets anyone use your API keys, so questions are limited per visitor and for the whole site (see `rate_limit.py`). Change the limits with environment variables (in Render: **Environment**), or `0` to turn one off:
 
 | Variable | Default | Meaning |
 |---|---|---|

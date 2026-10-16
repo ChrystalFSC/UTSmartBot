@@ -1,2 +1,0 @@
-# Binary search index: stored with Git LFS (required by Hugging Face Spaces)
-*.npz filter=lfs diff=lfs merge=lfs -text

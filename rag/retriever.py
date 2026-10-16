@@ -9,14 +9,15 @@ import functools
 import json
 import logging
 import math
+import os
 import re
 import time
 from collections import Counter
 
 import numpy as np
 
-from . import CHUNKS_PATH, DOCS_PATH, INDEX_PATH
-from .embeddings import get_embedder
+from . import CHUNKS_PATH, DOCS_PATH, index_path
+from .embeddings import DEFAULT_EMBEDDING_MODEL, get_embedder
 
 log = logging.getLogger(__name__)
 
@@ -88,21 +89,23 @@ class BM25:
 
 class Retriever:
     def __init__(self, client=None, embedder=None):
-        if not all(p.exists() for p in (INDEX_PATH, CHUNKS_PATH, DOCS_PATH)):
-            raise SystemExit("Search index not found. Build it with: python -m rag.ingest")
-        index = np.load(INDEX_PATH)
-        index_model = str(index["model"]) if "model" in index else "gemini-embedding-001"
-        self.embedder = embedder or get_embedder(index_model, client)
-        if self.embedder.name != index_model:
-            raise SystemExit(f"The search index was built with {index_model} but EMBEDDING_MODEL is "
-                             f"{self.embedder.name}. Rebuild it with: python -m rag.ingest")
+        model = embedder.name if embedder else (os.environ.get("EMBEDDING_MODEL") or DEFAULT_EMBEDDING_MODEL)
+        path = index_path(model)
+        rebuild = f"Build it with EMBEDDING_MODEL={model} set: python -m rag.ingest"
+        if not all(p.exists() for p in (path, CHUNKS_PATH, DOCS_PATH)):
+            raise SystemExit(f"No search index for {model} ({path.name}). {rebuild}")
+        index = np.load(path)
+        self.chunks = json.loads(CHUNKS_PATH.read_text(encoding="utf-8"))
+        # Vectors must line up with chunks.json; an index from older knowledge files would not.
+        if "ids" in index and list(index["ids"]) != [c["id"] for c in self.chunks]:
+            raise SystemExit(f"The {model} search index is out of date with the knowledge files. {rebuild}")
+        self.embedder = embedder or get_embedder(model, client)
         self.vectors = index["vectors"]
         # Repeated questions (suggested questions, evals) reuse the vector instead of
         # spending another request from the embedding quota. Failures are not cached.
         self.embed_query = functools.lru_cache(maxsize=QUERY_CACHE_SIZE)(self._embed_query)
         self.keyword_only = False  # True when the last search could not use embeddings
         self.embeddings_paused_until = 0.0
-        self.chunks = json.loads(CHUNKS_PATH.read_text(encoding="utf-8"))
         self.docs = json.loads(DOCS_PATH.read_text(encoding="utf-8"))
         # Chunks in document order, so a hit can be widened to its neighbours.
         self.neighbours = {}

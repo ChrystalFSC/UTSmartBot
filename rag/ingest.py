@@ -17,7 +17,7 @@ from dataclasses import asdict
 import numpy as np
 from dotenv import load_dotenv
 
-from . import CHUNKS_PATH, DATA_DIR, DOCS_PATH, INDEX_PATH
+from . import CHUNKS_PATH, DATA_DIR, DOCS_PATH, index_path
 from .documents import chunk_document, load_local_documents
 from .embeddings import get_embedder
 
@@ -25,15 +25,18 @@ log = logging.getLogger("rag.ingest")
 
 
 def load_cache(model):
-    """Previous vectors by chunk id, if they were made with the same model."""
-    if not (INDEX_PATH.exists() and CHUNKS_PATH.exists()):
+    """Previous vectors by chunk id from this model's index, if there is one."""
+    path = index_path(model)
+    if not path.exists():
         return {}
-    index = np.load(INDEX_PATH)
-    index_model = str(index["model"]) if "model" in index else "gemini-embedding-001"
-    ids = [c["id"] for c in json.loads(CHUNKS_PATH.read_text(encoding="utf-8"))]
-    if index_model != model or len(ids) != len(index["vectors"]):
+    index = np.load(path)
+    if "ids" in index:
+        ids = list(index["ids"])
+    elif CHUNKS_PATH.exists():  # older index files did not store their chunk ids
+        ids = [c["id"] for c in json.loads(CHUNKS_PATH.read_text(encoding="utf-8"))]
+    else:
         return {}
-    return dict(zip(ids, index["vectors"]))
+    return dict(zip(ids, index["vectors"])) if len(ids) == len(index["vectors"]) else {}
 
 
 def main():
@@ -67,14 +70,20 @@ def main():
         log.info("Embedding took %.0fs", time.time() - started)
 
     DATA_DIR.mkdir(exist_ok=True)
+    path = index_path(embedder.name)
     np.savez_compressed(
-        INDEX_PATH,
+        path,
         vectors=np.stack([cache[c.id] for c in chunks]).astype(np.float32),
+        ids=np.array([c.id for c in chunks]),  # lets the retriever detect an index older than chunks.json
         model=np.array(embedder.name),  # the retriever must embed queries with the same model
     )
     CHUNKS_PATH.write_text(json.dumps([asdict(c) for c in chunks], ensure_ascii=False, indent=1), encoding="utf-8")
     DOCS_PATH.write_text(json.dumps(doc_records, ensure_ascii=False), encoding="utf-8")
-    log.info("Wrote %s, %s and %s", INDEX_PATH.name, CHUNKS_PATH.name, DOCS_PATH.name)
+    log.info("Wrote %s, %s and %s", path.name, CHUNKS_PATH.name, DOCS_PATH.name)
+    others = [p.name for p in DATA_DIR.glob("index-*.npz") if p != path]
+    if others:
+        log.info("Other indexes (%s) must be rebuilt too if the knowledge files changed, "
+                 "e.g. EMBEDDING_MODEL=<model> python -m rag.ingest", ", ".join(others))
 
 
 if __name__ == "__main__":

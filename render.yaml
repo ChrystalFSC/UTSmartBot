@@ -1,0 +1,29 @@
+# Render Blueprint: free web service built from this repository.
+# Render's free plan has 512 MB of RAM, too little for the local embedding model,
+# so search uses Gemini embeddings (data/index-gemini-embedding-001.npz) instead.
+# Secrets marked sync: false are entered in the Render dashboard, never committed.
+services:
+  - type: web
+    name: utsmartbot
+    runtime: python
+    plan: free
+    region: singapore
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT --workers 1 --threads 8 --timeout 120 UTSmartBot:app
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
+      - key: EMBEDDING_MODEL
+        value: gemini-embedding-001
+      - key: BEHIND_PROXY
+        value: "1"
+      - key: LLM_CHAIN
+        value: gemini:gemini-3.5-flash,gemini:gemini-flash-lite-latest,openrouter:openrouter/free,groq:openai/gpt-oss-20b
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false
