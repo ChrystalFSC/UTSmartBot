@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Search hit rate by embedding model</title>
+<desc id="d">multilingual-e5-large (used): 97%  (33/34); Keyword search only: 91%  (30/33); paraphrase-multilingual-MiniLM: 88%  (30/34); potion-multilingual-128M: 82%  (28/34)</desc>
+<text x="24" y="30" font-size="17" font-weight="600" fill="#1f2328">Search hit rate by embedding model</text>
+<text x="24" y="52" font-size="13" fill="#59636e">Share of evaluation questions whose answer was in the retrieved passages</text>
+<line x1="294" y1="70" x2="294" y2="202" stroke="#d1d9e0" stroke-width="1"/>
+<text x="282" y="90" font-size="13" text-anchor="end" fill="#1f2328">multilingual-e5-large (used)</text>
+<path d="M294,78 H518.92 Q522.92,78 522.92,82 V88 Q522.92,92 518.92,92 H294 Z" fill="#2a78d6"/>
+<text x="530.92" y="90" font-size="13" fill="#59636e">97%  (33/34)</text>
+<text x="282" y="124" font-size="13" text-anchor="end" fill="#1f2328">Keyword search only</text>
+<path d="M294,112 H504.76 Q508.76,112 508.76,116 V122 Q508.76,126 504.76,126 H294 Z" fill="#2a78d6"/>
+<text x="516.76" y="124" font-size="13" fill="#59636e">91%  (30/33)</text>
+<text x="282" y="158" font-size="13" text-anchor="end" fill="#1f2328">paraphrase-multilingual-MiniLM</text>
+<path d="M294,146 H497.68 Q501.68,146 501.68,150 V156 Q501.68,160 497.68,160 H294 Z" fill="#2a78d6"/>
+<text x="509.68" y="158" font-size="13" fill="#59636e">88%  (30/34)</text>
+<text x="282" y="192" font-size="13" text-anchor="end" fill="#1f2328">potion-multilingual-128M</text>
+<path d="M294,180 H483.52 Q487.52,180 487.52,184 V190 Q487.52,194 483.52,194 H294 Z" fill="#2a78d6"/>
+<text x="495.52" y="192" font-size="13" fill="#59636e">82%  (28/34)</text>
+</svg>
