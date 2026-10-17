@@ -120,6 +120,122 @@ body {
     background: rgba(255, 255, 255, 0.24);
 }
 
+/* Recent chats */
+.recent[hidden] {
+    display: none;
+}
+
+.recent-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+.recent-head h2 {
+    margin-top: 0;
+}
+
+.clear-chats {
+    border: none;
+    background: none;
+    color: #fff;
+    font: inherit;
+    font-size: 12px;
+    opacity: 0.75;
+    cursor: pointer;
+}
+
+.clear-chats:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+.chat-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 8px;
+}
+
+.chat-entry {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    transition: background 0.2s;
+}
+
+.chat-entry:hover,
+.chat-entry.active {
+    background: rgba(255, 255, 255, 0.16);
+}
+
+.chat-open {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    padding: 8px 4px 8px 12px;
+    border: none;
+    background: none;
+    color: #fff;
+    font: inherit;
+    text-align: left;
+    cursor: pointer;
+}
+
+.chat-title {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 13px;
+}
+
+.chat-when {
+    font-size: 11px;
+    opacity: 0.7;
+}
+
+.chat-delete {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    margin-right: 6px;
+    border: none;
+    border-radius: 8px;
+    background: none;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.chat-entry:hover .chat-delete,
+.chat-delete:focus-visible {
+    opacity: 0.8;
+}
+
+.chat-delete:hover {
+    background: rgba(255, 255, 255, 0.2);
+    opacity: 1;
+}
+
+.recent-note {
+    margin-top: 6px;
+    font-size: 11px;
+    opacity: 0.6;
+}
+
+/* Touch screens have no hover, so keep the delete button visible there. */
+@media (hover: none) {
+    .chat-delete {
+        opacity: 0.7;
+    }
+}
+
 /* Chat area */
 .chat {
     flex: 1;
