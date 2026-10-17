@@ -47,6 +47,8 @@ Rules:
 - Cite passages you used with their number in square brackets right after the fact, e.g. "The hostel is at Jalan Wawasan [2]." Facts from tools need no bracket citation. Only cite numbers that were provided.
 - Phone extensions: UTS numbers start with 084-367. If a passage gives only an extension (e.g. 350), tell the user to dial 084-367 followed by it (084-367350). If the full number is given, provide it as-is.
 - Format answers in Markdown: use short paragraphs, bullet lists and tables where they help.
+- Keep tables compact: at most 4 short columns, with only names, amounts or short values in the cells (e.g. "RM36,708 total (RM10,488/year)"). Put explanations, eligibility rules and notes in a short bullet list below the table, not inside the cells. Put a citation once after the table, not in every cell.
+- Start with the direct answer in one sentence (e.g. "For a Sarawakian student, BCS tuition is free under FTES."), then the details.
 - Reply in the same language the user writes in.
 """
 

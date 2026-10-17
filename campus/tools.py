@@ -29,8 +29,8 @@ FTES_NOTE = (
     "This is an FTES programme. Under the Sarawak Free Tertiary Education Scheme (FTES), eligible Sarawakians pay "
     "no tuition: it is for a first bachelor's degree, studied full-time, by students who hold no other scholarship. "
     "Students from households with a monthly per capita income of RM1,500 or less can also get an RM15,000/year "
-    "stipend. Registration fees are listed separately and may still apply. A Sarawakian who is not eligible "
-    "should ask UTS which fee applies."
+    "stipend. These are all the eligibility conditions in UTS's information; do not add others. Registration fees "
+    "are listed separately and may still apply. A Sarawakian who is not eligible should ask UTS which fee applies."
 )
 SOURCE_NOTE ="Figures are estimates from the UTS fee schedule and are subject to change; confirm with the UTS Marketing Office (084-367300)."
 
@@ -281,7 +281,9 @@ def estimate_fees(programme, student_type="malaysian", study_mode="full_time", u
         summary = fee_summary(p, student_type) or {}
         tuition = summary.get("total")
         if tuition is None and summary.get("per_year") and duration:
-            tuition = round(summary["per_year"] * duration)
+            # Exact, to the sen (19,743 x 3.5 = 69,100.50), so the model has nothing to recalculate.
+            tuition = round(summary["per_year"] * duration, 2)
+            tuition = int(tuition) if tuition == int(tuition) else tuition
             notes.append(f"UTS lists this fee per year; the total is RM{summary['per_year']:,} x {duration:g} year(s).")
         if p["level"] == "foundation" and student_type != "international":
             notes.append("Full sponsorship of foundation tuition fees is available for qualified Malaysian students "

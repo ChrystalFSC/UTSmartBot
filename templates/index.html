@@ -263,6 +263,25 @@
             return toolsHtml + renderText(text, sources) + via;
         }
 
+        // Wrap each table so it can use the full bubble width, and label every cell with its
+        // column name so that on phones each row can be shown as a card ("Tuition fee: RM0").
+        function decorateTables(html) {
+            if (!html.includes('<table')) return html;
+            const template = document.createElement('template');
+            template.innerHTML = html;
+            template.content.querySelectorAll('table').forEach(table => {
+                const headings = [...table.querySelectorAll('thead th')].map(th => th.textContent.trim());
+                table.querySelectorAll('tbody tr').forEach(row => {
+                    [...row.children].forEach((cell, i) => cell.setAttribute('data-label', headings[i] || ''));
+                });
+                const wrap = document.createElement('div');
+                wrap.className = 'table-wrap';
+                table.replaceWith(wrap);
+                wrap.appendChild(table);
+            });
+            return template.innerHTML;
+        }
+
         function renderText(text, sources) {
             const byNumber = new Map(sources.map(s => [s.n, s]));
             const linked = text.replace(CITATION_RE, (whole, list) => {
@@ -275,7 +294,7 @@
                 }).join('');
             });
 
-            let html = renderMarkdown(linked);
+            let html = decorateTables(renderMarkdown(linked));
             const cited = sources.filter(s => citedNumbers(text).has(s.n));
             if (cited.length) {
                 const items = cited.map(s => {

@@ -334,20 +334,62 @@ body {
     overflow-x: auto;
 }
 
-.bubble table {
-    border-collapse: collapse;
-    display: block;
+/* Tables: give answers with a table more room, and never break words or
+   numbers mid-way ("RM36,708" must stay on one line); wide tables scroll sideways. */
+.message.bot .bubble:has(table) {
+    max-width: min(94%, 860px);
+}
+
+.table-wrap {
+    max-width: 100%;
     overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+}
+
+.bubble table {
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: separate;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-wrap: normal;
+    word-break: normal;
+    font-variant-numeric: tabular-nums;
 }
 
 .bubble th, .bubble td {
-    padding: 6px 10px;
-    border: 1px solid var(--border);
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
     text-align: left;
+    vertical-align: top;
 }
 
 .bubble th {
     background: #F5F7FC;
+    color: var(--brand);
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.bubble tr:last-child td {
+    border-bottom: none;
+}
+
+.bubble tbody tr:nth-child(even) td {
+    background: #FAFBFE;
+}
+
+.bubble td:first-child {
+    font-weight: 500;
+    min-width: 8em;
+    max-width: 18em;
+}
+
+/* Middle columns usually hold amounts and durations: keep them on one line.
+   The first column (names) and the last (notes) wrap normally. */
+.bubble td:not(:first-child):not(:last-child) {
+    white-space: nowrap;
 }
 
 /* Citations */
@@ -543,6 +585,66 @@ body {
     color: var(--muted);
     font-size: 12px;
     text-align: center;
+}
+
+/* Phones: each table row becomes a card, with every value under its column name. */
+@media (max-width: 600px) {
+    .table-wrap {
+        overflow: visible;
+        border: none;
+        border-radius: 0;
+    }
+
+    .bubble table,
+    .bubble tbody,
+    .bubble tr,
+    .bubble td {
+        display: block;
+        width: auto;
+    }
+
+    .bubble thead {
+        display: none;
+    }
+
+    .bubble tbody tr {
+        margin-bottom: 8px;
+        padding: 6px 0;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+    }
+
+    .bubble tbody tr:nth-child(even) td {
+        background: none;
+    }
+
+    .bubble td,
+    .bubble td:not(:first-child):not(:last-child) {
+        max-width: none;
+        padding: 4px 12px;
+        border: none;
+        white-space: normal;
+    }
+
+    .bubble td::before {
+        content: attr(data-label);
+        display: block;
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+    }
+
+    /* The first cell names the row, so it reads as the card's heading. */
+    .bubble td:first-child {
+        color: var(--brand);
+        font-weight: 600;
+    }
+
+    .bubble td:first-child::before {
+        display: none;
+    }
 }
 
 /* Mobile: sidebar becomes a slide-in drawer */
