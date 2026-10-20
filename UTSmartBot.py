@@ -3,7 +3,7 @@ import logging
 import os
 
 from dotenv import load_dotenv
-from flask import Flask, Response, jsonify, render_template, request, stream_with_context
+from flask import Flask, Response, jsonify, render_template, request, send_from_directory, stream_with_context
 from werkzeug.middleware.proxy_fix import ProxyFix
 
 from llm.router import ModelUnavailable, build_router
@@ -90,6 +90,12 @@ def build_prompt(message, chunks):
 @app.route("/")
 def home():
     return render_template("index.html")
+
+
+@app.route("/favicon.ico")
+def favicon():
+    # Browsers and bookmark tools that ignore the <link rel="icon"> tags ask for this path.
+    return send_from_directory(app.static_folder, "favicon-32.png", mimetype="image/png")
 
 
 @app.route("/healthz")

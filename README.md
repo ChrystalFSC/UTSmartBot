@@ -226,7 +226,7 @@ data/                    Search indexes, one per embedding model (committed, so 
 evals/                   Evaluation questions and runner (python -m evals.run)
 tests/                   Unit tests (python -m unittest discover tests)
 templates/, static/      Chat page and styles
-docs/                    README screenshots and charts (python docs/make_charts.py)
+docs/                    README screenshots, charts and app icons (python docs/make_charts.py, docs/make_icons.py)
 Dockerfile, render.yaml  Deployment
 ```
 </details>
